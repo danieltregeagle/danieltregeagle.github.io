@@ -11,6 +11,9 @@ navbar:
       href: teaching.html
     - text: "CV"
       href: cv.html  
+  right:
+    - icon: fa-envelope-o fa-lg
+      href: mailto:danieltregeagle@gmail.com
       
 output:
   html_document:
