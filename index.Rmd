@@ -2,17 +2,34 @@
 title: "Daniel Tregeagle, Ph.D."
 ---
 
-![optional caption text](danielTregeaglePicture1.jpg)
-
-
-<!-- <img align="right" src="./photos/danielTregeaglePicture1.jpg" width = "300"> -->
+<img align="right" src="./photos/danielTregeaglePicture1.jpg" width = "300">
 
 ### Post-Doctoral Scholar
-#### Department of Agricultural and Resource Economics, UC Davis
 
 <br>
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
 
-Hello, Website!
+UNDER CONSTRUCTION
+
+<!-- I am a post-doctoral scholar in the [Deparment of Agricultural and Resource Economics at UC Davis](https://are.ucdavis.edu), where I: -->
+
+<!-- * study economic models of perennial crop production. -->
+<!-- * study age-structured agricultural capital models. -->
+<!-- * apply dynamic models from resource economics to agricultural production and policy issues. [Can I work agroenvironmental policy into this?] -->
+
+
+<!-- I received my Ph.D. in Agricultural and Resource Economics in 2017 from the [University of California at Berkeley](https://are.berkeley.edu), and received my undergraduate degree in Resource Economics (First Class Honours and University Medal) from the [University of Sydney, Australia](http://sydney.edu.au).  -->
+
+<!-- My primary fields of study are environmental & natural resource economics, and agricultural economics. My dissertation research focused on the economics of perennial crop production, with applications to Brazilian sugarcane in the context of biofuel production. -->
+
+<!-- My current projects include: -->
+
+<!--  * Analyzing the expected costs of proposed Californian pesticide use regulation -->
+<!--  * Examining the drivers of boom and bust cycles in perennial crop industries -->
+<!--  * Investigating the incentives behind the adoption of marketing orders across agricultural industries driving producer organization fund allocation (how do they spend their money?) -->
+<!--  * Crop life cycle affects the incentives for industry collective action -->
+
+<!-- Prior to beginning my Ph.D. I worked at the Australian Bureau of Agricultural Economics and Science analyzing Australian irrigation policy and the Murray-Darling Basin Plan. -->
+
+<!-- [Write up teaching paragraph--perhaps extract from Teaching Portfolio] -->
+<!-- I won the Outstanding Graduate Student Instructor Award -->
+<!-- earned and the Certificate of Teaching and Learning in Higher Education UC Berkeley.  -->
