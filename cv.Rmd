@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-CV page under construction
+[CV Download Link](files/tregeagleCV_Aug2017.pdf)

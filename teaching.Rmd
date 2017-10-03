@@ -3,3 +3,8 @@ title: "Teaching"
 ---
 
 Teaching page under construction
+
+
+<!-- [Write up teaching paragraph--perhaps extract from Teaching Portfolio] -->
+<!-- I won the Outstanding Graduate Student Instructor Award -->
+<!-- earned and the Certificate of Teaching and Learning in Higher Education UC Berkeley. -->
