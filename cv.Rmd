@@ -2,4 +2,6 @@
 title: "CV"
 ---
 
-[CV Download Link](files/tregeagleCV_2018Jun.pdf)
+[One Page CV](files/tregeagleCV_2018_09_OnePage.pdf)
+
+[CV Download Link](files/tregeagleCV_2018_08.pdf)
