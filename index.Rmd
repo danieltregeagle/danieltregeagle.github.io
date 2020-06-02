@@ -4,7 +4,7 @@ title: "Daniel Tregeagle, Ph.D."
 
 <img align="right" src="./photos/danielTregeaglePicture1.jpg" width = "300">
 
-### Post-Doctoral Scholar
+### Assistant Professor and Extension Specialist
 
 <br>
 
@@ -12,10 +12,13 @@ title: "Daniel Tregeagle, Ph.D."
 
 <!-- <div style="text-align: justify"> -->
 
-I am a post-doctoral scholar in the [Department of Agricultural and Resource Economics at UC Davis](https://are.ucdavis.edu), where I apply dynamic models from resource economics to agricultural production and policy issues. I also study the impacts of agroenvironmental policy in California. 
+I am an assistant professor and extension specialist in the [Department of Agricultural and Resource Economics at North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics). My work is focused on the economics of specialty crops and the economics of agricultural policy more generally. Applications have included analyzing agro-environmental policy, market analysis, minimizing costs of processing supply chains, and optimizing orchard replacement. 
 
-I received my Ph.D. in Agricultural and Resource Economics in 2017 from the [University of California at Berkeley](https://are.berkeley.edu), and received my undergraduate degree in Resource Economics (First Class Honours and University Medal) from the [University of Sydney, Australia](http://sydney.edu.au).
+I hold a Ph.D. and M.S. in agricultural and resource economics from the [University of California, Berkeley](https://are.berkeley.edu) as well as a Bachelor of Resource Economics (Hons. 1M) from the [University of Sydney, Australia](http://sydney.edu.au). During my postdoctoral studies at the [Department of Agricultural and Resource Economics at UC Davis](https://are.ucdavis.edu), I co-authored several inter-disciplinary reports for the California Department of Food and Agriculture analyzing the expected impacts of proposed pesticide regulations.
 
 My primary fields of study are agricultural, environmental, and natural resource economics. 
 
 </div>  
+
+
+
