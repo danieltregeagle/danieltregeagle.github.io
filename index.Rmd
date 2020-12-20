@@ -1,8 +1,16 @@
 ---
 title: "Daniel Tregeagle, Ph.D."
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
-<img align="right" src="./photos/danielTregeaglePicture2.jpg" width = "300">
+```{css, echo=FALSE}
+.floatRight{float:right;margin-left:40px;margin-bottom:500px}
+```
+
+<img class="floatRight" src="./photos/danielTregeaglePicture2.jpg" width = "300">
 
 ### Assistant Professor and Extension Specialist
 
@@ -19,6 +27,4 @@ I hold a Ph.D. and M.S. in agricultural and resource economics from the [Univers
 My primary fields of study are agricultural, environmental, and natural resource economics. 
 
 </div>  
-
-
 

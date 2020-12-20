@@ -2,6 +2,11 @@
 title: "Research"
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 <!-- Research page under construction -->
 
 My dissertation, [The Dynamics of Perennial Crop Production and Processing](https://search.proquest.com/openview/8a0410c763dd2cbd11235ab3588a1050/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
@@ -25,3 +30,12 @@ A fundamental issue in perennial crop economics is finding the optimal time to r
  <!-- * Crop life cycle affects the incentives for industry collective action -->
 
 <!-- Prior to beginning my Ph.D. I worked at the [Australian Bureau of Agricultural and Resource Economics and Sciences](http://www.agriculture.gov.au/abares) analyzing Australian irrigation policy and the Murray-Darling Basin Plan. -->
+
+
+<br>
+
+<br>
+
+<br>
+
+<img align="center" src="./photos/MagicSweetPotatoForest.jpg" width = "600" title="Tregeagle conducting fieldwork">

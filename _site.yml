@@ -9,6 +9,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Extension"
+      href: extension.html
     - text: "CV"
       href: cv.html  
   right:

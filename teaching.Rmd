@@ -1,7 +1,10 @@
 ---
 title: "Teaching"
 ---
-
+<style>
+body {
+text-align: justify}
+</style>
 <!-- Teaching page under construction -->
 
 I have had considerable teaching experience, having taught from the second year of my undergraduate program through to the end of my PhD. As a graduate student instructor (TA) at Berkeley, I received an Outstanding Graduate Student Instructor award, a Certificate of Teaching and Learning in Higher Education, and was invited to train new quantitative social science GSIs at a pre-semester, campus-wide teaching conference. As an undergraduate I served for three years as a Peer Assisted Study Session Facilitator (similar to TA) for introductory micro- and macroeconomics, during which time I received a ‘Most Valuable Facilitator’ award and helped develop a new anti-plagiarism module, the results of which I presented at a national conference. I will be pleased to provide a teaching portfolio, including a statement of teaching philosophy and student reviews, upon request.
