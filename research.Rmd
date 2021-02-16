@@ -17,19 +17,14 @@ My dissertation, [The Dynamics of Perennial Crop Production and Processing](http
 [Optimal Management of Orchards](files/OptimalManagementOfOrchards_200909.pdf) (with Leo Simon)
 
 *Abstract*:
-A fundamental issue in perennial crop economics is finding the optimal time to replace trees in an orchard. Orchards have two key characteristics: they consist of trees of multiple vintages, and the trees have a non-monotonic yield curve. We present the first analysis of optimal tree replacement in an orchard that has both characteristics. Our results show that cyclical production is optimal in the long-run, and that optimally managed orchards converge to the long-run cycle surprisingly quickly. Our results have implications for orchard valuation, orchard planting, and orchard conversion. We are also the first to provide comparative statics on the long-run cycle radius. In addition, forest management is a natural point of comparison to orchard management. We contrast the optimal replacement rules for orchards and forests to show the qualitative differences.
+A fundamental issue in perennial crop economics is finding the optimal time to replace trees in an orchard. Orchards have two key characteristics: they consist of trees of multiple vintages, and the trees have a non-monotonic yield curve. We present the first analysis of optimal tree replacement in an orchard that has both characteristics. Our results show that cyclical production is optimal in the long-run, and that optimally managed orchards converge uniformly to the long-run cycle. Our results have implications for orchard valuation, orchard planting, and orchard conversion. We are also the first to provide comparative statics on the long-run cycle radius. 
 
-<!-- My current projects include: -->
 
- <!-- * Analyzing the expected costs of proposed Californian pesticide use regulations -->
- <!-- * Examining the drivers of boom and bust cycles in perennial crop industries -->
- <!-- * Investigating how the incentives for agricultural industry collective action are affected by the life-cycle of the industry's crop -->
- <!-- * Investigating how a crop's life-cycle influences growers' decision making, including incentives for collective action and vertical coordination -->
- 
- <!-- driving producer organization fund allocation (how do they spend their money?) -->
- <!-- * Crop life cycle affects the incentives for industry collective action -->
-
-<!-- Prior to beginning my Ph.D. I worked at the [Australian Bureau of Agricultural and Resource Economics and Sciences](http://www.agriculture.gov.au/abares) analyzing Australian irrigation policy and the Murray-Darling Basin Plan. -->
+## Works in progress
+ - Identifying how optimizing average crop age can lower biorefinery costs when using perennial feedstocks
+ - Valuing improvements in crop traits for *cucurbits*
+ - Reviewing methods of measuring economic impact for extension programs
+ - Assessing the state of specialty crop supply elasticity estimates (with Zoë Plakias)
 
 
 <br>
