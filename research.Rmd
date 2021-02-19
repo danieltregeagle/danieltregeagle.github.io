@@ -9,7 +9,7 @@ text-align: justify}
 
 <!-- Research page under construction -->
 
-My dissertation, [The Dynamics of Perennial Crop Production and Processing](https://search.proquest.com/openview/8a0410c763dd2cbd11235ab3588a1050/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
+My dissertation, [The Dynamics of Perennial Crop Production and Processing](files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
 
 
 ## Working Papers
