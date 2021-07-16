@@ -8,4 +8,4 @@ text-align: justify}
 
 [One Page CV](files/tregeagleCV_2018_09_OnePage.pdf)
 
-[Full CV](files/tregeagleCV_2020_11.pdf)
+[Full CV](files/tregeagleCV_2021_07.pdf)
