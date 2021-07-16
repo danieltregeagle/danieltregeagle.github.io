@@ -14,18 +14,28 @@ My dissertation, [The Dynamics of Perennial Crop Production and Processing](file
 
 ## Working Papers
 
-[Optimal Management of Orchards](files/OptimalManagementOfOrchards_200909.pdf) (with Leo Simon)
+### [Optimal Management of Orchards](files/OptimalManagementOfOrchards_200909.pdf) (with Leo Simon)
 
 *Abstract*:
 A fundamental issue in perennial crop economics is finding the optimal time to replace trees in an orchard. Orchards have two key characteristics: they consist of trees of multiple vintages, and the trees have a non-monotonic yield curve. We present the first analysis of optimal tree replacement in an orchard that has both characteristics. Our results show that cyclical production is optimal in the long-run, and that optimally managed orchards converge uniformly to the long-run cycle. Our results have implications for orchard valuation, orchard planting, and orchard conversion. We are also the first to provide comparative statics on the long-run cycle radius. 
 
 
-## Works in progress
- - Identifying how optimizing average crop age can lower biorefinery costs when using perennial feedstocks
- - Valuing improvements in crop traits for *cucurbits*
- - Reviewing methods of measuring economic impact for extension programs
- - Assessing the state of specialty crop supply elasticity estimates (with Zoë Plakias)
+### [Managing the age of perennial crops for processing: Maximum sustainable yield is a good heuristic](files/Tregeagle_Zilberman_biorefinery_Jul07_2021.pdf) (with David Zilberman)
+*abstract*:
+Producers of perennial crops face a relationship between age and yield, raising the question: what is the optimal age of their crop? Tisdell and Da Silva (1986) argued that managing perennials for maximum sustainable yield is a good heuristic. In this paper we show that considering perennials from a supply chain perspective amplifies their argument: The addition of delivery costs provides an additional incentive to set the optimal age close to the maximum sustainable yield age.
 
+We present, to our knowledge, the first model of optimal perennial crop age when the output is used as a feedstock for a processing facility. To account for non-convexities in the cost-minimization problem, we prove, under certain assumptions on the age-yield function, that the first order conditions of the model have a solution and provide a sufficient condition for this solution to also solve the original cost-minimization problem. We generate analytical comparative statics of this solution with respect to facility size and cost parameters. 
+
+To show the empirical robustness of these results, we calibrate simulations to the sugarcane industry in S\~{a}o Paulo, Brazil and the almond industry in California, showing that that the optimal age is very close to the maximum sustainable yield age. These results support Tisdell and De Silva’s argument that maximum sustainable yield is important for practical perennial management, since the difference in cost between the two approaches is negligible and the MSY approach requires less, more easily obtainable information.
+
+
+## Works in progress
+  - Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey (with Zoë Plakias)
+  - Updating demand and supply elasticities for citrus and related crops (with Zoë Plakias)
+  - Measuring grower and market intermediary willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)
+  - Improving impact measurement for specialty crop extension programs
+  - Strengthening and expanding muscadine markets (with Chris Gunter, Mark Hoffmann, Lynette Johnson, Penelope Perkins-Veazie and Craig Mauney)
+  - Updating the Southeastern Strawberry Production Guide (PD: Mark Hoffmann)
 
 <br>
 
