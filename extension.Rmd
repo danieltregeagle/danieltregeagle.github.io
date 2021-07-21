@@ -13,6 +13,10 @@ text-align: justify}
 
 In this Winter 2021 installment of the NC State Economist, Dr. Daniel Tregeagle highlights the impacts of Covid-19 on North Carolina’s specialty crop producers and markets. He also reveals the results of a recent survey of caneberry growers on the trends, challenges and opportunities in their specialty crop sector.
 
+## [Estimated Cost of the Withdrawal of the Insecticide Chlorpyrifos for Six Major California Crops](files/Wei et al. - Estimated Cost of the Withdrawal of the Insecticid.pdf)
+
+In May 2019, the CA Department of Pesticide Regulation (DPR) initiated the cancellation of the pesticide chlorpyrifos. This article estimates the economic effects of cancellation on six major California crops. Statewide annual revenue losses are estimated at \$11.5 million, averaged across acreage and pesticide use for three base years (2015–2017): \$1.6 million for alfalfa, \$0.6 million for almonds, \$1 million for citrus, \$7.1 million for cotton, \$4.3 million for grapes, and \$3.2 million for walnuts. In addition, gross revenue losses due to reduced cotton yields are estimated to be \$6.3 million. Importantly, estimated losses are for only six crops. The total cost to California agriculture will be greater. 
+
 ## [Implications of Disrupting a Perennial Crop Replanting Cycle: The Brazilian Sugarcane Example](files/Tregeagle_Zilberman_2018_Implications of Disrupting a Perennial Crop Replanting Cycle.pdf)
 
 Brazilian sugarcane yields declined sharply in 2011, ending a decade-long expansion of the industry. In the aftermath of the 2008 financial crisis, credit-constrained farmers replanted fewer sugarcane fields, leading to an increase in the average age of canes and a decline in yield several years later. Had average age remained constant over this period, industry revenues would have been around 10% higher in 2011 and 2012. This example shows how interruptions to the regular replanting schedules of a perennial crop can have production effects years into the future.
