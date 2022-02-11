@@ -11,10 +11,10 @@ text-align: justify}
 
 My dissertation, [The Dynamics of Perennial Crop Production and Processing](files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
 
+<br> 
 
 ## Working Papers
 
-<br> 
 
 ### [Optimal Management of Orchards](files/OptimalManagementOfOrchards_200909.pdf) (with Leo Simon)
 *Abstract*:
