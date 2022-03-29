@@ -13,31 +13,51 @@ My dissertation, [The Dynamics of Perennial Crop Production and Processing](file
 
 <br> 
 
+## Peer Reviewed Publications
+
+### [Willingness-to-Pay for Produce: A Meta-Regression Analysis Comparing the Stated Preferences of Producers and Consumers](https://doi.org/10.3390/horticulturae8040290) 
+(with Alice Kilduff)
+
+*Abstract*:
+Willingness-to-pay (WTP) estimates help agribusinesses estimate whether a new product is likely to be profitable. For produce, new products, such as new fruit varieties, need to be adopted by producers before they can be sold to consumers. The study of ex ante fruit and vegetable producer preferences is relatively new. This study uses meta-regression analysis to compare the estimated WTP premium between U.S. producers and consumers to determine whether they differ. After controlling for differences in study methods, product attributes, and potential publication bias, the producer WTP was between 14.16 and 27.73 percentage points higher. Subject to several caveats and limitations, this suggests that consumer WTP can be a sufficient metric for the profitability of new produce products.
+
+<br>
+
+### [Balancing bees and pest management: Projected costs of proposed bee-protective neonicotinoid regulation in California](https://doi.org/10.1093/jee/toab231) 
+(with Kevi Mace, Jessica Rudder, Rachael Goodhue, Tor Tolhurst, Hanlin Wei, Elizabeth Grafton-Cardwell, Ian Grettnberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, and John Steggall)
+
+*Abstract*: 
+Neonicotinoid insecticides are widely used in agriculture, including in many California specialty crops. With mounting evidence that these insecticides are harmful to bees, state and national governments have increasingly regulated their use. The European Union, Canada, and United States have imposed use restrictions on several neonicotinoids, such as on the timing of applications. In 2020, California proposed a draft regulation to mitigate harm to managed pollinators from four nitroguanidine-substituted neonicotinoids (NGNs): clothianidin, dinotefuran, imidacloprid, and thiamethoxam. We use data on California pesticide use from 2015 to 2017 to analyze the economic and pest management implications of the 2020 draft proposed regulation for seven crops: almond, cherry, citrus, cotton, grape, strawberry, and tomato. From 2015 to 2017, these crops accounted for approximately 85% of total hectares treated with NGNs and 87% of NGN use by kilograms of active ingredient applied in treatments that would have been affected by the proposed regulation. These insecticides often primarily target Hemipteran insect pests. In most cases there are alternatives; however, these are often more expensive per hectare and do not have the same residual effectiveness as the NGNs, which are systemic insecticides. Overall, we estimate that pest management costs for these crops would have increased an estimated $13.6 million in 2015, $12.8 million in 2016, and $11.1 million in 2017 if the 2020 draft proposed regulation had been in effect, representing a 61% to 72% increase in the cost of managing the target pests.
+
+<br>
+
 ## Working Papers
 
 
-### [Optimal Management of Orchards](files/OptimalManagementOfOrchards_200909.pdf) (with Leo Simon)
+### [Optimal Management of Orchards](files/OptimalManagementOfOrchards_200909.pdf)
+(with Leo Simon)
+
 *Abstract*:
 A fundamental issue in perennial crop economics is finding the optimal time to replace trees in an orchard. Orchards have two key characteristics: they consist of trees of multiple vintages, and the trees have a non-monotonic yield curve. We present the first analysis of optimal tree replacement in an orchard that has both characteristics. Our results show that cyclical production is optimal in the long-run, and that optimally managed orchards converge uniformly to the long-run cycle. Our results have implications for orchard valuation, orchard planting, and orchard conversion. We are also the first to provide comparative statics on the long-run cycle radius. 
 
 <br>
 
-### [Managing the age of perennial crops for processing: Maximum sustainable yield is a good heuristic](files/refineryRotationDraft_forPublication.pdf) (with David Zilberman)
+### [Managing the age of perennial crops for processing: Maximum sustainable yield is a good heuristic](files/refineryRotationDraft_forPublication.pdf) 
+(with David Zilberman)
+
 *Abstract*:
 The design of perennial crop supply chains requires an answer to the question: what is the optimal age to replace the crop? We present a novel theoretical framework to study optimal perennial crop age when the output is used as a feedstock for a processing facility. We prove that our model has a solution and generate analytical comparative statics with respect to facility size and cost parameters. To show the empirical robustness of these theoretical results, we calibrate simulations to the sugarcane industry in Sao Paulo, Brazil and the almond industry in California, showing that that the optimal age is very close to the maximum sustainable yield age. These results support the use of maximum sustainable yield as an important management heuristic, since the difference in cost between the two approaches is negligible and the MSY approach requires less, more easily obtainable information.
 
+### 
+
 <br>
-
-### [Willingness to Pay for Produce: A Meta-Regression Analysis Comparing the Stated Preferences of Producers and Consumers](files/Kilduff_Tregeagle_WTP_for_Produce.pdf) (with Alice Kilduff)
-*Abstract*: 
-Willingness-to-pay (WTP) estimates help agribusinesses estimate whether a new product is likely to be profitable. For produce, new products, such as new fruit varieties, need to be adopted by producers before they can be sold to consumers. The study of **ex ante** produce producer preferences is relatively new. This study uses meta-regression analysis to compare the estimated WTP premium between U.S. producers and consumers to determine whether they systematically differ. After controlling for differences in study methods, product attributes, and potential publication bias, we find that producer WTP is between 14.16 and 27.73 percentage points higher. Subject to several caveats and limitations, this suggests that consumer WTP can be a sufficient metric for the profitability of new produce products.
-
 <br>
 
 ## Works in progress
   - [Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey](files/SCSE Poster Draft Final.pdf) (with Zoë Plakias, link to AAEA poster)
-  - Updating demand and supply elasticities for citrus and related crops (with Zoë Plakias and Jonathon Siegle)
+  - Updating demand and supply elasticities for citrus and related crops (with Gregory Astill, Zoë Plakias and Jonathon Siegle)
   - Measuring grower and market intermediary willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)
+  - Exploring the impact of water technology choices on native plant sales in US nurseries (with Melinda Knuth)
   - Improving impact measurement for specialty crop extension programs
   - Strengthening and expanding muscadine markets (with Chris Gunter, Mark Hoffmann, Lynette Johnson, Penelope Perkins-Veazie and Craig Mauney)
   - Updating the Southeastern Strawberry Production Guide (PD: Mark Hoffmann)
