@@ -42,13 +42,11 @@ A fundamental issue in perennial crop economics is finding the optimal time to r
 
 <br>
 
-### [Managing the age of perennial crops for processing: Maximum sustainable yield is a good heuristic](files/refineryRotationDraft_forPublication.pdf) 
+### [Minimizing the costs of biorefinery processing by managing perennial crop age: An example from Brazilian sugarcane ethanol](files/TZ1.pdf) 
 (with David Zilberman)
 
 *Abstract*:
-The design of perennial crop supply chains requires an answer to the question: what is the optimal age to replace the crop? We present a novel theoretical framework to study optimal perennial crop age when the output is used as a feedstock for a processing facility. We prove that our model has a solution and generate analytical comparative statics with respect to facility size and cost parameters. To show the empirical robustness of these theoretical results, we calibrate simulations to the sugarcane industry in Sao Paulo, Brazil and the almond industry in California, showing that that the optimal age is very close to the maximum sustainable yield age. These results support the use of maximum sustainable yield as an important management heuristic, since the difference in cost between the two approaches is negligible and the MSY approach requires less, more easily obtainable information.
-
-### 
+We develop and analyze an unexplored mechanism to reduce biorefinery supply chain costs when the feedstock is a perennial crop: adjusting the age-structure, and hence yield, of the perennial feedstock. The non-monotonicity of the age-yield function introduces a non-convexity to the cost-minimization problem. We show that, despite this, the problem has a solution and  present analytic and numeric comparative statics, finding that smaller refineries are most likely to benefit from optimizing age-structure. The model is calibrated to the sugarcane ethanol industry in the South-Central region of Brazil and shows that the cost-reductions from optimizing age, compared to maximum sustainable yield, are on the order of one percent. Generally, the magnitude of the cost reduction will depend on the life-cycle of the crop, the costs of growing and transporting the feedstock, and the size of the biorefinery. 
 
 <br>
 <br>
