@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -290,48 +287,131 @@ body {
 text-align: justify}
 </style>
 <!-- Research page under construction -->
-<p>My dissertation, <a href="files/dissertationFinal.pdf">The Dynamics of Perennial Crop Production and Processing</a>, focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.</p>
+<p>My dissertation, <a href="files/dissertationFinal.pdf">The Dynamics
+of Perennial Crop Production and Processing</a>, focused on the
+economics of perennial crop production, with applications to Brazilian
+sugarcane and the expansion of the Brazilian biofuel industry.</p>
 <p><br></p>
 <div id="peer-reviewed-publications" class="section level2">
 <h2>Peer Reviewed Publications</h2>
-<div id="willingness-to-pay-for-produce-a-meta-regression-analysis-comparing-the-stated-preferences-of-producers-and-consumers" class="section level3">
-<h3><a href="https://doi.org/10.3390/horticulturae8040290">Willingness-to-Pay for Produce: A Meta-Regression Analysis Comparing the Stated Preferences of Producers and Consumers</a></h3>
-<p>(with Alice Kilduff)</p>
-<p><em>Abstract</em>: Willingness-to-pay (WTP) estimates help agribusinesses estimate whether a new product is likely to be profitable. For produce, new products, such as new fruit varieties, need to be adopted by producers before they can be sold to consumers. The study of ex ante fruit and vegetable producer preferences is relatively new. This study uses meta-regression analysis to compare the estimated WTP premium between U.S. producers and consumers to determine whether they differ. After controlling for differences in study methods, product attributes, and potential publication bias, the producer WTP was between 14.16 and 27.73 percentage points higher. Subject to several caveats and limitations, this suggests that consumer WTP can be a sufficient metric for the profitability of new produce products.</p>
+<div
+id="minimizing-the-costs-of-biorefinery-processing-by-managing-perennial-crop-age-the-case-of-brazilian-sugarcane"
+class="section level3">
+<h3><a href="files/TZ1.pdf">Minimizing the costs of biorefinery
+processing by managing perennial crop age: The case of Brazilian
+sugarcane</a></h3>
+<p>(with David Zilberman) - Accepted at <em>Journal of Agricultural and
+Applied Economics</em></p>
+<p><em>Abstract</em>: We develop and analyze an unexplored mechanism to
+reduce biorefinery supply chain costs when the feedstock is a perennial
+crop: adjusting the age-structure, and hence yield, of the perennial
+feedstock. The non-monotonicity of the age-yield function introduces a
+non-convexity to the cost-minimization problem. We show that, despite
+this, the problem has a solution and present analytic and numeric
+comparative statics, finding that larger refineries are most likely to
+benefit from optimizing age-structure. The model is calibrated to the
+sugarcane industry in Brazil. The cost-reductions from optimizing age,
+compared to the observed regional average age, are less than one
+percent.</p>
 <p><br></p>
 </div>
-<div id="balancing-bees-and-pest-management-projected-costs-of-proposed-bee-protective-neonicotinoid-regulation-in-california" class="section level3">
-<h3><a href="https://doi.org/10.1093/jee/toab231">Balancing bees and pest management: Projected costs of proposed bee-protective neonicotinoid regulation in California</a></h3>
-<p>(with Kevi Mace, Jessica Rudder, Rachael Goodhue, Tor Tolhurst, Hanlin Wei, Elizabeth Grafton-Cardwell, Ian Grettnberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, and John Steggall)</p>
-<p><em>Abstract</em>: Neonicotinoid insecticides are widely used in agriculture, including in many California specialty crops. With mounting evidence that these insecticides are harmful to bees, state and national governments have increasingly regulated their use. The European Union, Canada, and United States have imposed use restrictions on several neonicotinoids, such as on the timing of applications. In 2020, California proposed a draft regulation to mitigate harm to managed pollinators from four nitroguanidine-substituted neonicotinoids (NGNs): clothianidin, dinotefuran, imidacloprid, and thiamethoxam. We use data on California pesticide use from 2015 to 2017 to analyze the economic and pest management implications of the 2020 draft proposed regulation for seven crops: almond, cherry, citrus, cotton, grape, strawberry, and tomato. From 2015 to 2017, these crops accounted for approximately 85% of total hectares treated with NGNs and 87% of NGN use by kilograms of active ingredient applied in treatments that would have been affected by the proposed regulation. These insecticides often primarily target Hemipteran insect pests. In most cases there are alternatives; however, these are often more expensive per hectare and do not have the same residual effectiveness as the NGNs, which are systemic insecticides. Overall, we estimate that pest management costs for these crops would have increased an estimated $13.6 million in 2015, $12.8 million in 2016, and $11.1 million in 2017 if the 2020 draft proposed regulation had been in effect, representing a 61% to 72% increase in the cost of managing the target pests.</p>
+<div
+id="willingness-to-pay-for-produce-a-meta-regression-analysis-comparing-the-stated-preferences-of-producers-and-consumers"
+class="section level3">
+<h3><a
+href="https://doi.org/10.3390/horticulturae8040290">Willingness-to-Pay
+for Produce: A Meta-Regression Analysis Comparing the Stated Preferences
+of Producers and Consumers</a></h3>
+<p>(with Alice Kilduff) - <em>Horticulturae</em></p>
+<p><em>Abstract</em>: Willingness-to-pay (WTP) estimates help
+agribusinesses estimate whether a new product is likely to be
+profitable. For produce, new products, such as new fruit varieties, need
+to be adopted by producers before they can be sold to consumers. The
+study of ex ante fruit and vegetable producer preferences is relatively
+new. This study uses meta-regression analysis to compare the estimated
+WTP premium between U.S. producers and consumers to determine whether
+they differ. After controlling for differences in study methods, product
+attributes, and potential publication bias, the producer WTP was between
+14.16 and 27.73 percentage points higher. Subject to several caveats and
+limitations, this suggests that consumer WTP can be a sufficient metric
+for the profitability of new produce products.</p>
+<p><br></p>
+</div>
+<div
+id="balancing-bees-and-pest-management-projected-costs-of-proposed-bee-protective-neonicotinoid-regulation-in-california"
+class="section level3">
+<h3><a href="https://doi.org/10.1093/jee/toab231">Balancing bees and
+pest management: Projected costs of proposed bee-protective
+neonicotinoid regulation in California</a></h3>
+<p>(with Kevi Mace, Jessica Rudder, Rachael Goodhue, Tor Tolhurst,
+Hanlin Wei, Elizabeth Grafton-Cardwell, Ian Grettnberger, Houston
+Wilson, Robert Van Steenwyk, Frank Zalom, and John Steggall) -
+<em>Journal of Economic Entomology</em></p>
+<p><em>Abstract</em>: Neonicotinoid insecticides are widely used in
+agriculture, including in many California specialty crops. With mounting
+evidence that these insecticides are harmful to bees, state and national
+governments have increasingly regulated their use. The European Union,
+Canada, and United States have imposed use restrictions on several
+neonicotinoids, such as on the timing of applications. In 2020,
+California proposed a draft regulation to mitigate harm to managed
+pollinators from four nitroguanidine-substituted neonicotinoids (NGNs):
+clothianidin, dinotefuran, imidacloprid, and thiamethoxam. We use data
+on California pesticide use from 2015 to 2017 to analyze the economic
+and pest management implications of the 2020 draft proposed regulation
+for seven crops: almond, cherry, citrus, cotton, grape, strawberry, and
+tomato. From 2015 to 2017, these crops accounted for approximately 85%
+of total hectares treated with NGNs and 87% of NGN use by kilograms of
+active ingredient applied in treatments that would have been affected by
+the proposed regulation. These insecticides often primarily target
+Hemipteran insect pests. In most cases there are alternatives; however,
+these are often more expensive per hectare and do not have the same
+residual effectiveness as the NGNs, which are systemic insecticides.
+Overall, we estimate that pest management costs for these crops would
+have increased an estimated $13.6 million in 2015, $12.8 million in
+2016, and $11.1 million in 2017 if the 2020 draft proposed regulation
+had been in effect, representing a 61% to 72% increase in the cost of
+managing the target pests.</p>
 <p><br></p>
 </div>
 </div>
 <div id="working-papers" class="section level2">
 <h2>Working Papers</h2>
 <div id="optimal-management-of-orchards" class="section level3">
-<h3><a href="files/OptimalManagementOfOrchards_200909.pdf">Optimal Management of Orchards</a></h3>
+<h3><a href="files/OptimalManagementOfOrchards_200909.pdf">Optimal
+Management of Orchards</a></h3>
 <p>(with Leo Simon)</p>
-<p><em>Abstract</em>: A fundamental issue in perennial crop economics is finding the optimal time to replace trees in an orchard. Orchards have two key characteristics: they consist of trees of multiple vintages, and the trees have a non-monotonic yield curve. We present the first analysis of optimal tree replacement in an orchard that has both characteristics. Our results show that cyclical production is optimal in the long-run, and that optimally managed orchards converge uniformly to the long-run cycle. Our results have implications for orchard valuation, orchard planting, and orchard conversion. We are also the first to provide comparative statics on the long-run cycle radius.</p>
-<p><br></p>
-</div>
-<div id="minimizing-the-costs-of-biorefinery-processing-by-managing-perennial-crop-age-an-example-from-brazilian-sugarcane-ethanol" class="section level3">
-<h3><a href="files/TZ1.pdf">Minimizing the costs of biorefinery processing by managing perennial crop age: An example from Brazilian sugarcane ethanol</a></h3>
-<p>(with David Zilberman)</p>
-<p><em>Abstract</em>: We develop and analyze an unexplored mechanism to reduce biorefinery supply chain costs when the feedstock is a perennial crop: adjusting the age-structure, and hence yield, of the perennial feedstock. The non-monotonicity of the age-yield function introduces a non-convexity to the cost-minimization problem. We show that, despite this, the problem has a solution and present analytic and numeric comparative statics, finding that smaller refineries are most likely to benefit from optimizing age-structure. The model is calibrated to the sugarcane ethanol industry in the South-Central region of Brazil and shows that the cost-reductions from optimizing age, compared to maximum sustainable yield, are on the order of one percent. Generally, the magnitude of the cost reduction will depend on the life-cycle of the crop, the costs of growing and transporting the feedstock, and the size of the biorefinery.</p>
+<p><em>Abstract</em>: A fundamental issue in perennial crop economics is
+finding the optimal time to replace trees in an orchard. Orchards have
+two key characteristics: they consist of trees of multiple vintages, and
+the trees have a non-monotonic yield curve. We present the first
+analysis of optimal tree replacement in an orchard that has both
+characteristics. Our results show that cyclical production is optimal in
+the long-run, and that optimally managed orchards converge uniformly to
+the long-run cycle. Our results have implications for orchard valuation,
+orchard planting, and orchard conversion. We are also the first to
+provide comparative statics on the long-run cycle radius.</p>
 <p><br> <br></p>
 </div>
 </div>
 <div id="works-in-progress" class="section level2">
 <h2>Works in progress</h2>
 <ul>
-<li><a href="files/SCSE%20Poster%20Draft%20Final.pdf">Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey</a> (with Zoë Plakias, link to AAEA poster)</li>
-<li>Updating demand and supply elasticities for citrus and related crops (with Gregory Astill, Zoë Plakias and Jonathon Siegle)</li>
-<li>Measuring grower and market intermediary willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)</li>
-<li>Exploring the impact of water technology choices on native plant sales in US nurseries (with Melinda Knuth)</li>
-<li>Improving impact measurement for specialty crop extension programs</li>
-<li>Strengthening and expanding muscadine markets (with Chris Gunter, Mark Hoffmann, Lynette Johnson, Penelope Perkins-Veazie and Craig Mauney)</li>
-<li>Updating the Southeastern Strawberry Production Guide (PD: Mark Hoffmann)</li>
+<li><a href="files/SCSE%20Poster%20Draft%20Final.pdf">Demand and supply
+of specialty crop supply elasticities: Insights from a profession-wide
+survey</a> (with Zoë Plakias, link to AAEA poster)</li>
+<li>Updating demand and supply elasticities for citrus and related crops
+(with Gregory Astill, Zoë Plakias and Jonathon Siegle)</li>
+<li>Measuring grower and market intermediary willingness-to-pay for
+improvements in cucurbit disease resistance (with Alice Kilduff)</li>
+<li>Exploring the impact of water technology choices on native plant
+sales in US nurseries (with Melinda Knuth)</li>
+<li>Improving impact measurement for specialty crop extension
+programs</li>
+<li>Strengthening and expanding muscadine markets (with Chris Gunter,
+Mark Hoffmann, Lynette Johnson, Penelope Perkins-Veazie and Craig
+Mauney)</li>
+<li>Updating the Southeastern Strawberry Production Guide (PD: Mark
+Hoffmann)</li>
 </ul>
 <p><br></p>
 <p><br></p>
