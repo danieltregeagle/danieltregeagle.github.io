@@ -15,7 +15,7 @@ navbar:
       href: cv.html  
   right:
     - icon: fa-envelope-o fa-lg
-      href: mailto:danieltregeagle@gmail.com
+      href: mailto:tregeagle@ncsu.edu
       
 output:
   html_document:
