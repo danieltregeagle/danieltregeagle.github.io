@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -181,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -190,9 +190,16 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
+  content: "&#xe258;";
   border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -287,19 +294,43 @@ body {
 text-align: justify}
 </style>
 <!-- Research page under construction -->
-<p>My dissertation, <a href="files/dissertationFinal.pdf">The Dynamics
-of Perennial Crop Production and Processing</a>, focused on the
+<p>My dissertation, <a href="files/dissertationFinal.pdf">The dynamics
+of perennial crop production and processing</a>, focused on the
 economics of perennial crop production, with applications to Brazilian
 sugarcane and the expansion of the Brazilian biofuel industry.</p>
 <p><br></p>
 <div id="peer-reviewed-publications" class="section level2">
 <h2>Peer Reviewed Publications</h2>
 <div
+id="developing-practical-measures-of-the-price-of-pesticide-resistance-a-flexible-computational-framework-with-global-sensitivity-analysis"
+class="section level3">
+<h3><a
+href="https://ageconsearch.umn.edu/record/335859/files/26188.pdf">Developing
+practical measures of the price of pesticide resistance: A flexible
+computational framework with global sensitivity analysis</a></h3>
+<p>(with Chanheung Cho, Zachary Brown, and Kevin Gross) - Accepted at
+<em>Journal of the Agricultural and Applied Economics
+Association</em>.</p>
+<p><em>Abstract</em>: Pesticide resistance poses an increasing challenge
+for agricultural sustainability. Pesticide susceptibility is a
+depletable biological resource, but resistance management rarely
+quantifies marginal, forward-looking economic costs to users of
+depleting this resource. We use a generic stochastic bioeconomic model
+of pesticide resistance evolution in a crop pest population, stochastic
+dynamic programming, and global sensitivity analysis to analyze the
+‘marginal user costs’ of resistance. The most impactful parameters on
+these costs are population density dependence and pesticide prices.
+Least impactful is the fitness cost of resistance, which is noteworthy
+because of prior emphasis on this parameter in the resistance management
+literature.</p>
+<p><br></p>
+</div>
+<div
 id="estimating-perennial-crop-supply-response-a-methodology-literature-review"
 class="section level3">
-<h3><a href="files/AGECON-MS2023160-For-Posting.pdf">Estimating
-Perennial Crop Supply Response: A Methodology Literature Review</a></h3>
-<p>(with Jonathon Siegle, Greg Astill, and Zoë Plakias) - Accepted at
+<h3><a href="https://doi.org/10.1111/agec.12812">Estimating perennial
+crop supply response: A methodology literature review</a></h3>
+<p>(with Jonathon Siegle, Greg Astill, and Zoë Plakias) - Early View at
 <em>Agricultural Economics</em>.</p>
 <p><em>Abstract</em>: Perennial crops are important both economically
 and as a component of a healthy and nutritious diet (e.g., many fruits
@@ -343,9 +374,9 @@ compared to the observed regional average age, are less than 1%.</p>
 id="willingness-to-pay-for-produce-a-meta-regression-analysis-comparing-the-stated-preferences-of-producers-and-consumers"
 class="section level3">
 <h3><a
-href="https://doi.org/10.3390/horticulturae8040290">Willingness-to-Pay
-for Produce: A Meta-Regression Analysis Comparing the Stated Preferences
-of Producers and Consumers</a></h3>
+href="https://doi.org/10.3390/horticulturae8040290">Willingness-to-pay
+for produce: A meta-regression analysis comparing the stated preferences
+of producers and consumers</a></h3>
 <p>(with Alice Kilduff) - <em>Horticulturae</em> 2022, 8(4), 290.</p>
 <p><em>Abstract</em>: Willingness-to-pay (WTP) estimates help
 agribusinesses estimate whether a new product is likely to be
@@ -401,30 +432,28 @@ managing the target pests.</p>
 <div id="working-papers" class="section level2">
 <h2>Working Papers</h2>
 <div
-id="developing-practical-measures-of-the-price-of-pesticide-resistance-a-flexible-computational-framework-with-global-sensitivity-analysis"
+id="predicting-perennial-crop-yields-using-the-replant-rate-the-case-of-sugarcane-in-brazil"
 class="section level3">
-<h3><a
-href="https://ageconsearch.umn.edu/record/335859/files/26188.pdf">Developing
-Practical Measures of the Price of Pesticide Resistance: A Flexible
-Computational Framework with Global Sensitivity Analysis</a></h3>
-<p>(with Chanheung Cho, Zachary Brown, and Kevin Gross)</p>
-<p><em>Abstract</em>: Pesticide resistance poses an increasing challenge
-for agricultural sustainability. Pesticide susceptibility is a
-depletable biological resource, but resistance management rarely
-quantifies marginal, forward-looking economic costs to users of
-depleting this resource. We use a generic stochastic bioeconomic model
-of pesticide resistance evolution in a crop pest population, stochastic
-dynamic programming, and global sensitivity analysis to analyze the
-‘marginal user costs’ of resistance. The most impactful parameters on
-these costs are population density dependence and pesticide prices.
-Least impactful is the fitness cost of resistance, which is noteworthy
-because of prior emphasis on this parameter in the resistance management
-literature.</p>
+<h3><a href="files/230821sugarcaneReplanting.pdf">Predicting perennial
+crop yields using the replant rate: The case of sugarcane in
+Brazil</a></h3>
+<p>(with David Zilberman)</p>
+<p><em>Abstract</em>: This paper presents a novel and parsimonious
+method of predicting the dynamic yield impacts of a change in a
+perennial crop’s replant rate using only data on the crop’s age-yield
+function. We test the econometric specification implied by this model on
+Brazilian sugarcane data and find that it explains approximately one
+third of yield variation during the study period of 2005 to 2013,
+lending support to the hypothesis that reductions in the renewal rate
+after the financial crisis in 2008–9 and subsequent compensatory
+replanting contributed to this yield decline. The framework presented
+here is flexible and can be applied to any other perennial crop, so long
+as data on the age-yield function is available.</p>
 <p><br></p>
 </div>
 <div id="optimal-management-of-orchards" class="section level3">
 <h3><a href="files/OptimalManagementOfOrchards_200909.pdf">Optimal
-Management of Orchards</a></h3>
+management of orchards</a></h3>
 <p>(with Leo Simon)</p>
 <p><em>Abstract</em>: A fundamental issue in perennial crop economics is
 finding the optimal time to replace trees in an orchard. Orchards have
@@ -445,10 +474,14 @@ provide comparative statics on the long-run cycle radius.</p>
 <li><a href="files/SCSE%20Poster%20Draft%20Final.pdf">Demand and supply
 of specialty crop supply elasticities: Insights from a profession-wide
 survey</a> (with Zoë Plakias, link to AAEA poster)</li>
-<li>Updating demand and supply elasticities for citrus and related crops
-(with Gregory Astill, Zoë Plakias and Jonathon Siegle)</li>
-<li>Measuring grower and market intermediary willingness-to-pay for
-improvements in cucurbit disease resistance (with Alice Kilduff)</li>
+<li>The welfare impacts of citrus greening (with Gregory Astill and Zoë
+Plakias)</li>
+<li>Perennial crop supply response in state-space models with
+non-negativity constraints (with Gregory Astill and Zoë Plakias)</li>
+<li>Measuring grower willingness-to-pay for improvements in cucurbit
+disease resistance (with Alice Kilduff)</li>
+<li>Measuring grower willingness-to-pay for improvements in sweetpotato
+disease resistance</li>
 <li>Exploring the impact of water technology choices on native plant
 sales in US nurseries (with Melinda Knuth, Alicia Rihn, Bridget Behe,
 Marco Palma, and Bryan Peterson)</li>

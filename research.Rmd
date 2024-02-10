@@ -9,21 +9,29 @@ text-align: justify}
 
 <!-- Research page under construction -->
 
-My dissertation, [The Dynamics of Perennial Crop Production and Processing](files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
+My dissertation, [The dynamics of perennial crop production and processing](files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
 
 <br> 
 
 ## Peer Reviewed Publications
 
-### [Estimating Perennial Crop Supply Response: A Methodology Literature Review](files/AGECON-MS2023160-For-Posting.pdf)
-(with Jonathon Siegle, Greg Astill, and Zoë Plakias) - Accepted at *Agricultural Economics*.
+### [Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis](https://ageconsearch.umn.edu/record/335859/files/26188.pdf) 
+(with Chanheung Cho, Zachary Brown, and Kevin Gross) - Accepted at *Journal of the Agricultural and Applied Economics Association*.
+
+*Abstract*:
+Pesticide resistance poses an increasing challenge for agricultural sustainability. Pesticide susceptibility is a depletable biological resource, but resistance management rarely quantifies marginal, forward-looking economic costs to users of depleting this resource. We use a generic stochastic bioeconomic model of pesticide resistance evolution in a crop pest population, stochastic dynamic programming, and global sensitivity analysis to analyze the ‘marginal user costs’ of resistance. The most impactful parameters on these costs are population density dependence and pesticide prices. Least impactful is the fitness cost of resistance, which is noteworthy because of prior emphasis on this parameter in the resistance management literature.    
+
+<br>
+
+### [Estimating perennial crop supply response: A methodology literature review](https://doi.org/10.1111/agec.12812)
+(with Jonathon Siegle, Greg Astill, and Zoë Plakias) - Early View at *Agricultural Economics*.
 
 *Abstract*:
 Perennial crops are important both economically and as a component of a healthy and nutritious diet (e.g., many fruits and nuts). However, the study of perennial crop production and farmer response to output price changes (i.e., supply response) is complex thanks to the dynamic nature of investment and decision making in these industries. The body of literature relevant to perennial crop supply response is also small relative to that of annual commodity crops. In this article, we contribute the first literature review on perennial crop supply response modeling in more than 30 years. We catalog advancements in estimating perennial crop supply response and discuss the application of these methods and trade-offs economists should be aware of when using them. In addition, we highlight future modeling developments that may be valuable to the field, with the hope this research will encourage additional economic research on this interesting and important topic and in turn provide new insights for perennial crop producers and policymakers.
 
 <br>
 
-### [Minimizing the costs of biorefinery processing by managing perennial crop age: The case of Brazilian sugarcane ](https://doi.org/10.1017/aae.2023.21) 
+### [Minimizing the costs of biorefinery processing by managing perennial crop age: The case of Brazilian sugarcane](https://doi.org/10.1017/aae.2023.21) 
 (with David Zilberman) - *Journal of Agricultural and Applied Economics*, 2023, 55(2), 376--398.
 
 *Abstract*:
@@ -31,7 +39,7 @@ We develop and analyze an unexplored mechanism to reduce biorefinery supply chai
 
 <br>
 
-### [Willingness-to-Pay for Produce: A Meta-Regression Analysis Comparing the Stated Preferences of Producers and Consumers](https://doi.org/10.3390/horticulturae8040290) 
+### [Willingness-to-pay for produce: A meta-regression analysis comparing the stated preferences of producers and consumers](https://doi.org/10.3390/horticulturae8040290) 
 (with Alice Kilduff) - *Horticulturae* 2022, 8(4), 290.
 
 *Abstract*:
@@ -49,15 +57,15 @@ Neonicotinoid insecticides are widely used in agriculture, including in many Cal
 
 ## Working Papers
 
-### [Developing Practical Measures of the Price of Pesticide Resistance: A Flexible Computational Framework with Global Sensitivity Analysis](https://ageconsearch.umn.edu/record/335859/files/26188.pdf) 
-(with Chanheung Cho, Zachary Brown, and Kevin Gross)
+### [Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil](files/230821sugarcaneReplanting.pdf)
+(with David Zilberman)
 
 *Abstract*:
-Pesticide resistance poses an increasing challenge for agricultural sustainability. Pesticide susceptibility is a depletable biological resource, but resistance management rarely quantifies marginal, forward-looking economic costs to users of depleting this resource. We use a generic stochastic bioeconomic model of pesticide resistance evolution in a crop pest population, stochastic dynamic programming, and global sensitivity analysis to analyze the ‘marginal user costs’ of resistance. The most impactful parameters on these costs are population density dependence and pesticide prices. Least impactful is the fitness cost of resistance, which is noteworthy because of prior emphasis on this parameter in the resistance management literature.    
+This paper presents a novel and parsimonious method of predicting the dynamic yield impacts of a change in a perennial crop’s replant rate using only data on the crop’s age-yield function. We test the econometric specification implied by this model on Brazilian sugarcane data and find that it explains approximately one third of yield variation during the study period of 2005 to 2013, lending support to the hypothesis that reductions in the renewal rate after the financial crisis in 2008–9 and subsequent compensatory replanting contributed to this yield decline. The framework presented here is flexible and can be applied to any other perennial crop, so long as data on the age-yield function is available.
 
 <br>
 
-### [Optimal Management of Orchards](files/OptimalManagementOfOrchards_200909.pdf)
+### [Optimal management of orchards](files/OptimalManagementOfOrchards_200909.pdf)
 (with Leo Simon)
 
 *Abstract*:
@@ -70,8 +78,10 @@ A fundamental issue in perennial crop economics is finding the optimal time to r
 
 ## Works in progress
   - [Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey](files/SCSE Poster Draft Final.pdf) (with Zoë Plakias, link to AAEA poster)
-  - Updating demand and supply elasticities for citrus and related crops (with Gregory Astill, Zoë Plakias and Jonathon Siegle)
-  - Measuring grower and market intermediary willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)
+  - The welfare impacts of citrus greening (with Gregory Astill and Zoë Plakias)
+  - Perennial crop supply response in state-space models with non-negativity constraints (with Gregory Astill and Zoë Plakias)
+  - Measuring grower willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)
+  - Measuring grower willingness-to-pay for improvements in sweetpotato disease resistance
   - Exploring the impact of water technology choices on native plant sales in US nurseries (with Melinda Knuth, Alicia Rihn, Bridget Behe, Marco Palma, and Bryan Peterson)
   - Strengthening and expanding muscadine markets (with Chris Gunter, Mark Hoffmann, Lynette Johnson, Penelope Perkins-Veazie and Craig Mauney)
   - Updating the Southeastern Strawberry Production Guide (PD: Mark Hoffmann)
