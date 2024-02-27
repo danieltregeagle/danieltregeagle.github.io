@@ -15,7 +15,7 @@ My dissertation, [The dynamics of perennial crop production and processing](file
 
 ## Peer Reviewed Publications
 
-### [Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis](https://ageconsearch.umn.edu/record/335859/files/26188.pdf) 
+### [Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis](https://doi.org/10.1002/jaa2.107) 
 (with Chanheung Cho, Zachary Brown, and Kevin Gross) - Accepted at *Journal of the Agricultural and Applied Economics Association*.
 
 *Abstract*:
