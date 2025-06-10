@@ -1,4 +1,6 @@
 baseURL = "https://www.danieltregeagle.com/"
+relativeURLs = true
+canonifyURLs = true
 languageCode = "en-us"
 title = "Daniel Tregeagle, Ph.D."
 theme = "PaperMod"
