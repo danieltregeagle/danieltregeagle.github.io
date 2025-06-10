@@ -72,6 +72,7 @@ California review of the herbicide dacthal triggered by the requirements of Cali
 * Daniel Tregeagle, Ph.D.
   :PROPERTIES:
   :EXPORT_FILE_NAME: index
+  :EXPORT_HUGO_SECTION: .
   :END:
 
 #+begin_export md
