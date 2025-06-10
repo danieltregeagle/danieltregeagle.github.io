@@ -86,13 +86,13 @@ California review of the herbicide dacthal triggered by the requirements of Cali
 body {
   text-align: justify;
 }
-
-<img class="floatRight" src="/photos/danielTregeaglePicture2.jpg" width = "300">
-
 </style>
   #+end_src
 
 #+begin_export md
+<img class="floatRight" src="/photos/danielTregeaglePicture2.jpg" width = "300">
+
+
 ### Assistant Professor and Extension Specialist
 
 <br>

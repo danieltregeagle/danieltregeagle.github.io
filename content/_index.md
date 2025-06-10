@@ -15,11 +15,11 @@ draft = false
 body {
   text-align: justify;
 }
+</style>
+```
 
 <img class="floatRight" src="/photos/danielTregeaglePicture2.jpg" width = "300">
 
-</style>
-```
 
 ### Assistant Professor and Extension Specialist
 
