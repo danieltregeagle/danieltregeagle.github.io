@@ -4,7 +4,7 @@ author = ["Daniel Tregeagle"]
 draft = false
 +++
 
-```html
+```md
 <style>
 .floatRight {
   float: right;
