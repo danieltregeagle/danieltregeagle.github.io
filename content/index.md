@@ -5,13 +5,18 @@ draft = false
 +++
 
 <style>
+.floatRight {
+  float: right;
+  margin-left: 40px;
+  margin-bottom: 500px;
+  margin-top: 75px;
+}
+</style>
+
+<style>
 body {
 text-align: justify}
 </style>
-
-```{css, echo=FALSE}
-.floatRight{float:right;margin-left:40px;margin-bottom:500px;margin-top:75px}
-```
 
 <img class="floatRight" src="./photos/danielTregeaglePicture2.jpg" width = "300">
 
