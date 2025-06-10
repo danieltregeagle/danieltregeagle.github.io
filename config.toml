@@ -13,6 +13,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   defaultTheme = "auto"
   customCSS = ["style.css"]
+  disableGoogleAnalytics = true
 
 [menu]
 
