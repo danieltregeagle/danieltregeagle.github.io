@@ -18,7 +18,8 @@ body {
 </style>
 ```
 
-<img class="floatRight" src="/photos/danielTregeaglePicture2.jpg" width = "300">
+{{< figure src="/photos/danielTregeaglePicture2.JPG" >}}
+
 
 
 ### Assistant Professor and Extension Specialist

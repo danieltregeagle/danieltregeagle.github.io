@@ -73,6 +73,7 @@ California review of the herbicide dacthal triggered by the requirements of Cali
   :PROPERTIES:
   :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_SECTION: .
+  :ID:       0b0f30ab-bf62-4132-8dfe-1a9de47bb59e
   :END:
 
   #+begin_src html
@@ -88,9 +89,8 @@ body {
 }
 </style>
   #+end_src
-
+[[/photos/danielTregeaglePicture2.JPG]]
 #+begin_export md
-<img class="floatRight" src="/photos/danielTregeaglePicture2.jpg" width = "300">
 
 
 ### Assistant Professor and Extension Specialist
