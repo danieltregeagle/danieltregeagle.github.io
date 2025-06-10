@@ -4,16 +4,22 @@ author = ["Daniel Tregeagle"]
 draft = false
 +++
 
+```html
 <style>
+.floatRight {
+  float: right;
+  margin-left: 40px;
+  margin-bottom: 500px;
+  margin-top: 75px;
+}
 body {
-text-align: justify}
-</style>
-
-```{css, echo=FALSE}
-.floatRight{float:right;margin-left:40px;margin-bottom:500px;margin-top:75px}
-```
+  text-align: justify;
+}
 
 <img class="floatRight" src="/photos/danielTregeaglePicture2.jpg" width = "300">
+
+</style>
+```
 
 ### Assistant Professor and Extension Specialist
 
@@ -28,5 +34,3 @@ I am an assistant professor and extension specialist in the [Department of Agric
 I hold a Ph.D. and M.S. in agricultural and resource economics from the [University of California, Berkeley](https://are.berkeley.edu) as well as a Bachelor of Resource Economics (Hons. 1M) from the [University of Sydney, Australia](http://sydney.edu.au). During my postdoctoral studies at the [Department of Agricultural and Resource Economics at UC Davis](https://are.ucdavis.edu), I co-authored several inter-disciplinary reports for the California Department of Food and Agriculture analyzing the expected impacts of proposed pesticide regulations.
 
 My primary fields of study are agricultural, environmental, and natural resource economics.
-
-</div>
