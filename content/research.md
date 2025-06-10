@@ -97,4 +97,4 @@ A fundamental issue in perennial crop economics is finding the optimal time to r
 
 <br>
 
-<img align="center" src="/photos/MagicSweetPotatoForest.jpg" width = "600" title="Tregeagle conducting fieldwork">
+{{< figure src="/photos/MagicSweetPotatoForest.jpg" >}}
