@@ -1,0 +1,47 @@
+baseURL = "https://www.danieltregeagle.com/"
+languageCode = "en-us"
+title = "Daniel Tregeagle, Ph.D."
+theme = "PaperMod"
+
+[params]
+  author = "Daniel Tregeagle"
+  # Enable or disable features in PaperMod as needed
+  ShowShareButtons = false
+  ShowReadingTime = false
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  defaultTheme = "auto"
+  customCSS = ["style.css"]
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Extension"
+    url = "/extension/"
+    weight = 4
+
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 5
+
+[params.socialIcons]
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:tregeagle@ncsu.edu"
