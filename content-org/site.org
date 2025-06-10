@@ -83,14 +83,13 @@ California review of the herbicide dacthal triggered by the requirements of Cali
   margin-bottom: 500px;
   margin-top: 75px;
 }
+body {
+  text-align: justify;
+}
 </style>
 #+end_export
 
 #+begin_export md
-<style>
-body {
-text-align: justify}
-</style>
 
 <img class="floatRight" src="./photos/danielTregeaglePicture2.jpg" width = "300">
 
@@ -108,7 +107,7 @@ I hold a Ph.D. and M.S. in agricultural and resource economics from the [Univers
 
 My primary fields of study are agricultural, environmental, and natural resource economics.
 
-</div>
+
 #+end_export
 
 * Research
