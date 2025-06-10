@@ -22,9 +22,9 @@ body {
 text-align: justify}
 </style>
 
-[One Page CV](files/tregeagleCV_2018_09_OnePage.pdf)
+[One Page CV](/files/tregeagleCV_2018_09_OnePage.pdf)
 
-[Full CV](files/tregeagleCV_2021_07.pdf)
+[Full CV](/files/tregeagleCV_2021_07.pdf)
 #+end_export
 
 * Extension
@@ -40,25 +40,25 @@ text-align: justify}
 
 # Extension Articles
 
-### [Specialty Crops in 2020: COVID-19 and Other Challenges](files/Specialty-Crops-in-2020-COVID-19-and-Other-Challenges.pdf)
+### [Specialty Crops in 2020: COVID-19 and Other Challenges](/files/Specialty-Crops-in-2020-COVID-19-and-Other-Challenges.pdf)
 
 In this Winter 2021 installment of the NC State Economist, Dr. Daniel Tregeagle highlights the impacts of Covid-19 on North Carolina’s specialty crop producers and markets. He also reveals the results of a recent survey of caneberry growers on the trends, challenges and opportunities in their specialty crop sector.
 
 <br>
 
-### [Estimated Cost of the Withdrawal of the Insecticide Chlorpyrifos for Six Major California Crops](files/Wei et al. - Estimated Cost of the Withdrawal of the Insecticid.pdf)
+### [Estimated Cost of the Withdrawal of the Insecticide Chlorpyrifos for Six Major California Crops](/files/Wei et al. - Estimated Cost of the Withdrawal of the Insecticid.pdf)
 
-In May 2019, the CA Department of Pesticide Regulation (DPR) initiated the cancellation of the pesticide chlorpyrifos. This article estimates the economic effects of cancellation on six major California crops. Statewide annual revenue losses are estimated at \$11.5 million, averaged across acreage and pesticide use for three base years (2015–2017): \$1.6 million for alfalfa, \$0.6 million for almonds, \$1 million for citrus, \$7.1 million for cotton, \$4.3 million for grapes, and \$3.2 million for walnuts. In addition, gross revenue losses due to reduced cotton yields are estimated to be \$6.3 million. Importantly, estimated losses are for only six crops. The total cost to California agriculture will be greater.
+In May 2019, the CA Department of Pesticide Regulation (DPR) initiated the cancellation of the pesticide chlorpyrifos. This article estimates the economic effects of cancellation on six major California crops. Statewide annual revenue losses are estimated at \$11.5 million, averaged across acreage and pesticide use for three base years (2015–2017): \$1.6 million for alfalfa, \$0.6 million for almonds, \$1 million for citrus, \$7.1 million for cotton, \$4.3 million for grapes, and \$3.2 million for walnuts. In addition, gross revenue losses due to reduced cotton yields are estimated to be \$6.3 million. Importantly, estimated losses are for only six crops. The total cost to California agriculture will be greater. 
 
 <br>
 
-### [Implications of Disrupting a Perennial Crop Replanting Cycle: The Brazilian Sugarcane Example](files/Tregeagle_Zilberman_2018_Implications of Disrupting a Perennial Crop Replanting Cycle.pdf)
+### [Implications of Disrupting a Perennial Crop Replanting Cycle: The Brazilian Sugarcane Example](/files/Tregeagle_Zilberman_2018_Implications of Disrupting a Perennial Crop Replanting Cycle.pdf)
 
 Brazilian sugarcane yields declined sharply in 2011, ending a decade-long expansion of the industry. In the aftermath of the 2008 financial crisis, credit-constrained farmers replanted fewer sugarcane fields, leading to an increase in the average age of canes and a decline in yield several years later. Had average age remained constant over this period, industry revenues would have been around 10% higher in 2011 and 2012. This example shows how interruptions to the regular replanting schedules of a perennial crop can have production effects years into the future.
 
 <br>
 
-### [Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in California](files/Blecker et al (2018) - Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in.pdf)
+### [Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in California](/files/Blecker et al (2018) - Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in.pdf)
 
 California review of the herbicide dacthal triggered by the requirements of California’s Pesticide Contamination Prevention Act was conducted in 2018. This article estimates the economic effects a cancellation of dacthal’s California registration would have on brassica and allium crops. Statewide net revenue losses for broccoli, dry onion, and cabbage, the largest users of dacthal, are estimated at \$25.4 million: \$17.9 million for broccoli, \$2.4 million for cabbage, and $5.1 million for onion.
 
@@ -66,7 +66,7 @@ California review of the herbicide dacthal triggered by the requirements of Cali
 
 # Reports
 
-### [A Report on NARBA's 2020 Pricing and Marketing Survey](files/2020-Caneberry-Pricing-Survey-Report-Nov.pdf)
+### [A Report on NARBA's 2020 Pricing and Marketing Survey](/files/2020-Caneberry-Pricing-Survey-Report-Nov.pdf)
 #+end_export
 
 * Daniel Tregeagle, Ph.D.
@@ -75,23 +75,17 @@ California review of the herbicide dacthal triggered by the requirements of Cali
   :EXPORT_HUGO_SECTION: .
   :END:
 
-#+begin_export html
-<style>
-.floatRight {
-  float: right;
-  margin-left: 40px;
-  margin-bottom: 500px;
-  margin-top: 75px;
-}
-body {
-  text-align: justify;
-}
-</style>
-#+end_export
-
 #+begin_export md
+<style>
+body {
+text-align: justify}
+</style>
 
-<img class="floatRight" src="./photos/danielTregeaglePicture2.jpg" width = "300">
+```{css, echo=FALSE}
+.floatRight{float:right;margin-left:40px;margin-bottom:500px;margin-top:75px}
+```
+
+<img class="floatRight" src="/photos/danielTregeaglePicture2.jpg" width = "300">
 
 ### Assistant Professor and Extension Specialist
 
@@ -101,13 +95,13 @@ body {
 
 <!-- <div style="text-align: justify"> -->
 
-I am an assistant professor and extension specialist in the [Department of Agricultural and Resource Economics at North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics). My work is focused on the economics of specialty crops and the economics of agricultural policy more generally. Applications have included analyzing agro-environmental policy, market analysis, minimizing costs of processing supply chains, and optimizing orchard replacement.
+I am an assistant professor and extension specialist in the [Department of Agricultural and Resource Economics at North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics). My work is focused on the economics of specialty crops and the economics of agricultural policy more generally. Applications have included analyzing agro-environmental policy, market analysis, minimizing costs of processing supply chains, and optimizing orchard replacement. 
 
 I hold a Ph.D. and M.S. in agricultural and resource economics from the [University of California, Berkeley](https://are.berkeley.edu) as well as a Bachelor of Resource Economics (Hons. 1M) from the [University of Sydney, Australia](http://sydney.edu.au). During my postdoctoral studies at the [Department of Agricultural and Resource Economics at UC Davis](https://are.ucdavis.edu), I co-authored several inter-disciplinary reports for the California Department of Food and Agriculture analyzing the expected impacts of proposed pesticide regulations.
 
-My primary fields of study are agricultural, environmental, and natural resource economics.
+My primary fields of study are agricultural, environmental, and natural resource economics. 
 
-
+</div>
 #+end_export
 
 * Research
@@ -123,17 +117,17 @@ text-align: justify}
 
 <!-- Research page under construction -->
 
-My dissertation, [The dynamics of perennial crop production and processing](files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
+My dissertation, [The dynamics of perennial crop production and processing](/files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
 
-<br>
+<br> 
 
 ## Peer Reviewed Publications
 
-### [Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis](https://doi.org/10.1002/jaa2.107)
+### [Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis](https://doi.org/10.1002/jaa2.107) 
 (with Chanheung Cho, Zachary Brown, and Kevin Gross) - Accepted at *Journal of the Agricultural and Applied Economics Association*.
 
 *Abstract*:
-Pesticide resistance poses an increasing challenge for agricultural sustainability. Pesticide susceptibility is a depletable biological resource, but resistance management rarely quantifies marginal, forward-looking economic costs to users of depleting this resource. We use a generic stochastic bioeconomic model of pesticide resistance evolution in a crop pest population, stochastic dynamic programming, and global sensitivity analysis to analyze the ‘marginal user costs’ of resistance. The most impactful parameters on these costs are population density dependence and pesticide prices. Least impactful is the fitness cost of resistance, which is noteworthy because of prior emphasis on this parameter in the resistance management literature.
+Pesticide resistance poses an increasing challenge for agricultural sustainability. Pesticide susceptibility is a depletable biological resource, but resistance management rarely quantifies marginal, forward-looking economic costs to users of depleting this resource. We use a generic stochastic bioeconomic model of pesticide resistance evolution in a crop pest population, stochastic dynamic programming, and global sensitivity analysis to analyze the ‘marginal user costs’ of resistance. The most impactful parameters on these costs are population density dependence and pesticide prices. Least impactful is the fitness cost of resistance, which is noteworthy because of prior emphasis on this parameter in the resistance management literature.    
 
 <br>
 
@@ -145,7 +139,7 @@ Perennial crops are important both economically and as a component of a healthy 
 
 <br>
 
-### [Minimizing the costs of biorefinery processing by managing perennial crop age: The case of Brazilian sugarcane](https://doi.org/10.1017/aae.2023.21)
+### [Minimizing the costs of biorefinery processing by managing perennial crop age: The case of Brazilian sugarcane](https://doi.org/10.1017/aae.2023.21) 
 (with David Zilberman) - *Journal of Agricultural and Applied Economics*, 2023, 55(2), 376--398.
 
 *Abstract*:
@@ -153,7 +147,7 @@ We develop and analyze an unexplored mechanism to reduce biorefinery supply chai
 
 <br>
 
-### [Willingness-to-pay for produce: A meta-regression analysis comparing the stated preferences of producers and consumers](https://doi.org/10.3390/horticulturae8040290)
+### [Willingness-to-pay for produce: A meta-regression analysis comparing the stated preferences of producers and consumers](https://doi.org/10.3390/horticulturae8040290) 
 (with Alice Kilduff) - *Horticulturae* 2022, 8(4), 290.
 
 *Abstract*:
@@ -161,17 +155,17 @@ Willingness-to-pay (WTP) estimates help agribusinesses estimate whether a new pr
 
 <br>
 
-### [Balancing bees and pest management: Projected costs of proposed bee-protective neonicotinoid regulation in California](https://doi.org/10.1093/jee/toab231)
+### [Balancing bees and pest management: Projected costs of proposed bee-protective neonicotinoid regulation in California](https://doi.org/10.1093/jee/toab231) 
 (with Kevi Mace, Jessica Rudder, Rachael Goodhue, Tor Tolhurst, Hanlin Wei, Elizabeth Grafton-Cardwell, Ian Grettnberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, and John Steggall) - *Journal of Economic Entomology*, 2022, 115(1), 10--25.
 
-*Abstract*:
+*Abstract*: 
 Neonicotinoid insecticides are widely used in agriculture, including in many California specialty crops. With mounting evidence that these insecticides are harmful to bees, state and national governments have increasingly regulated their use. The European Union, Canada, and United States have imposed use restrictions on several neonicotinoids, such as on the timing of applications. In 2020, California proposed a draft regulation to mitigate harm to managed pollinators from four nitroguanidine-substituted neonicotinoids (NGNs): clothianidin, dinotefuran, imidacloprid, and thiamethoxam. We use data on California pesticide use from 2015 to 2017 to analyze the economic and pest management implications of the 2020 draft proposed regulation for seven crops: almond, cherry, citrus, cotton, grape, strawberry, and tomato. From 2015 to 2017, these crops accounted for approximately 85% of total hectares treated with NGNs and 87% of NGN use by kilograms of active ingredient applied in treatments that would have been affected by the proposed regulation. These insecticides often primarily target Hemipteran insect pests. In most cases there are alternatives; however, these are often more expensive per hectare and do not have the same residual effectiveness as the NGNs, which are systemic insecticides. Overall, we estimate that pest management costs for these crops would have increased an estimated $13.6 million in 2015, $12.8 million in 2016, and $11.1 million in 2017 if the 2020 draft proposed regulation had been in effect, representing a 61% to 72% increase in the cost of managing the target pests.
 
 <br>
 
 ## Working Papers
 
-### [Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil](files/230821sugarcaneReplanting.pdf)
+### [Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil](/files/230821sugarcaneReplanting.pdf)
 (with David Zilberman)
 
 *Abstract*:
@@ -179,19 +173,19 @@ This paper presents a novel and parsimonious method of predicting the dynamic yi
 
 <br>
 
-### [Optimal management of orchards](files/OptimalManagementOfOrchards_200909.pdf)
+### [Optimal management of orchards](/files/OptimalManagementOfOrchards_200909.pdf)
 (with Leo Simon)
 
 *Abstract*:
-A fundamental issue in perennial crop economics is finding the optimal time to replace trees in an orchard. Orchards have two key characteristics: they consist of trees of multiple vintages, and the trees have a non-monotonic yield curve. We present the first analysis of optimal tree replacement in an orchard that has both characteristics. Our results show that cyclical production is optimal in the long-run, and that optimally managed orchards converge uniformly to the long-run cycle. Our results have implications for orchard valuation, orchard planting, and orchard conversion. We are also the first to provide comparative statics on the long-run cycle radius.
+A fundamental issue in perennial crop economics is finding the optimal time to replace trees in an orchard. Orchards have two key characteristics: they consist of trees of multiple vintages, and the trees have a non-monotonic yield curve. We present the first analysis of optimal tree replacement in an orchard that has both characteristics. Our results show that cyclical production is optimal in the long-run, and that optimally managed orchards converge uniformly to the long-run cycle. Our results have implications for orchard valuation, orchard planting, and orchard conversion. We are also the first to provide comparative statics on the long-run cycle radius. 
 
-
+ 
 
 <br>
 <br>
 
 ## Works in progress
-  - [Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey](files/SCSE Poster Draft Final.pdf) (with Zoë Plakias, link to AAEA poster)
+  - [Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey](/files/SCSE Poster Draft Final.pdf) (with Zoë Plakias, link to AAEA poster)
   - The welfare impacts of citrus greening (with Gregory Astill and Zoë Plakias)
   - Perennial crop supply response in state-space models with non-negativity constraints (with Gregory Astill and Zoë Plakias)
   - Measuring grower willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)
@@ -209,7 +203,7 @@ A fundamental issue in perennial crop economics is finding the optimal time to r
 
 <br>
 
-<img align="center" src="./photos/MagicSweetPotatoForest.jpg" width = "600" title="Tregeagle conducting fieldwork">
+<img align="center" src="/photos/MagicSweetPotatoForest.jpg" width = "600" title="Tregeagle conducting fieldwork">
 #+end_export
 
 * Teaching
@@ -246,7 +240,7 @@ I received a [Certificate of Teaching and Learning in Higher Education](https://
 ## Awards
 
  - Outstanding Graduate Student Instructor Award, UC Berkeley, Fall 2013.
-
+ 
  - Most Valuable Facilitator Award (Facilitator's Choice), Peer-Assisted Students Sessions (PASS) Program, Winter Semester, 2009.
 
 &nbsp;
@@ -256,21 +250,21 @@ I received a [Certificate of Teaching and Learning in Higher Education](https://
  - Instructor, *Fundamentals of Microeconomics (ECG700)*, NC State, Fall 2020-21.
 
  - Instructor, Master of Development Practice Math Bootcamp, UC Berkeley, Summer 2014--2017 (4 summers).
-
+ 
  - Discipline-Cluster Workshop Leader for Quantitative Social Sciences, UC Berkeley GSI Teaching Conference, Spring 2017.
-
+ 
  - Teaching Assistant, *Dynamic Modeling* (ARE 298; a 2 week intensive course) for Prof. Christian Traeger, April 2015.
-
+ 
  - Graduate Student Instructor, *Mathematical Methods for Agricultural and Resource Economics* (ARE211) for Prof. Leo Simon, UC Berkeley, Fall 2014.
-
+ 
  - Graduate Student Instructor, *The Economics of Climate Change* (EEP 175) for Prof. Christian Traeger, UC Berkeley, Fall 2013.
-
+ 
  - ARE Departmental Tutor, *Mathematical Tools for Economists* (ECON 204), UC Berkeley, Summer 2013.
-
+ 
  - Teaching Assistant, *Introduction to Resource Economics* (RSEC1031) for Prof. Michael Harris, University of Sydney, Aug--Nov 2010.
-
+ 
  - Peer-Assisted Study Session Facilitator for *Introductory Micro- and Macroeconomics*, University of Sydney, 2008--2010 (6 semesters).
-
+ 
  - Video Peer Assisted Study Session Facilitator for an Anti-plagiarism Component of *Business in the Global Environment*, University of Sydney, 2009--2010 (2 semesters).
 
 
