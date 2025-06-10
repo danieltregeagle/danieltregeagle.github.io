@@ -22,6 +22,9 @@ theme = "PaperMod"
     [markup.goldmark.renderer]
       unsafe = true
 
+[permalinks]
+  posts = "/:slug/"
+
 [menu]
 
   [[menu.main]]
