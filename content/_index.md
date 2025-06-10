@@ -4,8 +4,7 @@ author = ["Daniel Tregeagle"]
 draft = false
 +++
 
-#+begin\_ md
-&lt;style&gt;
+<style>
 .floatRight {
   float: right;
   margin-left: 40px;
@@ -15,8 +14,7 @@ draft = false
 body {
   text-align: justify;
 }
-&lt;/style&gt;
-  #+end_export
+</style>
 
 {{< figure src="/photos/danielTregeaglePicture2.JPG" >}}
 
