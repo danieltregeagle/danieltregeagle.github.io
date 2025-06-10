@@ -76,7 +76,7 @@ California review of the herbicide dacthal triggered by the requirements of Cali
   :ID:       0b0f30ab-bf62-4132-8dfe-1a9de47bb59e
   :END:
 
-  #+begin_src html
+  #+begin_ md
 <style>
 .floatRight {
   float: right;
@@ -88,7 +88,7 @@ body {
   text-align: justify;
 }
 </style>
-  #+end_src
+  #+end_export
 [[/photos/danielTregeaglePicture2.JPG]]
 #+begin_export md
 
