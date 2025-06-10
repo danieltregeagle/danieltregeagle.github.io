@@ -41,7 +41,6 @@ theme = "PaperMod"
     url = "/cv/"
     weight = 5
 
-[params.socialIcons]
   [[params.socialIcons]]
     name = "email"
     url = "mailto:tregeagle@ncsu.edu"
