@@ -11,7 +11,7 @@ text-align: justify}
 
 <!-- Research page under construction -->
 
-My dissertation, [The dynamics of perennial crop production and processing](files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
+My dissertation, [The dynamics of perennial crop production and processing](/files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
 
 <br>
 
@@ -59,7 +59,7 @@ Neonicotinoid insecticides are widely used in agriculture, including in many Cal
 
 ## Working Papers
 
-### [Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil](files/230821sugarcaneReplanting.pdf)
+### [Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil](/files/230821sugarcaneReplanting.pdf)
 (with David Zilberman)
 
 *Abstract*:
@@ -67,7 +67,7 @@ This paper presents a novel and parsimonious method of predicting the dynamic yi
 
 <br>
 
-### [Optimal management of orchards](files/OptimalManagementOfOrchards_200909.pdf)
+### [Optimal management of orchards](/files/OptimalManagementOfOrchards_200909.pdf)
 (with Leo Simon)
 
 *Abstract*:
@@ -79,7 +79,7 @@ A fundamental issue in perennial crop economics is finding the optimal time to r
 <br>
 
 ## Works in progress
-  - [Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey](files/SCSE Poster Draft Final.pdf) (with Zoë Plakias, link to AAEA poster)
+  - [Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey](/files/SCSE Poster Draft Final.pdf) (with Zoë Plakias, link to AAEA poster)
   - The welfare impacts of citrus greening (with Gregory Astill and Zoë Plakias)
   - Perennial crop supply response in state-space models with non-negativity constraints (with Gregory Astill and Zoë Plakias)
   - Measuring grower willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)
@@ -97,4 +97,4 @@ A fundamental issue in perennial crop economics is finding the optimal time to r
 
 <br>
 
-<img align="center" src="./photos/MagicSweetPotatoForest.jpg" width = "600" title="Tregeagle conducting fieldwork">
+<img align="center" src="/photos/MagicSweetPotatoForest.jpg" width = "600" title="Tregeagle conducting fieldwork">
