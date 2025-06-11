@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+/public/
+.hugo_build.lock
+\#*.org#
+.#*.org
