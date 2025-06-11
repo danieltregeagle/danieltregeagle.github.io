@@ -2,6 +2,240 @@
 #+author: Daniel Tregeagle
 #+hugo_base_dir: ../
 
+* Hugo local development workflow                                  :noexport:
+** Directory Structure
+:PROPERTIES:
+:CUSTOM_ID: directory-structure
+:END:
+Set up your project with this structure:
+
+#+begin_example
+my-website/
+├── hugo-site/                 # Hugo site directory
+│   ├── content/
+│   ├── static/
+│   │   ├── files/            # Your PDF files
+│   │   └── photos/           # Your images
+│   ├── themes/
+│   ├── config.yaml (or .toml)
+│   └── ...
+├── org-content/              # Org-mode source files
+│   └── website.org           # Your main org file
+└── scripts/                  # Optional build scripts
+#+end_example
+
+** Hugo Configuration
+:PROPERTIES:
+:CUSTOM_ID: hugo-configuration
+:END:
+In your =hugo-site/config.yaml=, ensure you have:
+
+#+begin_src yaml
+baseURL: 'https://yourdomain.com'  # Change for production
+languageCode: 'en-us'
+title: 'Daniel Tregeagle'
+theme: 'your-theme-name'
+
+# Useful for development
+canonifyURLs: true
+relativeURLs: true  # Helpful for local testing
+#+end_src
+
+** Org-mode Configuration
+:PROPERTIES:
+:CUSTOM_ID: org-mode-configuration
+:END:
+Update your org file header:
+
+#+begin_src org
+,#+title: Daniel Tregeagle Website
+,#+author: Daniel Tregeagle
+,#+hugo_base_dir: ../hugo-site/    # Point to your Hugo directory
+,#+hugo_section: .                 # Export to content root
+#+end_src
+
+** Local Development Workflow
+:PROPERTIES:
+:CUSTOM_ID: local-development-workflow
+:END:
+*** 1. Export from Org-mode
+:PROPERTIES:
+:CUSTOM_ID: export-from-org-mode
+:END:
+In Emacs, with your org file open: - =C-c C-e H H= (export current
+subtree) or - =C-c C-e H A= (export all subtrees)
+
+This will generate markdown files in =hugo-site/content/=
+
+*** 2. Start Hugo Development Server
+:PROPERTIES:
+:CUSTOM_ID: start-hugo-development-server
+:END:
+Open PowerShell or Command Prompt in your =hugo-site= directory:
+
+#+begin_src powershell
+# Navigate to Hugo site directory
+cd path\to\your\hugo-site
+
+# Start development server
+hugo server -D --bind 0.0.0.0
+
+# Alternative with specific port
+hugo server -D -p 1313
+#+end_src
+
+*Key flags:* - =-D= includes draft content - =--bind 0.0.0.0= allows
+access from other devices on network - =-p 1313= specifies port (1313 is
+default)
+
+*** 3. View Your Site
+:PROPERTIES:
+:CUSTOM_ID: view-your-site
+:END:
+Open browser to: =http://localhost:1313=
+
+The server will automatically reload when you make changes!
+
+** File Management
+:PROPERTIES:
+:CUSTOM_ID: file-management
+:END:
+*** Static Files (PDFs, Images)
+:PROPERTIES:
+:CUSTOM_ID: static-files-pdfs-images
+:END:
+Place your files in =hugo-site/static/=:
+
+#+begin_example
+hugo-site/static/
+├── files/
+│   ├── tregeagleCV_2021_07.pdf
+│   └── dissertationFinal.pdf
+└── photos/
+    └── danielTregeaglePicture2.JPG
+#+end_example
+
+Links in org-mode should reference them as =/files/filename.pdf=
+
+*** Handling Files with Spaces
+:PROPERTIES:
+:CUSTOM_ID: handling-files-with-spaces
+:END:
+*Option 1: Rename files (recommended)*
+
+#+begin_src powershell
+# In your static/files directory
+ren "Wei et al. - Estimated Cost of the Withdrawal of the Insecticid.pdf" "Wei_et_al_Estimated_Cost_Withdrawal_Insecticide.pdf"
+#+end_src
+
+*Option 2: URL encoding (if renaming isn't possible)* Files with spaces
+work but may cause issues. Hugo generally handles them, but it's cleaner
+to rename.
+
+** Build for Production
+:PROPERTIES:
+:CUSTOM_ID: build-for-production
+:END:
+When ready to deploy:
+
+#+begin_src powershell
+# Clean previous build
+hugo --cleanDestinationDir
+
+# Build for production
+hugo --minify
+
+# Output will be in hugo-site/public/
+#+end_src
+
+** Efficient Development Script
+:PROPERTIES:
+:CUSTOM_ID: efficient-development-script
+:END:
+Create =scripts/build-and-serve.ps1=:
+
+#+begin_src powershell
+# Navigate to org content
+Set-Location "path\to\org-content"
+
+# Export org to hugo (you'll need to do this in Emacs)
+Write-Host "Export your org file in Emacs, then press Enter to continue..."
+Read-Host
+
+# Navigate to Hugo site
+Set-Location "..\hugo-site"
+
+# Start Hugo server
+hugo server -D --bind 0.0.0.0
+#+end_src
+
+** Tips for Smooth Workflow
+:PROPERTIES:
+:CUSTOM_ID: tips-for-smooth-workflow
+:END:
+*** 1. Watch for Common Issues
+:PROPERTIES:
+:CUSTOM_ID: watch-for-common-issues
+:END:
+- Ensure =#+hugo_base_dir= points correctly to your Hugo directory
+- Check that static files are in the right location
+- Verify front matter is being generated correctly
+
+*** 2. Quick Development Cycle
+:PROPERTIES:
+:CUSTOM_ID: quick-development-cycle
+:END:
+1. Edit org file in Emacs
+2. Export with =C-c C-e H A=
+3. Hugo automatically reloads in browser
+4. Repeat
+
+*** 3. Debugging
+:PROPERTIES:
+:CUSTOM_ID: debugging
+:END:
+If Hugo server shows errors:
+
+#+begin_src powershell
+# Run with verbose output
+hugo server -D --verbose
+
+# Check Hugo version
+hugo version
+#+end_src
+
+*** 4. Theme Considerations
+:PROPERTIES:
+:CUSTOM_ID: theme-considerations
+:END:
+If using a theme, ensure your content structure matches theme
+expectations. Some themes expect specific front matter or file
+organization.
+
+** Windows-Specific Notes
+:PROPERTIES:
+:CUSTOM_ID: windows-specific-notes
+:END:
+- Use PowerShell or Command Prompt for Hugo commands
+- File paths use backslashes (=\=) in Windows, but Hugo handles both
+- Consider using Windows Terminal for better command-line experience
+- Git Bash also works well if you prefer Unix-style commands
+
+** Next Steps
+:PROPERTIES:
+:CUSTOM_ID: next-steps
+:END:
+1. Set up the directory structure
+2. Configure your org file with correct =#+hugo_base_dir=
+3. Export your org content
+4. Start =hugo server -D=
+5. Open =http://localhost:1313= and start developing!
+
+The Hugo development server's live reload makes this workflow very
+efficient - you'll see changes almost instantly.
+
+
+
 * About This Website
   :PROPERTIES:
   :EXPORT_FILE_NAME: about
