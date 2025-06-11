@@ -7,67 +7,57 @@
   :EXPORT_FILE_NAME: about
   :END:
 
-#+begin_export md
 More about this website.
-#+end_export
 
 * CV
   :PROPERTIES:
   :EXPORT_FILE_NAME: cv
   :END:
 
-#+begin_export md
+#+begin_export html
 <style>
 body {
 text-align: justify}
 </style>
-
-[One Page CV](/files/tregeagleCV_2018_09_OnePage.pdf)
-
-[Full CV](/files/tregeagleCV_2021_07.pdf)
 #+end_export
+
+[[/files/tregeagleCV_2018_09_OnePage.pdf][One Page CV]]
+
+[[/files/tregeagleCV_2021_07.pdf][Full CV]]
 
 * Extension
   :PROPERTIES:
   :EXPORT_FILE_NAME: extension
   :END:
 
-#+begin_export md
+#+begin_export html
 <style>
 body {
 text-align: justify}
 </style>
+#+end_export
 
-# Extension Articles
+** Extension Articles
 
-### [Specialty Crops in 2020: COVID-19 and Other Challenges](/files/Specialty-Crops-in-2020-COVID-19-and-Other-Challenges.pdf)
+*** [[/files/Specialty-Crops-in-2020-COVID-19-and-Other-Challenges.pdf][Specialty Crops in 2020: COVID-19 and Other Challenges]]
 
-In this Winter 2021 installment of the NC State Economist, Dr. Daniel Tregeagle highlights the impacts of Covid-19 on North Carolina’s specialty crop producers and markets. He also reveals the results of a recent survey of caneberry growers on the trends, challenges and opportunities in their specialty crop sector.
+In this Winter 2021 installment of the NC State Economist, Dr. Daniel Tregeagle highlights the impacts of Covid-19 on North Carolina's specialty crop producers and markets. He also reveals the results of a recent survey of caneberry growers on the trends, challenges and opportunities in their specialty crop sector.
 
-<br>
+*** [[/files/Wei et al. - Estimated Cost of the Withdrawal of the Insecticid.pdf][Estimated Cost of the Withdrawal of the Insecticide Chlorpyrifos for Six Major California Crops]]
 
-### [Estimated Cost of the Withdrawal of the Insecticide Chlorpyrifos for Six Major California Crops](/files/Wei et al. - Estimated Cost of the Withdrawal of the Insecticid.pdf)
+In May 2019, the CA Department of Pesticide Regulation (DPR) initiated the cancellation of the pesticide chlorpyrifos. This article estimates the economic effects of cancellation on six major California crops. Statewide annual revenue losses are estimated at $11.5 million, averaged across acreage and pesticide use for three base years (2015–2017): $1.6 million for alfalfa, $0.6 million for almonds, $1 million for citrus, $7.1 million for cotton, $4.3 million for grapes, and $3.2 million for walnuts. In addition, gross revenue losses due to reduced cotton yields are estimated to be $6.3 million. Importantly, estimated losses are for only six crops. The total cost to California agriculture will be greater.
 
-In May 2019, the CA Department of Pesticide Regulation (DPR) initiated the cancellation of the pesticide chlorpyrifos. This article estimates the economic effects of cancellation on six major California crops. Statewide annual revenue losses are estimated at \$11.5 million, averaged across acreage and pesticide use for three base years (2015–2017): \$1.6 million for alfalfa, \$0.6 million for almonds, \$1 million for citrus, \$7.1 million for cotton, \$4.3 million for grapes, and \$3.2 million for walnuts. In addition, gross revenue losses due to reduced cotton yields are estimated to be \$6.3 million. Importantly, estimated losses are for only six crops. The total cost to California agriculture will be greater.
-
-<br>
-
-### [Implications of Disrupting a Perennial Crop Replanting Cycle: The Brazilian Sugarcane Example](/files/Tregeagle_Zilberman_2018_Implications of Disrupting a Perennial Crop Replanting Cycle.pdf)
+*** [[/files/Tregeagle_Zilberman_2018_Implications of Disrupting a Perennial Crop Replanting Cycle.pdf][Implications of Disrupting a Perennial Crop Replanting Cycle: The Brazilian Sugarcane Example]]
 
 Brazilian sugarcane yields declined sharply in 2011, ending a decade-long expansion of the industry. In the aftermath of the 2008 financial crisis, credit-constrained farmers replanted fewer sugarcane fields, leading to an increase in the average age of canes and a decline in yield several years later. Had average age remained constant over this period, industry revenues would have been around 10% higher in 2011 and 2012. This example shows how interruptions to the regular replanting schedules of a perennial crop can have production effects years into the future.
 
-<br>
+*** [[/files/Blecker et al (2018) - Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in.pdf][Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in California]]
 
-### [Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in California](/files/Blecker et al (2018) - Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in.pdf)
+California review of the herbicide dacthal triggered by the requirements of California's Pesticide Contamination Prevention Act was conducted in 2018. This article estimates the economic effects a cancellation of dacthal's California registration would have on brassica and allium crops. Statewide net revenue losses for broccoli, dry onion, and cabbage, the largest users of dacthal, are estimated at $25.4 million: $17.9 million for broccoli, $2.4 million for cabbage, and $5.1 million for onion.
 
-California review of the herbicide dacthal triggered by the requirements of California’s Pesticide Contamination Prevention Act was conducted in 2018. This article estimates the economic effects a cancellation of dacthal’s California registration would have on brassica and allium crops. Statewide net revenue losses for broccoli, dry onion, and cabbage, the largest users of dacthal, are estimated at \$25.4 million: \$17.9 million for broccoli, \$2.4 million for cabbage, and $5.1 million for onion.
+** Reports
 
-<br>
-
-# Reports
-
-### [A Report on NARBA's 2020 Pricing and Marketing Survey](/files/2020-Caneberry-Pricing-Survey-Report-Nov.pdf)
-#+end_export
+*** [[/files/2020-Caneberry-Pricing-Survey-Report-Nov.pdf][A Report on NARBA's 2020 Pricing and Marketing Survey]]
 
 * Daniel Tregeagle, Ph.D.
   :PROPERTIES:
@@ -76,7 +66,7 @@ California review of the herbicide dacthal triggered by the requirements of Cali
   :ID:       0b0f30ab-bf62-4132-8dfe-1a9de47bb59e
   :END:
 
-  #+begin_export md
+#+begin_export html
 <style>
 .floatRight {
   float: right;
@@ -88,192 +78,151 @@ body {
   text-align: justify;
 }
 </style>
-  #+end_export
+#+end_export
+
 [[/photos/danielTregeaglePicture2.JPG]]
-#+begin_export md
 
+*** Assistant Professor and Extension Specialist
 
-### Assistant Professor and Extension Specialist
+#+begin_comment
+UNDER CONSTRUCTION
+#+end_comment
 
-<br>
+I am an assistant professor and extension specialist in the [[https://cals.ncsu.edu/agricultural-and-resource-economics][Department of Agricultural and Resource Economics at North Carolina State University]]. My work is focused on the economics of specialty crops and the economics of agricultural policy more generally. Applications have included analyzing agro-environmental policy, market analysis, minimizing costs of processing supply chains, and optimizing orchard replacement.
 
-<!-- UNDER CONSTRUCTION -->
-
-<!-- <div style="text-align: justify"> -->
-
-I am an assistant professor and extension specialist in the [Department of Agricultural and Resource Economics at North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics). My work is focused on the economics of specialty crops and the economics of agricultural policy more generally. Applications have included analyzing agro-environmental policy, market analysis, minimizing costs of processing supply chains, and optimizing orchard replacement.
-
-I hold a Ph.D. and M.S. in agricultural and resource economics from the [University of California, Berkeley](https://are.berkeley.edu) as well as a Bachelor of Resource Economics (Hons. 1M) from the [University of Sydney, Australia](http://sydney.edu.au). During my postdoctoral studies at the [Department of Agricultural and Resource Economics at UC Davis](https://are.ucdavis.edu), I co-authored several inter-disciplinary reports for the California Department of Food and Agriculture analyzing the expected impacts of proposed pesticide regulations.
+I hold a Ph.D. and M.S. in agricultural and resource economics from the [[https://are.berkeley.edu][University of California, Berkeley]] as well as a Bachelor of Resource Economics (Hons. 1M) from the [[http://sydney.edu.au][University of Sydney, Australia]]. During my postdoctoral studies at the [[https://are.ucdavis.edu][Department of Agricultural and Resource Economics at UC Davis]], I co-authored several inter-disciplinary reports for the California Department of Food and Agriculture analyzing the expected impacts of proposed pesticide regulations.
 
 My primary fields of study are agricultural, environmental, and natural resource economics.
-#+end_export
 
 * Research
   :PROPERTIES:
   :EXPORT_FILE_NAME: research
   :END:
 
-#+begin_export md
+#+begin_export html
 <style>
 body {
 text-align: justify}
 </style>
+#+end_export
 
-<!-- Research page under construction -->
+#+begin_comment
+Research page under construction
+#+end_comment
 
-My dissertation, [The dynamics of perennial crop production and processing](/files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
+My dissertation, [[/files/dissertationFinal.pdf][The dynamics of perennial crop production and processing]], focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
 
-<br>
+** Peer Reviewed Publications
 
-## Peer Reviewed Publications
-
-### [Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis](https://doi.org/10.1002/jaa2.107)
-(with Chanheung Cho, Zachary Brown, and Kevin Gross) - Accepted at *Journal of the Agricultural and Applied Economics Association*.
+*** [[https://doi.org/10.1002/jaa2.107][Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis]]
+(with Chanheung Cho, Zachary Brown, and Kevin Gross) - Accepted at /Journal of the Agricultural and Applied Economics Association/.
 
 *Abstract*:
-Pesticide resistance poses an increasing challenge for agricultural sustainability. Pesticide susceptibility is a depletable biological resource, but resistance management rarely quantifies marginal, forward-looking economic costs to users of depleting this resource. We use a generic stochastic bioeconomic model of pesticide resistance evolution in a crop pest population, stochastic dynamic programming, and global sensitivity analysis to analyze the ‘marginal user costs’ of resistance. The most impactful parameters on these costs are population density dependence and pesticide prices. Least impactful is the fitness cost of resistance, which is noteworthy because of prior emphasis on this parameter in the resistance management literature.
+Pesticide resistance poses an increasing challenge for agricultural sustainability. Pesticide susceptibility is a depletable biological resource, but resistance management rarely quantifies marginal, forward-looking economic costs to users of depleting this resource. We use a generic stochastic bioeconomic model of pesticide resistance evolution in a crop pest population, stochastic dynamic programming, and global sensitivity analysis to analyze the 'marginal user costs' of resistance. The most impactful parameters on these costs are population density dependence and pesticide prices. Least impactful is the fitness cost of resistance, which is noteworthy because of prior emphasis on this parameter in the resistance management literature.
 
-<br>
-
-### [Estimating perennial crop supply response: A methodology literature review](https://doi.org/10.1111/agec.12812)
-(with Jonathon Siegle, Greg Astill, and Zoë Plakias) - Early View at *Agricultural Economics*.
+*** [[https://doi.org/10.1111/agec.12812][Estimating perennial crop supply response: A methodology literature review]]
+(with Jonathon Siegle, Greg Astill, and Zoë Plakias) - Early View at /Agricultural Economics/.
 
 *Abstract*:
 Perennial crops are important both economically and as a component of a healthy and nutritious diet (e.g., many fruits and nuts). However, the study of perennial crop production and farmer response to output price changes (i.e., supply response) is complex thanks to the dynamic nature of investment and decision making in these industries. The body of literature relevant to perennial crop supply response is also small relative to that of annual commodity crops. In this article, we contribute the first literature review on perennial crop supply response modeling in more than 30 years. We catalog advancements in estimating perennial crop supply response and discuss the application of these methods and trade-offs economists should be aware of when using them. In addition, we highlight future modeling developments that may be valuable to the field, with the hope this research will encourage additional economic research on this interesting and important topic and in turn provide new insights for perennial crop producers and policymakers.
 
-<br>
-
-### [Minimizing the costs of biorefinery processing by managing perennial crop age: The case of Brazilian sugarcane](https://doi.org/10.1017/aae.2023.21)
-(with David Zilberman) - *Journal of Agricultural and Applied Economics*, 2023, 55(2), 376--398.
+*** [[https://doi.org/10.1017/aae.2023.21][Minimizing the costs of biorefinery processing by managing perennial crop age: The case of Brazilian sugarcane]]
+(with David Zilberman) - /Journal of Agricultural and Applied Economics/, 2023, 55(2), 376--398.
 
 *Abstract*:
 We develop and analyze an unexplored mechanism to reduce biorefinery supply chain costs when the feedstock is a perennial crop: adjusting the age structure, and hence yield, of the perennial feedstock. The non-monotonicity of the age-yield function introduces a non-convexity to the cost minimization problem. We show that, despite this, the problem has a solution and present analytic and numeric comparative statics, finding that larger refineries are most likely to benefit from optimizing age structure. The model is calibrated to the sugarcane industry in Brazil. The cost reductions from optimizing age, compared to the observed regional average age, are less than 1%.
 
-<br>
-
-### [Willingness-to-pay for produce: A meta-regression analysis comparing the stated preferences of producers and consumers](https://doi.org/10.3390/horticulturae8040290)
-(with Alice Kilduff) - *Horticulturae* 2022, 8(4), 290.
+*** [[https://doi.org/10.3390/horticulturae8040290][Willingness-to-pay for produce: A meta-regression analysis comparing the stated preferences of producers and consumers]]
+(with Alice Kilduff) - /Horticulturae/ 2022, 8(4), 290.
 
 *Abstract*:
 Willingness-to-pay (WTP) estimates help agribusinesses estimate whether a new product is likely to be profitable. For produce, new products, such as new fruit varieties, need to be adopted by producers before they can be sold to consumers. The study of ex ante fruit and vegetable producer preferences is relatively new. This study uses meta-regression analysis to compare the estimated WTP premium between U.S. producers and consumers to determine whether they differ. After controlling for differences in study methods, product attributes, and potential publication bias, the producer WTP was between 14.16 and 27.73 percentage points higher. Subject to several caveats and limitations, this suggests that consumer WTP can be a sufficient metric for the profitability of new produce products.
 
-<br>
-
-### [Balancing bees and pest management: Projected costs of proposed bee-protective neonicotinoid regulation in California](https://doi.org/10.1093/jee/toab231)
-(with Kevi Mace, Jessica Rudder, Rachael Goodhue, Tor Tolhurst, Hanlin Wei, Elizabeth Grafton-Cardwell, Ian Grettnberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, and John Steggall) - *Journal of Economic Entomology*, 2022, 115(1), 10--25.
+*** [[https://doi.org/10.1093/jee/toab231][Balancing bees and pest management: Projected costs of proposed bee-protective neonicotinoid regulation in California]]
+(with Kevi Mace, Jessica Rudder, Rachael Goodhue, Tor Tolhurst, Hanlin Wei, Elizabeth Grafton-Cardwell, Ian Grettnberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, and John Steggall) - /Journal of Economic Entomology/, 2022, 115(1), 10--25.
 
 *Abstract*:
 Neonicotinoid insecticides are widely used in agriculture, including in many California specialty crops. With mounting evidence that these insecticides are harmful to bees, state and national governments have increasingly regulated their use. The European Union, Canada, and United States have imposed use restrictions on several neonicotinoids, such as on the timing of applications. In 2020, California proposed a draft regulation to mitigate harm to managed pollinators from four nitroguanidine-substituted neonicotinoids (NGNs): clothianidin, dinotefuran, imidacloprid, and thiamethoxam. We use data on California pesticide use from 2015 to 2017 to analyze the economic and pest management implications of the 2020 draft proposed regulation for seven crops: almond, cherry, citrus, cotton, grape, strawberry, and tomato. From 2015 to 2017, these crops accounted for approximately 85% of total hectares treated with NGNs and 87% of NGN use by kilograms of active ingredient applied in treatments that would have been affected by the proposed regulation. These insecticides often primarily target Hemipteran insect pests. In most cases there are alternatives; however, these are often more expensive per hectare and do not have the same residual effectiveness as the NGNs, which are systemic insecticides. Overall, we estimate that pest management costs for these crops would have increased an estimated $13.6 million in 2015, $12.8 million in 2016, and $11.1 million in 2017 if the 2020 draft proposed regulation had been in effect, representing a 61% to 72% increase in the cost of managing the target pests.
 
-<br>
+** Working Papers
 
-## Working Papers
-
-### [Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil](/files/230821sugarcaneReplanting.pdf)
+*** [[/files/230821sugarcaneReplanting.pdf][Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil]]
 (with David Zilberman)
 
 *Abstract*:
-This paper presents a novel and parsimonious method of predicting the dynamic yield impacts of a change in a perennial crop’s replant rate using only data on the crop’s age-yield function. We test the econometric specification implied by this model on Brazilian sugarcane data and find that it explains approximately one third of yield variation during the study period of 2005 to 2013, lending support to the hypothesis that reductions in the renewal rate after the financial crisis in 2008–9 and subsequent compensatory replanting contributed to this yield decline. The framework presented here is flexible and can be applied to any other perennial crop, so long as data on the age-yield function is available.
+This paper presents a novel and parsimonious method of predicting the dynamic yield impacts of a change in a perennial crop's replant rate using only data on the crop's age-yield function. We test the econometric specification implied by this model on Brazilian sugarcane data and find that it explains approximately one third of yield variation during the study period of 2005 to 2013, lending support to the hypothesis that reductions in the renewal rate after the financial crisis in 2008–9 and subsequent compensatory replanting contributed to this yield decline. The framework presented here is flexible and can be applied to any other perennial crop, so long as data on the age-yield function is available.
 
-<br>
-
-### [Optimal management of orchards](/files/OptimalManagementOfOrchards_200909.pdf)
+*** [[/files/OptimalManagementOfOrchards_200909.pdf][Optimal management of orchards]]
 (with Leo Simon)
 
 *Abstract*:
 A fundamental issue in perennial crop economics is finding the optimal time to replace trees in an orchard. Orchards have two key characteristics: they consist of trees of multiple vintages, and the trees have a non-monotonic yield curve. We present the first analysis of optimal tree replacement in an orchard that has both characteristics. Our results show that cyclical production is optimal in the long-run, and that optimally managed orchards converge uniformly to the long-run cycle. Our results have implications for orchard valuation, orchard planting, and orchard conversion. We are also the first to provide comparative statics on the long-run cycle radius.
 
+** Works in progress
+- [[/files/SCSE Poster Draft Final.pdf][Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey]] (with Zoë Plakias, link to AAEA poster)
+- The welfare impacts of citrus greening (with Gregory Astill and Zoë Plakias)
+- Perennial crop supply response in state-space models with non-negativity constraints (with Gregory Astill and Zoë Plakias)
+- Measuring grower willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)
+- Measuring grower willingness-to-pay for improvements in sweetpotato disease resistance
+- Exploring the impact of water technology choices on native plant sales in US nurseries (with Melinda Knuth, Alicia Rihn, Bridget Behe, Marco Palma, and Bryan Peterson)
+- Strengthening and expanding muscadine markets (with Chris Gunter, Mark Hoffmann, Lynette Johnson, Penelope Perkins-Veazie and Craig Mauney)
+- Updating the Southeastern Strawberry Production Guide (PD: Mark Hoffmann)
+- U.S Consumers' Perceptions on Agricultural Labor Supply (with Vitalis Othuon, Benjamin Campbell, and William Secor)
+- Regionally Identified Heirloom Crops as a Viable Niche for Small Specialty Producers (with Ben Boyles, Diana Fossbrinck, David Lamie, Yefan Nian, and Michael Vassalos)
 
-
-<br>
-<br>
-
-## Works in progress
-  - [Demand and supply of specialty crop supply elasticities: Insights from a profession-wide survey](/files/SCSE Poster Draft Final.pdf) (with Zoë Plakias, link to AAEA poster)
-  - The welfare impacts of citrus greening (with Gregory Astill and Zoë Plakias)
-  - Perennial crop supply response in state-space models with non-negativity constraints (with Gregory Astill and Zoë Plakias)
-  - Measuring grower willingness-to-pay for improvements in cucurbit disease resistance (with Alice Kilduff)
-  - Measuring grower willingness-to-pay for improvements in sweetpotato disease resistance
-  - Exploring the impact of water technology choices on native plant sales in US nurseries (with Melinda Knuth, Alicia Rihn, Bridget Behe, Marco Palma, and Bryan Peterson)
-  - Strengthening and expanding muscadine markets (with Chris Gunter, Mark Hoffmann, Lynette Johnson, Penelope Perkins-Veazie and Craig Mauney)
-  - Updating the Southeastern Strawberry Production Guide (PD: Mark Hoffmann)
-  - U.S Consumers' Perceptions on Agricultural Labor Supply (with Vitalis Othuon, Benjamin Campbell, and William Secor)
-  - Regionally Identified Heirloom Crops as a Viable Niche for Small Specialty Producers (with Ben Boyles, Diana Fossbrinck, David Lamie, Yefan Nian, and Michael Vassalos)
-
-
-<br>
-
-<br>
-
-<br>
-
-<img align="center" src="/photos/MagicSweetPotatoForest.jpg" width = "600" title="Tregeagle conducting fieldwork">
-#+end_export
+[[/photos/MagicSweetPotatoForest.jpg]]
 
 * Teaching
   :PROPERTIES:
   :EXPORT_FILE_NAME: teaching
   :END:
 
-#+begin_export md
+#+begin_export html
 <style>
 body {
 text-align: justify}
 </style>
-<!-- Teaching page under construction -->
-
-My teaching experience streches back to the second year of my undergraduate program. As a graduate student instructor (TA) at Berkeley, I received an Outstanding Graduate Student Instructor award, a Certificate of Teaching and Learning in Higher Education, and was invited to train new quantitative social science GSIs at a pre-semester, campus-wide teaching conference. As an undergraduate I served for three years as a Peer Assisted Study Session Facilitator (similar to TA) for introductory micro- and macroeconomics, during which time I received a ‘Most Valuable Facilitator’ award and helped develop a new anti-plagiarism module, the results of which I presented at a national conference. I will be pleased to provide a teaching portfolio, including a statement of teaching philosophy and student reviews, upon request. I currently teach masters-level microeconomics at NC State.
-
-&nbsp;
-
-## Certificate
-I received a [Certificate of Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/) from UC Berkeley in 2017. The requirements of the certificate are:
-
- - Participation in the all-day Teaching Conference for First-Time GSIs at UC Berkeley
- - Successful completion of a 300-level course on pedagogy that has been approved for the Certificate Program in the relevant discipline
- - Successful completion of the GSI Professional Standards and Ethics Online Course
- - Participation in six qualifying Workshops on Teaching
- - At least two semesters of teaching as a GSI at UC Berkeley
- - GSI classroom teaching observation by, and consultation with, a faculty mentor
- - Development of a course syllabus that you have designed
- - Use of mid-semester teaching evaluations
- - Creation of a teaching portfolio (*available on request*)
-
-&nbsp;
-
-## Awards
-
- - Outstanding Graduate Student Instructor Award, UC Berkeley, Fall 2013.
-
- - Most Valuable Facilitator Award (Facilitator's Choice), Peer-Assisted Students Sessions (PASS) Program, Winter Semester, 2009.
-
-&nbsp;
-
-## Experience
-
- - Instructor, *Fundamentals of Microeconomics (ECG700)*, NC State, Fall 2020-21.
-
- - Instructor, Master of Development Practice Math Bootcamp, UC Berkeley, Summer 2014--2017 (4 summers).
-
- - Discipline-Cluster Workshop Leader for Quantitative Social Sciences, UC Berkeley GSI Teaching Conference, Spring 2017.
-
- - Teaching Assistant, *Dynamic Modeling* (ARE 298; a 2 week intensive course) for Prof. Christian Traeger, April 2015.
-
- - Graduate Student Instructor, *Mathematical Methods for Agricultural and Resource Economics* (ARE211) for Prof. Leo Simon, UC Berkeley, Fall 2014.
-
- - Graduate Student Instructor, *The Economics of Climate Change* (EEP 175) for Prof. Christian Traeger, UC Berkeley, Fall 2013.
-
- - ARE Departmental Tutor, *Mathematical Tools for Economists* (ECON 204), UC Berkeley, Summer 2013.
-
- - Teaching Assistant, *Introduction to Resource Economics* (RSEC1031) for Prof. Michael Harris, University of Sydney, Aug--Nov 2010.
-
- - Peer-Assisted Study Session Facilitator for *Introductory Micro- and Macroeconomics*, University of Sydney, 2008--2010 (6 semesters).
-
- - Video Peer Assisted Study Session Facilitator for an Anti-plagiarism Component of *Business in the Global Environment*, University of Sydney, 2009--2010 (2 semesters).
-
-
-
-<!-- [Write up teaching paragraph--perhaps extract from Teaching Portfolio] -->
-<!-- I won the Outstanding Graduate Student Instructor Award -->
-<!-- earned and the Certificate of Teaching and Learning in Higher Education UC Berkeley. -->
 #+end_export
+
+#+begin_comment
+Teaching page under construction
+#+end_comment
+
+My teaching experience stretches back to the second year of my undergraduate program. As a graduate student instructor (TA) at Berkeley, I received an Outstanding Graduate Student Instructor award, a Certificate of Teaching and Learning in Higher Education, and was invited to train new quantitative social science GSIs at a pre-semester, campus-wide teaching conference. As an undergraduate I served for three years as a Peer Assisted Study Session Facilitator (similar to TA) for introductory micro- and macroeconomics, during which time I received a 'Most Valuable Facilitator' award and helped develop a new anti-plagiarism module, the results of which I presented at a national conference. I will be pleased to provide a teaching portfolio, including a statement of teaching philosophy and student reviews, upon request. I currently teach masters-level microeconomics at NC State.
+
+** Certificate
+I received a [[https://gsi.berkeley.edu/programs-services/certificate-program/][Certificate of Teaching and Learning in Higher Education]] from UC Berkeley in 2017. The requirements of the certificate are:
+
+- Participation in the all-day Teaching Conference for First-Time GSIs at UC Berkeley
+- Successful completion of a 300-level course on pedagogy that has been approved for the Certificate Program in the relevant discipline
+- Successful completion of the GSI Professional Standards and Ethics Online Course
+- Participation in six qualifying Workshops on Teaching
+- At least two semesters of teaching as a GSI at UC Berkeley
+- GSI classroom teaching observation by, and consultation with, a faculty mentor
+- Development of a course syllabus that you have designed
+- Use of mid-semester teaching evaluations
+- Creation of a teaching portfolio (/available on request/)
+
+** Awards
+
+- Outstanding Graduate Student Instructor Award, UC Berkeley, Fall 2013.
+- Most Valuable Facilitator Award (Facilitator's Choice), Peer-Assisted Students Sessions (PASS) Program, Winter Semester, 2009.
+
+** Experience
+
+- Instructor, /Fundamentals of Microeconomics (ECG700)/, NC State, Fall 2020-21.
+- Instructor, Master of Development Practice Math Bootcamp, UC Berkeley, Summer 2014--2017 (4 summers).
+- Discipline-Cluster Workshop Leader for Quantitative Social Sciences, UC Berkeley GSI Teaching Conference, Spring 2017.
+- Teaching Assistant, /Dynamic Modeling/ (ARE 298; a 2 week intensive course) for Prof. Christian Traeger, April 2015.
+- Graduate Student Instructor, /Mathematical Methods for Agricultural and Resource Economics/ (ARE211) for Prof. Leo Simon, UC Berkeley, Fall 2014.
+- Graduate Student Instructor, /The Economics of Climate Change/ (EEP 175) for Prof. Christian Traeger, UC Berkeley, Fall 2013.
+- ARE Departmental Tutor, /Mathematical Tools for Economists/ (ECON 204), UC Berkeley, Summer 2013.
+- Teaching Assistant, /Introduction to Resource Economics/ (RSEC1031) for Prof. Michael Harris, University of Sydney, Aug--Nov 2010.
+- Peer-Assisted Study Session Facilitator for /Introductory Micro- and Macroeconomics/, University of Sydney, 2008--2010 (6 semesters).
+- Video Peer Assisted Study Session Facilitator for an Anti-plagiarism Component of /Business in the Global Environment/, University of Sydney, 2009--2010 (2 semesters).
+
+#+begin_comment
+[Write up teaching paragraph--perhaps extract from Teaching Portfolio]
+I won the Outstanding Graduate Student Instructor Award
+earned and the Certificate of Teaching and Learning in Higher Education UC Berkeley.
+#+end_comment

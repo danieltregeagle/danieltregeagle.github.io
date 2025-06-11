@@ -19,14 +19,7 @@ body {
 {{< figure src="/photos/danielTregeaglePicture2.JPG" >}}
 
 
-
-### Assistant Professor and Extension Specialist
-
-<br>
-
-<!-- UNDER CONSTRUCTION -->
-
-<!-- <div style="text-align: justify"> -->
+## Assistant Professor and Extension Specialist {#assistant-professor-and-extension-specialist}
 
 I am an assistant professor and extension specialist in the [Department of Agricultural and Resource Economics at North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics). My work is focused on the economics of specialty crops and the economics of agricultural policy more generally. Applications have included analyzing agro-environmental policy, market analysis, minimizing costs of processing supply chains, and optimizing orchard replacement.
 
