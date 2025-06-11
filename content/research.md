@@ -87,4 +87,4 @@ A fundamental issue in perennial crop economics is finding the optimal time to r
 -   U.S Consumers' Perceptions on Agricultural Labor Supply (with Vitalis Othuon, Benjamin Campbell, and William Secor)
 -   Regionally Identified Heirloom Crops as a Viable Niche for Small Specialty Producers (with Ben Boyles, Diana Fossbrinck, David Lamie, Yefan Nian, and Michael Vassalos)
 
-{{< figure src="/photos/MagicSweetPotatoForest.jpg" >}}
+{{< figure src="/photos/sweetpotato_figurine.jpg" >}}
