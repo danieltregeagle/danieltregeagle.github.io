@@ -246,6 +246,7 @@ More about this website.
 * CV
   :PROPERTIES:
   :EXPORT_FILE_NAME: cv
+  :ID:       b6ba0d2f-fd35-4dc4-921a-794c28beed5a
   :END:
 
 #+begin_export html
@@ -255,9 +256,7 @@ text-align: justify}
 </style>
 #+end_export
 
-[[/files/tregeagleCV_2018_09_OnePage.pdf][One Page CV]]
-
-[[/files/tregeagleCV_2021_07.pdf][Full CV]]
+[[/files/tregeagleCV_2025_06.pdf][Full CV]]
 
 * Extension
   :PROPERTIES:
