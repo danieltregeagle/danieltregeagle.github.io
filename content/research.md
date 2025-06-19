@@ -17,12 +17,18 @@ My dissertation, [The dynamics of perennial crop production and processing](/fil
 
 ### The influence of water conservation practices on US nurseries' decision to sell native plants {#the-influence-of-water-conservation-practices-on-us-nurseries-decision-to-sell-native-plants}
 
-(with Melinda Knuth, Alicia Rihn, Bridget Behe, Bryan Peterson, and Marco Palma) - Accepted at _HortScience_.
+(with Melinda Knuth, Alicia Rihn, Bridget Behe, Bryan Peterson, and Marco Palma) - Forthcoming at _HortScience_.
+
+_Abstract:_
+Native plants are becoming a highly demanded horticulture product due to the general public’s interest and government policies promoting them. As a result, plant growers are increasingly incorporating native plants into their plant offerings. But, what business and environmental factors influence grower adoption of native plants? This gap in the literature is addressed through an investigation of U.S. grower survey data from 2013 and 2018 using a zero- one-inflated-beta (ZOIB) model. Results indicate that some key factors such as water sources and type of plant products influence the likelihood of native plants adoption across the models, but variables such as rainfall and population density around business location do not. These results have important implications for policies that promote the growth of native plants and prospective horticultural industry growers.
 
 
-### A Diamond in the Rough: Identifying Heritage Crop Niche Markets in the U.S. Using a Discrete Choice Experiment {#a-diamond-in-the-rough-identifying-heritage-crop-niche-markets-in-the-u-dot-s-dot-using-a-discrete-choice-experiment}
+### [A Diamond in the Rough: Identifying Heritage Crop Niche Markets in the U.S. Using a Discrete Choice Experiment](https://doi.org/10.1111/agec.70043) {#a-diamond-in-the-rough-identifying-heritage-crop-niche-markets-in-the-u-dot-s-dot-using-a-discrete-choice-experiment}
 
 (with Yefan Nian, R. David Lamie, Michael Vassalos, Ben Boyles, and Diana Vossbrinck) - _Agricultural Economics_, 2025.
+
+_Abstract:_
+Heritage crops are grown from open-pollinated old cultivars and are considered significant in their connection to human culture and food systems. Although developing market opportunities and promoting their production can be an effective strategy to conserve them, little is known about US consumers' awareness, interest, and preferences for them. In this study, we conducted a national survey and used a discrete choice experiment with five different crops (i.e., apple, cabbage, rice, squash, and tomato) to systematically investigate US consumers' preferences for heritage crops. We found that US consumers' awareness of heritage crops is limited. Their willingness-to-pays (WTPs) for these crops are relatively modest and vary between heirloom crops, which emphasize the legacy and time aspects of the crops, and heritage crops, which demonstrate the cultural and historical aspects of the crops. However, consumers' WTPs for heritage crops appear consistent across US regions and consumers' residency areas (i.e., cities, suburbs, and rural areas). Only a few consumers' lifestyle variables tend to be correlated to their WTPs. The findings of this study provide substantial empirical evidence to help farmers identify marketing opportunities for heritage crops and examine the feasibility of using a market-driven approach to conserve heritage crops in the United States.
 
 
 ### [Developing Practical Measures of the Price of Pesticide Resistance: A Flexible Computational Framework with Global Sensitivity Analysis](https://doi.org/10.1002/jaa2.107) {#developing-practical-measures-of-the-price-of-pesticide-resistance-a-flexible-computational-framework-with-global-sensitivity-analysis}
