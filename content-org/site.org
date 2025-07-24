@@ -1,7 +1,7 @@
 #+title: Daniel Tregeagle Website
 #+author: Daniel Tregeagle
 #+hugo_base_dir: ../
-
+#+STARTUP: content
 * Hugo local development workflow                                  :noexport:
 ** Directory Structure
 :PROPERTIES:
@@ -236,6 +236,45 @@ efficient - you'll see changes almost instantly.
 
 
 
+* Daniel Tregeagle, Ph.D.
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_HUGO_SECTION: .
+  :ID:       0b0f30ab-bf62-4132-8dfe-1a9de47bb59e
+  :END:
+
+#+begin_export html
+<style>
+  .floatRight {
+    float: right;
+    width: 33%;
+    margin: 0 1em 1em 1em;
+  }
+  .floatRight img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  body {
+    text-align: justify;
+  }
+</style>
+#+end_export
+
+#+ATTR_HTML: :class "floatRight"
+[[/photos/danielTregeaglePicture2.JPG]]
+
+*** Assistant Professor and Extension Specialist
+
+I am an assistant professor and extension specialist in the [[https://cals.ncsu.edu/agricultural-and-resource-economics][Department of Agricultural and Resource Economics at North Carolina State University]]. My work focuses on the economics of specialty crops—fruits, vegetables, nuts, and ornamental plants—with a particular interest in perennial crop systems like orchards and vineyards.
+
+My research applies economic methods to understand how specialty crop producers make adoption decisions about new technologies and varieties, while advancing economic theory for perennial crop management and supply response. This work addresses practical questions like how growers value disease-resistant plant varieties, optimal orchard replanting strategies, and the economics of controlled-environment agriculture.
+
+Through my extension program, I provide economic analysis directly to producers across the Southeast, including enterprise budgets for crops like strawberries, sweetpotatoes, and blackberries, market outlook presentations, and economic impact studies. Recent work includes co-leading the [[https://go.ncsu.edu/green-industry-impact][North Carolina Green Industry Impact Report]] delivered to the state legislature and contributing to the multi-state [[https://content.ces.ncsu.edu/southern-regional-strawberry-plasticulture-production-guide]["Southern Regional Strawberry Plasticulture Production Guide."]] I have reached over 1,300 stakeholders through presentations across the region.
+
+I hold a Ph.D. and M.S. in Agricultural and Resource Economics from the [[https://are.berkeley.edu][University of California, Berkeley]], and a Bachelor of Resource Economics (Hons. 1M) from the [[http://sydney.edu.au][University of Sydney, Australia]]. During my postdoctoral studies at the [[https://are.ucdavis.edu][Department of Agricultural and Resource Economics at UC Davis]], I contributed to interdisciplinary regulatory impact studies for the California Department of Food and Agriculture, analyzing the economic effects of proposed pesticide regulations on major agricultural commodities.
+
+
 * About This Website                                               :noexport:
   :PROPERTIES:
   :EXPORT_FILE_NAME: about
@@ -291,37 +330,6 @@ California review of the herbicide dacthal triggered by the requirements of Cali
 ** Reports
 
 *** [[/files/2020-Caneberry-Pricing-Survey-Report-Nov.pdf][A Report on NARBA's 2020 Pricing and Marketing Survey]]
-
-* Daniel Tregeagle, Ph.D.
-  :PROPERTIES:
-  :EXPORT_FILE_NAME: _index
-  :EXPORT_HUGO_SECTION: .
-  :ID:       0b0f30ab-bf62-4132-8dfe-1a9de47bb59e
-  :END:
-
-#+begin_export html
-<style>
-.floatRight {
-  float: right;
-  margin-left: 40px;
-  margin-bottom: 500px;
-  margin-top: 75px;
-}
-body {
-  text-align: justify;
-}
-</style>
-#+end_export
-
-[[/photos/danielTregeaglePicture2.JPG]]
-
-*** Assistant Professor and Extension Specialist
-
-I am an assistant professor and extension specialist in the [[https://cals.ncsu.edu/agricultural-and-resource-economics][Department of Agricultural and Resource Economics at North Carolina State University]]. My work is focused on the economics of specialty crops and the economics of agricultural policy more generally. Applications have included analyzing agro-environmental policy, market analysis, minimizing costs of processing supply chains, and optimizing orchard replacement.
-
-I hold a Ph.D. and M.S. in agricultural and resource economics from the [[https://are.berkeley.edu][University of California, Berkeley]] as well as a Bachelor of Resource Economics (Hons. 1M) from the [[http://sydney.edu.au][University of Sydney, Australia]]. During my postdoctoral studies at the [[https://are.ucdavis.edu][Department of Agricultural and Resource Economics at UC Davis]], I co-authored several inter-disciplinary reports for the California Department of Food and Agriculture analyzing the expected impacts of proposed pesticide regulations.
-
-My primary fields of study are agricultural, environmental, and natural resource economics.
 
 * Research
   :PROPERTIES:
