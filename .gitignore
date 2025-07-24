@@ -7,3 +7,5 @@
 .hugo_build.lock
 \#*.org#
 .#*.org
+
+content/site.md
