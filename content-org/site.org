@@ -261,7 +261,7 @@ efficient - you'll see changes almost instantly.
 </style>
 #+end_export
 
-#+ATTR_HTML: :class "floatRight"
+#+ATTR_HTML: :class floatRight
 [[/photos/danielTregeaglePicture2.JPG]]
 
 *** Assistant Professor and Extension Specialist

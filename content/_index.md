@@ -20,7 +20,7 @@ draft = false
   }
 </style>
 
-{{< figure src="/photos/danielTregeaglePicture2.JPG" class=""floatRight"" >}}
+{{< figure src="/photos/danielTregeaglePicture2.JPG" class="floatRight" >}}
 
 
 ## Assistant Professor and Extension Specialist {#assistant-professor-and-extension-specialist}
