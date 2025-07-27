@@ -2,6 +2,19 @@
 #+author: Daniel Tregeagle
 #+hugo_base_dir: ../
 #+STARTUP: content
+
+#+begin_src powershell :async t :results silent
+# Navigate to Hugo site directory
+cd ../
+
+# Open Hugo server with specific port
+hugo server -D -p 1313
+
+#Open Chrome
+start chrome http://localhost:1313
+#+end_src
+
+
 * Hugo local development workflow                                  :noexport:
 ** Directory Structure
 :PROPERTIES:
@@ -75,13 +88,13 @@ Open PowerShell or Command Prompt in your =hugo-site= directory:
 
 #+begin_src powershell
 # Navigate to Hugo site directory
-cd path\to\your\hugo-site
+cd ../
 
-# Start development server
-hugo server -D --bind 0.0.0.0
-
-# Alternative with specific port
+# Open Hugo server with specific port
 hugo server -D -p 1313
+
+#Open Chrome
+start chrome http://localhost:1313
 #+end_src
 
 *Key flags:* - =-D= includes draft content - =--bind 0.0.0.0= allows
