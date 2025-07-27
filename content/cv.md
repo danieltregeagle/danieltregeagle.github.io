@@ -9,4 +9,4 @@ body {
 text-align: justify}
 </style>
 
-[Full CV](/files/tregeagleCV_2025_06.pdf)
+[Full CV](/files/tregeagleCV_2025_07.pdf)

@@ -308,7 +308,7 @@ text-align: justify}
 </style>
 #+end_export
 
-[[/files/tregeagleCV_2025_06.pdf][Full CV]]
+[[/files/tregeagleCV_2025_07.pdf][Full CV]]
 
 * Extension
   :PROPERTIES:
