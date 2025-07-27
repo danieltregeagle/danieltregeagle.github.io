@@ -410,6 +410,12 @@ Neonicotinoid insecticides are widely used in agriculture, including in many Cal
 *** The Optimal Management of Orchards
 (with Leo Simon)
 
+[[../static/files/tregeagle_simon_250727.pdf][Link to current draft]]
+/Abstract/:
+Perennial crops, particularly fruit and tree nut orchards, represent a high-value sector in global agriculture, yet the theory of optimal management with production smoothing preferences in multi-age-class orchards remains unresolved. While previous analyses examine either single-tree models or multi-age orchards without production smoothing, we analyze orchards where growers prefer stable production over time and must manage trees of multiple ages simultaneously. This paper characterizes optimal tree replacement strategies and their long-run dynamics: when to replace trees and whether to replace them simultaneously or partially, and how orchards evolve toward steady-state management patterns. We first extend existing two-age-class models by characterizing complete transition dynamics, correcting an omission in previous work, and developing comparative statics for optimal cycle amplitude. We then introduce a three-age-class model that provides the first complete convergence characterization for orchards with non-monotonic yield curves and production smoothing preferences. For both models, we prove that optimally managed orchards exhibit cyclical production patterns with partial rather than simultaneous replacement, and demonstrate finite-time convergence: arbitrary initial age distributions converge to optimal cycles within two periods (two-age-class) or a bounded number of periods (three-age-class). We identify a 'cycle region' where initial allocations immediately generate optimal cycles. Our results are applicable to other point-input, flow-output capital assets with non-monotonic productivity.
+
+
+
 *** Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil
 (with David Zilberman)
 
