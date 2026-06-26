@@ -274,10 +274,12 @@ efficient - you'll see changes almost instantly.
 </style>
 #+end_export
 
-#+ATTR_HTML: :class floatRight
+#+ATTR_HTML: :class floatRight :alt Daniel Tregeagle :title Daniel Tregeagle
 [[/photos/danielTregeaglePicture2.JPG]]
 
-*** Assistant Professor and Extension Specialist
+*** Assistant Professor and Extension Specialist (promotion to Associate Professor with tenure effective August 15, 2026)
+
+I am an agricultural economist who helps growers, industry groups, agencies, and research teams use economic evidence to make better decisions about specialty crops, from technology adoption to markets, supply chains, and policy.
 
 I am an assistant professor and extension specialist in the [[https://cals.ncsu.edu/agricultural-and-resource-economics][Department of Agricultural and Resource Economics at North Carolina State University]]. My work focuses on the economics of specialty crops—fruits, vegetables, nuts, and ornamental plants—with a particular interest in perennial crop systems like orchards and vineyards.
 
@@ -286,6 +288,8 @@ My research applies economic methods to understand how specialty crop producers 
 Through my extension program, I provide economic analysis directly to producers across the Southeast, including enterprise budgets for crops like strawberries, sweetpotatoes, and blackberries, market outlook presentations, and economic impact studies. Recent work includes co-leading the [[https://go.ncsu.edu/green-industry-impact][North Carolina Green Industry Impact Report]] delivered to the state legislature and contributing to the multi-state [[https://content.ces.ncsu.edu/southern-regional-strawberry-plasticulture-production-guide]["Southern Regional Strawberry Plasticulture Production Guide."]] I have reached over 1,300 stakeholders through presentations across the region.
 
 I hold a Ph.D. and M.S. in Agricultural and Resource Economics from the [[https://are.berkeley.edu][University of California, Berkeley]], and a Bachelor of Resource Economics (Hons. 1M) from the [[http://sydney.edu.au][University of Sydney, Australia]]. During my postdoctoral studies at the [[https://are.ucdavis.edu][Department of Agricultural and Resource Economics at UC Davis]], I contributed to interdisciplinary regulatory impact studies for the California Department of Food and Agriculture, analyzing the economic effects of proposed pesticide regulations on major agricultural commodities.
+
+*Contact:* [[mailto:tregeagle@ncsu.edu][tregeagle@ncsu.edu]] · [[https://scholar.google.com/citations?user=PccgqYIAAAAJ&hl=en][Google Scholar]] · [[https://orcid.org/0000-0002-8863-2832][ORCID]]
 
 
 * About This Website                                               :noexport:
@@ -487,3 +491,25 @@ I received a [[https://gsi.berkeley.edu/programs-services/certificate-program/][
 I won the Outstanding Graduate Student Instructor Award
 earned and the Certificate of Teaching and Learning in Higher Education UC Berkeley.
 #+end_comment
+
+* Site update TODOs                                                 :noexport:
+Tracking items for the 2026-06 site update, see =plans/site-update-2026-06.md=.
+This whole subtree is =:noexport:=, so nothing here reaches the built site.
+
+** TODO Flip home title to "Associate Professor with Tenure and Extension Specialist" on/after 2026-08-15
+:PROPERTIES:
+:DEADLINE: <2026-08-15>
+:END:
+Remove the parenthetical promotion note from the home heading once the new title is effective.
+
+** TODO Confirm Applied & Policy Work project-card figures against the published articles
+The dollar figures and crop lists for the project cards are left out of the page until confirmed against the articles already linked on the Extension and Research pages.
+
+** TODO Create one-page "Applied Agricultural Economist" résumé PDF and wire up its link
+Separate document, LaTeX or markdown to PDF, not an ox-hugo edit. The Applied page has a placeholder link target waiting for the file.
+
+** TODO Daniel to review drafted prose before publishing online
+Home value statement, research program lead-in, and Applied & Policy Work copy are drafts. Review, then push to master to publish.
+
+** TODO Explore PaperMod profile mode for themed social icons after the 2026-06 edits land
+Currently contact links are inline text on the home page. Profile mode (or home-info mode) would render themed Google Scholar, ORCID, and email icons, but restructures the bio homepage. Worth a look once this update is published.
