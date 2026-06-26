@@ -23,9 +23,10 @@ After finishing a task: tick its box, add a one-line **Session Log** entry, upda
 
 **Status legend:** `[ ]` todo · `[~]` in progress · `[x]` done · `[!]` blocked (see Decisions) · `keep`
 
-**Current position:** ▶ All phases (1–5) drafted, built, and verified locally on branch `site-update-2026-06`. Awaiting Daniel's review of the drafted prose; **do not push to `master` until reviewed** (D3). Open: D7 (extension tightening, deferred) and the `:noexport:` TODOs (title flip, résumé PDF, project-card figures, profile-mode exploration).
+**Current position:** ▶ Readability review applied (clear items, commit `3683820`). Built + verified locally on branch `site-update-2026-06`. Awaiting Daniel on deferred items D8–D14 and review of drafted prose; **do not push to `master` until reviewed** (D3).
 
 ### Session Log (newest first)
+- 2026-06-26 · review · Applied the clear items from Daniel's readability review (justify removal, homepage/extension/applied/research/teaching rewrites, sentence-case headings, copy fixes). Deferred items D8–D14 below. Committed `3683820`.
 - 2026-06-26 · I3,I4,I5,X1 · Applied & Policy Work page + nav, research program lead-in, extension lead line + NARBA summary. **Found + fixed** ox-hugo default-section bug (`#+hugo_section: .`). Cleaned stale `content/posts/` mis-exports. Full local build verified. D7 deferred.
 - 2026-06-26 · I1,I2 · Home correctness pass + value statement. Found PaperMod social icons need profile/home-info mode; used inline links (D6).
 - 2026-06-26 · P0 · Toolchain verified (Hugo 0.163.3 extended, Emacs 29.4, ox-hugo installed). Theme submodule checked out. `build-site` skill authored + tested (export = zero diff). All required PaperMod social icons confirmed present. Source spec archived. Plan finalized.
@@ -115,7 +116,14 @@ All unconfirmed claims and deferred work are tracked as **real org `TODO` headin
 | D5 | Nav label "Applied & Policy Work" as written? | **resolved → "Applied & Policy Work"** (2026-06-26) |
 
 | D6 | Themed home-page social icons require enabling PaperMod profile/home-info mode. | **resolved → keep inline links now; explore profile mode after these edits land** (2026-06-26) |
-| D7 | Tighten the four Extension CA pesticide-study summaries to one sentence each + commodity grouping? | open → deferred to Daniel (`:noexport:` TODO) |
+| D7 | Tighten the four Extension CA pesticide-study summaries to one sentence each + commodity grouping? | partly addressed in review pass; remaining grouping deferred |
+| D8 | Promotion-note wording (review #7): keep current parenthetical, or "Approved for promotion to Associate Professor with tenure, effective August 15, 2026"? | open — personal framing, Daniel's call |
+| D9 | Research abstracts (review #16/#17/#18): keep full abstracts, replace with short plain-language summaries, or make collapsible? Drives the abstract-internal grammar/US-style fixes. | open |
+| D10 | US vs U.S. standardization (review small edits) — mostly inside abstracts and some publication titles; risky to change quoted/official titles. | open, tied to D9 |
+| D11 | Teaching "Fall 2020-21" (review #23): which semesters exactly (2020 & 2021? academic year? add 2024/2025)? | open — needs Daniel's facts |
+| D12 | Certificate section (review #22): keep full requirements list, summarize to one sentence, or collapse? Depends on promotion/teaching-eval use. | open |
+| D13 | "Hons. 1M" expansion (review small edits) — resolved by removal in the credentials rewrite; re-add as "First Class Honours" if wanted. | open (currently omitted) |
+| D14 | Homepage extension work as prose (done) vs bullets (review #27 alternative). | open — prose used; bullets available |
 
 **Publishing gate (D3):** all edits stay on the working branch and are previewed locally. Do **not** push to `master` (which auto-deploys) until Daniel reviews the drafted prose.
 
