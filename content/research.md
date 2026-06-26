@@ -4,24 +4,19 @@ author = ["Daniel Tregeagle"]
 draft = false
 +++
 
-<style>
-body {
-text-align: justify}
-</style>
-
-My dissertation, [The dynamics of perennial crop production and processing](/files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
+My dissertation, [The Dynamics of Perennial Crop Production and Processing](/files/dissertationFinal.pdf), studied investment, yield, and processing decisions in perennial crop systems, with applications to Brazilian sugarcane and the biofuel industry.
 
 
 ## Research program {#research-program}
 
-My research applies economic methods to perennial and specialty-crop systems, organized around three themes. The publications below are the evidence for this program.
+My research applies economic methods to perennial and specialty-crop systems. The work is organized around three themes:
 
 -   **Perennial-crop dynamics:** investment, replanting, and supply response in orchards, vineyards, and cane systems.
--   **Specialty-crop adoption and supply response:** how growers value new varieties and technologies, and how supply adjusts.
--   **Controlled-environment and emerging systems:** the economics of controlled-environment agriculture and new production systems.
+-   **Specialty-crop adoption and supply response:** how growers value new varieties and technologies, and how those decisions affect production over time.
+-   **Controlled-environment and emerging production:** the economics of controlled-environment agriculture and other new production technologies.
 
 
-## Peer-Reviewed Journal Articles {#peer-reviewed-journal-articles}
+## Peer-reviewed journal articles {#peer-reviewed-journal-articles}
 
 
 ### The influence of water conservation practices on US nurseries' decision to sell native plants {#the-influence-of-water-conservation-practices-on-us-nurseries-decision-to-sell-native-plants}
@@ -86,7 +81,7 @@ _Abstract:_
 Neonicotinoid insecticides are widely used in agriculture, including in many California specialty crops. With mounting evidence that these insecticides are harmful to bees, state and national governments have increasingly regulated their use. The European Union, Canada, and United States have imposed use restrictions on several neonicotinoids, such as on the timing of applications. In 2020, California proposed a draft regulation to mitigate harm to managed pollinators from four nitroguanidine-substituted neonicotinoids (NGNs): clothianidin, dinotefuran, imidacloprid, and thiamethoxam. We use data on California pesticide use from 2015 to 2017 to analyze the economic and pest management implications of the 2020 draft proposed regulation for seven crops: almond, cherry, citrus, cotton, grape, strawberry, and tomato. From 2015 to 2017, these crops accounted for approximately 85% of total hectares treated with NGNs and 87% of NGN use by kilograms of active ingredient applied in treatments that would have been affected by the proposed regulation. These insecticides often primarily target Hemipteran insect pests. In most cases there are alternatives; however, these are often more expensive per hectare and do not have the same residual effectiveness as the NGNs, which are systemic insecticides. Overall, we estimate that pest management costs for these crops would have increased an estimated $13.6 million in 2015, $12.8 million in 2016, and $11.1 million in 2017 if the 2020 draft proposed regulation had been in effect, representing a 61% to 72% increase in the cost of managing the target pests.
 
 
-## Working Papers {#working-papers}
+## Working papers {#working-papers}
 
 
 ### Improving economic performance of vineyard establishment: PIVC grapevines can increase profits for growers {#improving-economic-performance-of-vineyard-establishment-pivc-grapevines-can-increase-profits-for-growers}
@@ -99,7 +94,7 @@ Neonicotinoid insecticides are widely used in agriculture, including in many Cal
 (with Nick Berenson, Amanda Solliday, and Melinda Knuth) - Revise and resubmit at _Choices_.
 
 
-### U.S. Consumer's Perceptions of Undocumented Agricultural Labor {#u-dot-s-dot-consumer-s-perceptions-of-undocumented-agricultural-labor}
+### U.S. Consumers' Perceptions of Undocumented Agricultural Labor {#u-dot-s-dot-consumers-perceptions-of-undocumented-agricultural-labor}
 
 (with Ben Campbell, Will Secor, and Samyam Shrestha) - Under review
 
@@ -128,7 +123,7 @@ Perennial crops, particularly fruit and tree nut orchards, represent a high-valu
 (with Jung Hoon Han and Yue Shan)
 
 
-## Works in Progress {#works-in-progress}
+## Works in progress {#works-in-progress}
 
 -   State-space approaches to perennial crop supply response: An application to citrus greening in Florida (with Zoë Plakias and Greg Astill)
 -   Measuring the potential impacts of further citrus greening spread on the US citrus industry with a dynamic EDM (with Zoë Plakias and Greg Astill)

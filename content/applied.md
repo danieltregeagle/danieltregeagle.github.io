@@ -1,26 +1,21 @@
 +++
-title = "Applied & Policy Work"
+title = "Applied and policy work"
 author = ["Daniel Tregeagle"]
 draft = false
 +++
 
-<style>
-body {
-text-align: justify}
-</style>
-
-I translate economic analysis into decisions for growers, agribusiness, and agencies.
+I help growers, agribusinesses, agencies, and industry groups use economic analysis to make production, investment, market, and policy decisions.
 
 
 ## How I can help {#how-i-can-help}
 
--   **Technology and variety adoption:** whether a new variety, input, or production system pays, and for whom.
--   **Specialty-crop market analysis:** demand, price, and outlook for fruits, vegetables, nuts, and ornamentals.
--   **Enterprise budgeting and cost of production:** what it costs to grow a crop, and where the margins are.
--   **Regulatory and policy impact analysis:** what a proposed rule or program would cost or save, by crop and region.
--   **Perennial-crop investment and replacement:** when to plant, replant, and replace orchards, vineyards, and cane.
--   **Supply-chain and processing economics:** how product moves from field to buyer, and where value is gained or lost.
--   **Decision tools and stakeholder presentations:** turning analysis into budgets, briefings, and tools growers and agents can use.
+-   **Technology and variety adoption:** Evaluate whether a new variety, input, or production system pays, and for whom.
+-   **Specialty-crop market analysis:** Analyze demand, prices, and outlook for fruits, vegetables, nuts, and ornamentals.
+-   **Enterprise budgeting and cost of production:** Estimate production costs, returns, and key margins.
+-   **Regulatory and policy impact analysis:** Estimate how proposed rules or programs affect costs, revenue, and risk by crop and region.
+-   **Perennial-crop investment and replacement:** Analyze when to plant, replant, or replace orchards, vineyards, and cane.
+-   **Supply-chain and processing economics:** Evaluate how products move from field to buyer, and where value is gained or lost.
+-   **Decision tools and stakeholder presentations:** Turn analysis into budgets, briefings, and tools growers and agents can use.
 
 
 ## Selected projects {#selected-projects}
@@ -35,7 +30,7 @@ _Methods:_ economic impact analysis, stakeholder reporting.
 ### Pesticide Withdrawal Cost Studies {#pesticide-withdrawal-cost-studies}
 
 Estimated the revenue effects of proposed pesticide cancellations across major crops, to inform state regulatory decisions.
-_Methods:_ partial-budget and regulatory impact analysis.
+_Methods:_ partial budgeting, regulatory impact analysis, and cost estimation.
 
 
 ### Technology and Variety Adoption {#technology-and-variety-adoption}

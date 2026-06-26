@@ -4,12 +4,11 @@ author = ["Daniel Tregeagle"]
 draft = false
 +++
 
-<style>
-body {
-text-align: justify}
-</style>
+I teach graduate microeconomics at NC State, with an emphasis on clear economic reasoning, mathematical modeling, and applied examples from agriculture and resource economics.
 
-My teaching experience stretches back to the second year of my undergraduate program. As a graduate student instructor (TA) at Berkeley, I received an Outstanding Graduate Student Instructor award, a Certificate of Teaching and Learning in Higher Education, and was invited to train new quantitative social science GSIs at a pre-semester, campus-wide teaching conference. As an undergraduate I served for three years as a Peer Assisted Study Session Facilitator (similar to TA) for introductory micro- and macroeconomics, during which time I received a 'Most Valuable Facilitator' award and helped develop a new anti-plagiarism module, the results of which I presented at a national conference. I will be pleased to provide a teaching portfolio, including a statement of teaching philosophy and student reviews, upon request. I currently teach masters-level microeconomics at NC State.
+My teaching experience began as an undergraduate peer-assisted study session facilitator for introductory economics and continued through graduate teaching at UC Berkeley. At Berkeley, I received an Outstanding Graduate Student Instructor Award, earned a Certificate of Teaching and Learning in Higher Education, and helped train new quantitative social science instructors at the campus-wide GSI teaching conference.
+
+Teaching materials, student reviews, and a full teaching portfolio are available on request.
 
 
 ## Certificate {#certificate}
@@ -30,7 +29,7 @@ I received a [Certificate of Teaching and Learning in Higher Education](https://
 ## Awards {#awards}
 
 -   Outstanding Graduate Student Instructor Award, UC Berkeley, Fall 2013.
--   Most Valuable Facilitator Award (Facilitator's Choice), Peer-Assisted Students Sessions (PASS) Program, Winter Semester, 2009.
+-   Most Valuable Facilitator Award (Facilitator's Choice), Peer-Assisted Study Sessions (PASS) Program, Winter Semester, 2009.
 
 
 ## Experience {#experience}
@@ -38,7 +37,7 @@ I received a [Certificate of Teaching and Learning in Higher Education](https://
 -   Instructor, _Fundamentals of Microeconomics (ECG700)_, NC State, Fall 2020-21.
 -   Instructor, Master of Development Practice Math Bootcamp, UC Berkeley, Summer 2014--2017 (4 summers).
 -   Discipline-Cluster Workshop Leader for Quantitative Social Sciences, UC Berkeley GSI Teaching Conference, Spring 2017.
--   Teaching Assistant, _Dynamic Modeling_ (ARE 298; a 2 week intensive course) for Prof. Christian Traeger, April 2015.
+-   Teaching Assistant, _Dynamic Modeling_ (ARE 298; a two-week intensive course) for Prof. Christian Traeger, April 2015.
 -   Graduate Student Instructor, _Mathematical Methods for Agricultural and Resource Economics_ (ARE211) for Prof. Leo Simon, UC Berkeley, Fall 2014.
 -   Graduate Student Instructor, _The Economics of Climate Change_ (EEP 175) for Prof. Christian Traeger, UC Berkeley, Fall 2013.
 -   ARE Departmental Tutor, _Mathematical Tools for Economists_ (ECON 204), UC Berkeley, Summer 2013.

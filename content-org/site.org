@@ -263,32 +263,32 @@ efficient - you'll see changes almost instantly.
     float: right;
     width: 33%;
     margin: 0 1em 1em 1em;
-  }
+    }
   .floatRight img {
     display: block;
     max-width: 100%;
     height: auto;
   }
-  body {
-    text-align: justify;
-  }
 </style>
 #+end_export
 
-#+ATTR_HTML: :class floatRight :alt Daniel Tregeagle :title Daniel Tregeagle
+#+ATTR_HTML: :class floatRight :alt Daniel Tregeagle
 [[/photos/danielTregeaglePicture2.JPG]]
 
-*** Assistant Professor and Extension Specialist (promotion to Associate Professor with tenure effective August 15, 2026)
+*** Assistant Professor and Extension Specialist
+*(promotion to Associate Professor with tenure effective August 15, 2026)*
 
 I am an agricultural economist who helps growers, industry groups, agencies, and research teams use economic evidence to make better decisions about specialty crops, from technology adoption to markets, supply chains, and policy.
 
-I am an assistant professor and extension specialist in the [[https://cals.ncsu.edu/agricultural-and-resource-economics][Department of Agricultural and Resource Economics at North Carolina State University]]. My work focuses on the economics of specialty crops—fruits, vegetables, nuts, and ornamental plants—with a particular interest in perennial crop systems like orchards and vineyards.
+I work in the [[https://cals.ncsu.edu/agricultural-and-resource-economics][Department of Agricultural and Resource Economics at North Carolina State University]]. My program focuses on the economics of specialty crops (fruits, vegetables, nuts, and ornamental plants), with particular interest in perennial systems such as orchards and vineyards.
 
-My research applies economic methods to understand how specialty crop producers make adoption decisions about new technologies and varieties, while advancing economic theory for perennial crop management and supply response. This work addresses practical questions like how growers value disease-resistant plant varieties, optimal orchard replanting strategies, and the economics of controlled-environment agriculture.
+My research studies how specialty-crop producers respond to new technologies, varieties, markets, and policy. Much of this work focuses on perennial crops, where planting and replacement decisions shape production for many years. Recent projects examine disease-resistant varieties, orchard replanting, supply response, and controlled-environment agriculture.
 
-Through my extension program, I provide economic analysis directly to producers across the Southeast, including enterprise budgets for crops like strawberries, sweetpotatoes, and blackberries, market outlook presentations, and economic impact studies. Recent work includes co-leading the [[https://go.ncsu.edu/green-industry-impact][North Carolina Green Industry Impact Report]] delivered to the state legislature and contributing to the multi-state [[https://content.ces.ncsu.edu/southern-regional-strawberry-plasticulture-production-guide]["Southern Regional Strawberry Plasticulture Production Guide."]] I have reached over 1,300 stakeholders through presentations across the region.
+Through my extension program, I provide economic analysis for specialty-crop producers and Extension agents across the Southeast. This includes enterprise budgets for strawberries, sweetpotatoes, and blackberries; market outlook presentations; and economic impact studies.
 
-I hold a Ph.D. and M.S. in Agricultural and Resource Economics from the [[https://are.berkeley.edu][University of California, Berkeley]], and a Bachelor of Resource Economics (Hons. 1M) from the [[http://sydney.edu.au][University of Sydney, Australia]]. During my postdoctoral studies at the [[https://are.ucdavis.edu][Department of Agricultural and Resource Economics at UC Davis]], I contributed to interdisciplinary regulatory impact studies for the California Department of Food and Agriculture, analyzing the economic effects of proposed pesticide regulations on major agricultural commodities.
+Recent projects include co-leading the [[https://go.ncsu.edu/green-industry-impact][North Carolina Green Industry Impact Report]], delivered to the state legislature, and contributing to the multi-state [[https://content.ces.ncsu.edu/southern-regional-strawberry-plasticulture-production-guide][Southern Regional Strawberry Plasticulture Production Guide]]. I have reached more than 1,300 stakeholders through presentations across the region.
+
+I received my Ph.D. and M.S. in Agricultural and Resource Economics from [[https://are.berkeley.edu][UC Berkeley]] and my Bachelor of Resource Economics from the [[http://sydney.edu.au][University of Sydney]]. Before joining NC State, I was a postdoctoral researcher in Agricultural and Resource Economics at [[https://are.ucdavis.edu][UC Davis]], where I worked on interdisciplinary regulatory-impact studies for the California Department of Food and Agriculture.
 
 *Contact:* [[mailto:tregeagle@ncsu.edu][tregeagle@ncsu.edu]] · [[https://scholar.google.com/citations?user=PccgqYIAAAAJ&hl=en][Google Scholar]] · [[https://orcid.org/0000-0002-8863-2832][ORCID]]
 
@@ -306,13 +306,6 @@ More about this website.
   :ID:       b6ba0d2f-fd35-4dc4-921a-794c28beed5a
   :END:
 
-#+begin_export html
-<style>
-body {
-text-align: justify}
-</style>
-#+end_export
-
 [[/files/tregeagleCV_2026_03.pdf][Full CV]]
 
 * Extension
@@ -320,24 +313,17 @@ text-align: justify}
   :EXPORT_FILE_NAME: extension
   :END:
 
-#+begin_export html
-<style>
-body {
-text-align: justify}
-</style>
-#+end_export
+I provide practical economic analysis for specialty-crop growers, Extension agents, and industry groups. My extension work includes enterprise budgets, market outlooks, and economic impact analysis. For extension questions, reach me at [[mailto:tregeagle@ncsu.edu][tregeagle@ncsu.edu]].
 
-Practical economics for specialty-crop growers and agents, including enterprise budgets, market outlook, and impact analysis. For extension questions, reach me at [[mailto:tregeagle@ncsu.edu][tregeagle@ncsu.edu]].
-
-** Extension Articles
+** Extension articles
 
 *** [[/files/Specialty-Crops-in-2020-COVID-19-and-Other-Challenges.pdf][Specialty Crops in 2020: COVID-19 and Other Challenges]]
 
-In this Winter 2021 installment of the NC State Economist, Dr. Daniel Tregeagle highlights the impacts of Covid-19 on North Carolina's specialty crop producers and markets. He also reveals the results of a recent survey of caneberry growers on the trends, challenges and opportunities in their specialty crop sector.
+This article discusses how COVID-19 and other disruptions affected North Carolina specialty-crop producers and markets. It also summarizes survey results from caneberry growers on pricing, marketing, challenges, and opportunities.
 
 *** [[/files/Wei et al. - Estimated Cost of the Withdrawal of the Insecticid.pdf][Estimated Cost of the Withdrawal of the Insecticide Chlorpyrifos for Six Major California Crops]]
 
-In May 2019, the CA Department of Pesticide Regulation (DPR) initiated the cancellation of the pesticide chlorpyrifos. This article estimates the economic effects of cancellation on six major California crops. Statewide annual revenue losses are estimated at $11.5 million, averaged across acreage and pesticide use for three base years (2015–2017): $1.6 million for alfalfa, $0.6 million for almonds, $1 million for citrus, $7.1 million for cotton, $4.3 million for grapes, and $3.2 million for walnuts. In addition, gross revenue losses due to reduced cotton yields are estimated to be $6.3 million. Importantly, estimated losses are for only six crops. The total cost to California agriculture will be greater.
+This article estimates the economic effects of canceling chlorpyrifos use on six major California crops: alfalfa, almonds, citrus, cotton, grapes, and walnuts. We estimated annual revenue losses of $11.5 million across the six crops, plus $6.3 million in cotton yield losses. Because the study covered only six crops, the total cost to California agriculture would likely be larger.
 
 *** [[/files/Tregeagle_Zilberman_2018_Implications of Disrupting a Perennial Crop Replanting Cycle.pdf][Implications of Disrupting a Perennial Crop Replanting Cycle: The Brazilian Sugarcane Example]]
 
@@ -345,37 +331,30 @@ Brazilian sugarcane yields declined sharply in 2011, ending a decade-long expans
 
 *** [[/files/Blecker et al (2018) - Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in.pdf][Economic Value of the Herbicide Dacthal for Brassica and Allium Crops in California]]
 
-California review of the herbicide dacthal triggered by the requirements of California's Pesticide Contamination Prevention Act was conducted in 2018. This article estimates the economic effects a cancellation of dacthal's California registration would have on brassica and allium crops. Statewide net revenue losses for broccoli, dry onion, and cabbage, the largest users of dacthal, are estimated at $25.4 million: $17.9 million for broccoli, $2.4 million for cabbage, and $5.1 million for onion.
+In 2018, California reviewed the herbicide dacthal under the state's Pesticide Contamination Prevention Act. This article estimates how canceling dacthal's California registration would affect brassica and allium crops. The largest users are broccoli, cabbage, and dry onion.
 
 ** Reports
 
 *** [[/files/2020-Caneberry-Pricing-Survey-Report-Nov.pdf][A Report on NARBA's 2020 Pricing and Marketing Survey]]
 
-Caneberries: pricing and marketing survey results for members of the North American Raspberry and Blackberry Association.
+Pricing and marketing survey results for caneberry growers, surveyed by the North American Raspberry and Blackberry Association.
 
-* Applied & Policy Work
+* Applied and policy work
   :PROPERTIES:
   :EXPORT_FILE_NAME: applied
   :END:
 
-#+begin_export html
-<style>
-body {
-text-align: justify}
-</style>
-#+end_export
-
-I translate economic analysis into decisions for growers, agribusiness, and agencies.
+I help growers, agribusinesses, agencies, and industry groups use economic analysis to make production, investment, market, and policy decisions.
 
 ** How I can help
 
-- *Technology and variety adoption:* whether a new variety, input, or production system pays, and for whom.
-- *Specialty-crop market analysis:* demand, price, and outlook for fruits, vegetables, nuts, and ornamentals.
-- *Enterprise budgeting and cost of production:* what it costs to grow a crop, and where the margins are.
-- *Regulatory and policy impact analysis:* what a proposed rule or program would cost or save, by crop and region.
-- *Perennial-crop investment and replacement:* when to plant, replant, and replace orchards, vineyards, and cane.
-- *Supply-chain and processing economics:* how product moves from field to buyer, and where value is gained or lost.
-- *Decision tools and stakeholder presentations:* turning analysis into budgets, briefings, and tools growers and agents can use.
+- *Technology and variety adoption:* Evaluate whether a new variety, input, or production system pays, and for whom.
+- *Specialty-crop market analysis:* Analyze demand, prices, and outlook for fruits, vegetables, nuts, and ornamentals.
+- *Enterprise budgeting and cost of production:* Estimate production costs, returns, and key margins.
+- *Regulatory and policy impact analysis:* Estimate how proposed rules or programs affect costs, revenue, and risk by crop and region.
+- *Perennial-crop investment and replacement:* Analyze when to plant, replant, or replace orchards, vineyards, and cane.
+- *Supply-chain and processing economics:* Evaluate how products move from field to buyer, and where value is gained or lost.
+- *Decision tools and stakeholder presentations:* Turn analysis into budgets, briefings, and tools growers and agents can use.
 
 ** Selected projects
 
@@ -385,7 +364,7 @@ Quantified North Carolina's green-industry contribution for state legislators an
 
 *** Pesticide Withdrawal Cost Studies
 Estimated the revenue effects of proposed pesticide cancellations across major crops, to inform state regulatory decisions.
-/Methods:/ partial-budget and regulatory impact analysis.
+/Methods:/ partial budgeting, regulatory impact analysis, and cost estimation.
 
 *** Technology and Variety Adoption
 Estimated grower willingness-to-pay for disease resistance and new varieties, to guide breeding and product decisions.
@@ -407,24 +386,17 @@ TODO(daniel): wire up the one-page "Applied Agricultural Economist" résumé PDF
   :EXPORT_FILE_NAME: research
   :END:
 
-#+begin_export html
-<style>
-body {
-text-align: justify}
-</style>
-#+end_export
-
-My dissertation, [[/files/dissertationFinal.pdf][The dynamics of perennial crop production and processing]], focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
+My dissertation, [[/files/dissertationFinal.pdf][The Dynamics of Perennial Crop Production and Processing]], studied investment, yield, and processing decisions in perennial crop systems, with applications to Brazilian sugarcane and the biofuel industry.
 
 ** Research program
 
-My research applies economic methods to perennial and specialty-crop systems, organized around three themes. The publications below are the evidence for this program.
+My research applies economic methods to perennial and specialty-crop systems. The work is organized around three themes:
 
 - *Perennial-crop dynamics:* investment, replanting, and supply response in orchards, vineyards, and cane systems.
-- *Specialty-crop adoption and supply response:* how growers value new varieties and technologies, and how supply adjusts.
-- *Controlled-environment and emerging systems:* the economics of controlled-environment agriculture and new production systems.
+- *Specialty-crop adoption and supply response:* how growers value new varieties and technologies, and how those decisions affect production over time.
+- *Controlled-environment and emerging production:* the economics of controlled-environment agriculture and other new production technologies.
 
-** Peer-Reviewed Journal Articles
+** Peer-reviewed journal articles
 *** The influence of water conservation practices on US nurseries' decision to sell native plants
 (with Melinda Knuth, Alicia Rihn, Bridget Behe, Bryan Peterson, and Marco Palma) - Forthcoming at /HortScience/.
 
@@ -467,12 +439,12 @@ Willingness-to-pay (WTP) estimates help agribusinesses estimate whether a new pr
 
 /Abstract:/
 Neonicotinoid insecticides are widely used in agriculture, including in many California specialty crops. With mounting evidence that these insecticides are harmful to bees, state and national governments have increasingly regulated their use. The European Union, Canada, and United States have imposed use restrictions on several neonicotinoids, such as on the timing of applications. In 2020, California proposed a draft regulation to mitigate harm to managed pollinators from four nitroguanidine-substituted neonicotinoids (NGNs): clothianidin, dinotefuran, imidacloprid, and thiamethoxam. We use data on California pesticide use from 2015 to 2017 to analyze the economic and pest management implications of the 2020 draft proposed regulation for seven crops: almond, cherry, citrus, cotton, grape, strawberry, and tomato. From 2015 to 2017, these crops accounted for approximately 85% of total hectares treated with NGNs and 87% of NGN use by kilograms of active ingredient applied in treatments that would have been affected by the proposed regulation. These insecticides often primarily target Hemipteran insect pests. In most cases there are alternatives; however, these are often more expensive per hectare and do not have the same residual effectiveness as the NGNs, which are systemic insecticides. Overall, we estimate that pest management costs for these crops would have increased an estimated $13.6 million in 2015, $12.8 million in 2016, and $11.1 million in 2017 if the 2020 draft proposed regulation had been in effect, representing a 61% to 72% increase in the cost of managing the target pests.
-** Working Papers
+** Working papers
 *** Improving economic performance of vineyard establishment: PIVC grapevines can increase profits for growers
 (with Kyle A. Freedman and Mark Hoffmann) - Revise and resubmit at /American Journal of Enology and Viticulture/.
 *** Patterns of Sustainability Practices in North Carolina's Ornamental Horticulture Industry
 (with Nick Berenson, Amanda Solliday, and Melinda Knuth) - Revise and resubmit at /Choices/.
-*** U.S. Consumer's Perceptions of Undocumented Agricultural Labor
+*** U.S. Consumers' Perceptions of Undocumented Agricultural Labor
 (with Ben Campbell, Will Secor, and Samyam Shrestha) - Under review
 *** The Optimal Management of Orchards
 (with Leo Simon)
@@ -490,7 +462,7 @@ Perennial crops, particularly fruit and tree nut orchards, represent a high-valu
 (with Jung Hoon Han, Yue Shan, and Mark Hoffmann)
 *** The welfare effects of controlled environment propagation in the US strawberry nursery industry
 (with Jung Hoon Han and Yue Shan)
-** Works in Progress
+** Works in progress
 - State-space approaches to perennial crop supply response: An application to citrus greening in Florida (with Zoë Plakias and Greg Astill)
 - Measuring the potential impacts of further citrus greening spread on the US citrus industry with a dynamic EDM (with Zoë Plakias and Greg Astill)
 - Measuring grower willingness-to-pay for improvements in sweetpotato disease resistance (with Alice Kilduff)
@@ -505,18 +477,15 @@ Perennial crops, particularly fruit and tree nut orchards, represent a high-valu
   :EXPORT_FILE_NAME: teaching
   :END:
 
-#+begin_export html
-<style>
-body {
-text-align: justify}
-</style>
-#+end_export
-
 #+begin_comment
 Teaching page under construction
 #+end_comment
 
-My teaching experience stretches back to the second year of my undergraduate program. As a graduate student instructor (TA) at Berkeley, I received an Outstanding Graduate Student Instructor award, a Certificate of Teaching and Learning in Higher Education, and was invited to train new quantitative social science GSIs at a pre-semester, campus-wide teaching conference. As an undergraduate I served for three years as a Peer Assisted Study Session Facilitator (similar to TA) for introductory micro- and macroeconomics, during which time I received a 'Most Valuable Facilitator' award and helped develop a new anti-plagiarism module, the results of which I presented at a national conference. I will be pleased to provide a teaching portfolio, including a statement of teaching philosophy and student reviews, upon request. I currently teach masters-level microeconomics at NC State.
+I teach graduate microeconomics at NC State, with an emphasis on clear economic reasoning, mathematical modeling, and applied examples from agriculture and resource economics.
+
+My teaching experience began as an undergraduate peer-assisted study session facilitator for introductory economics and continued through graduate teaching at UC Berkeley. At Berkeley, I received an Outstanding Graduate Student Instructor Award, earned a Certificate of Teaching and Learning in Higher Education, and helped train new quantitative social science instructors at the campus-wide GSI teaching conference.
+
+Teaching materials, student reviews, and a full teaching portfolio are available on request.
 
 ** Certificate
 I received a [[https://gsi.berkeley.edu/programs-services/certificate-program/][Certificate of Teaching and Learning in Higher Education]] from UC Berkeley in 2017. The requirements of the certificate are:
@@ -534,14 +503,14 @@ I received a [[https://gsi.berkeley.edu/programs-services/certificate-program/][
 ** Awards
 
 - Outstanding Graduate Student Instructor Award, UC Berkeley, Fall 2013.
-- Most Valuable Facilitator Award (Facilitator's Choice), Peer-Assisted Students Sessions (PASS) Program, Winter Semester, 2009.
+- Most Valuable Facilitator Award (Facilitator's Choice), Peer-Assisted Study Sessions (PASS) Program, Winter Semester, 2009.
 
 ** Experience
 
 - Instructor, /Fundamentals of Microeconomics (ECG700)/, NC State, Fall 2020-21.
 - Instructor, Master of Development Practice Math Bootcamp, UC Berkeley, Summer 2014--2017 (4 summers).
 - Discipline-Cluster Workshop Leader for Quantitative Social Sciences, UC Berkeley GSI Teaching Conference, Spring 2017.
-- Teaching Assistant, /Dynamic Modeling/ (ARE 298; a 2 week intensive course) for Prof. Christian Traeger, April 2015.
+- Teaching Assistant, /Dynamic Modeling/ (ARE 298; a two-week intensive course) for Prof. Christian Traeger, April 2015.
 - Graduate Student Instructor, /Mathematical Methods for Agricultural and Resource Economics/ (ARE211) for Prof. Leo Simon, UC Berkeley, Fall 2014.
 - Graduate Student Instructor, /The Economics of Climate Change/ (EEP 175) for Prof. Christian Traeger, UC Berkeley, Fall 2013.
 - ARE Departmental Tutor, /Mathematical Tools for Economists/ (ECON 204), UC Berkeley, Summer 2013.
