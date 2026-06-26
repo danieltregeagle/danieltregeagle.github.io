@@ -9,6 +9,8 @@ body {
 text-align: justify}
 </style>
 
+Practical economics for specialty-crop growers and agents, including enterprise budgets, market outlook, and impact analysis. For extension questions, reach me at [tregeagle@ncsu.edu](mailto:tregeagle@ncsu.edu).
+
 
 ## Extension Articles {#extension-articles}
 
@@ -37,3 +39,5 @@ California review of the herbicide dacthal triggered by the requirements of Cali
 
 
 ### [A Report on NARBA's 2020 Pricing and Marketing Survey](/files/2020-Caneberry-Pricing-Survey-Report-Nov.pdf) {#a-report-on-narba-s-2020-pricing-and-marketing-survey}
+
+Caneberries: pricing and marketing survey results for members of the North American Raspberry and Blackberry Association.

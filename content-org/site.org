@@ -1,6 +1,7 @@
 #+title: Daniel Tregeagle Website
 #+author: Daniel Tregeagle
 #+hugo_base_dir: ../
+#+hugo_section: .
 #+STARTUP: content
 
 #+begin_src powershell :async t :results silent
@@ -326,6 +327,8 @@ text-align: justify}
 </style>
 #+end_export
 
+Practical economics for specialty-crop growers and agents, including enterprise budgets, market outlook, and impact analysis. For extension questions, reach me at [[mailto:tregeagle@ncsu.edu][tregeagle@ncsu.edu]].
+
 ** Extension Articles
 
 *** [[/files/Specialty-Crops-in-2020-COVID-19-and-Other-Challenges.pdf][Specialty Crops in 2020: COVID-19 and Other Challenges]]
@@ -348,6 +351,57 @@ California review of the herbicide dacthal triggered by the requirements of Cali
 
 *** [[/files/2020-Caneberry-Pricing-Survey-Report-Nov.pdf][A Report on NARBA's 2020 Pricing and Marketing Survey]]
 
+Caneberries: pricing and marketing survey results for members of the North American Raspberry and Blackberry Association.
+
+* Applied & Policy Work
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: applied
+  :END:
+
+#+begin_export html
+<style>
+body {
+text-align: justify}
+</style>
+#+end_export
+
+I translate economic analysis into decisions for growers, agribusiness, and agencies.
+
+** How I can help
+
+- *Technology and variety adoption:* whether a new variety, input, or production system pays, and for whom.
+- *Specialty-crop market analysis:* demand, price, and outlook for fruits, vegetables, nuts, and ornamentals.
+- *Enterprise budgeting and cost of production:* what it costs to grow a crop, and where the margins are.
+- *Regulatory and policy impact analysis:* what a proposed rule or program would cost or save, by crop and region.
+- *Perennial-crop investment and replacement:* when to plant, replant, and replace orchards, vineyards, and cane.
+- *Supply-chain and processing economics:* how product moves from field to buyer, and where value is gained or lost.
+- *Decision tools and stakeholder presentations:* turning analysis into budgets, briefings, and tools growers and agents can use.
+
+** Selected projects
+
+*** Green Industry Economic Impact
+Quantified North Carolina's green-industry contribution for state legislators and industry stakeholders.
+/Methods:/ economic impact analysis, stakeholder reporting.
+
+*** Pesticide Withdrawal Cost Studies
+Estimated the revenue effects of proposed pesticide cancellations across major crops, to inform state regulatory decisions.
+/Methods:/ partial-budget and regulatory impact analysis.
+
+*** Technology and Variety Adoption
+Estimated grower willingness-to-pay for disease resistance and new varieties, to guide breeding and product decisions.
+/Methods:/ survey design, discrete choice, willingness-to-pay analysis.
+
+*** Perennial-Crop Investment
+Modeled orchard and cane replacement and replanting dynamics, to inform long-run investment timing.
+/Methods:/ dynamic optimization, supply response.
+
+** Skills and methods
+
+Economic impact analysis, cost-benefit analysis, enterprise budgeting, market analysis, technology-adoption modeling, survey design, discrete choice and willingness-to-pay, supply response, regulatory impact analysis, scenario analysis, stakeholder communication.
+
+** Applied résumé                                                  :noexport:
+TODO(daniel): wire up the one-page "Applied Agricultural Economist" résumé PDF as a link in this section once the file exists in =static/files/=.
+
 * Research
   :PROPERTIES:
   :EXPORT_FILE_NAME: research
@@ -361,6 +415,15 @@ text-align: justify}
 #+end_export
 
 My dissertation, [[/files/dissertationFinal.pdf][The dynamics of perennial crop production and processing]], focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
+
+** Research program
+
+My research applies economic methods to perennial and specialty-crop systems, organized around three themes. The publications below are the evidence for this program.
+
+- *Perennial-crop dynamics:* investment, replanting, and supply response in orchards, vineyards, and cane systems.
+- *Specialty-crop adoption and supply response:* how growers value new varieties and technologies, and how supply adjusts.
+- *Controlled-environment and emerging systems:* the economics of controlled-environment agriculture and new production systems.
+
 ** Peer-Reviewed Journal Articles
 *** The influence of water conservation practices on US nurseries' decision to sell native plants
 (with Melinda Knuth, Alicia Rihn, Bridget Behe, Bryan Peterson, and Marco Palma) - Forthcoming at /HortScience/.
@@ -513,3 +576,6 @@ Home value statement, research program lead-in, and Applied & Policy Work copy a
 
 ** TODO Explore PaperMod profile mode for themed social icons after the 2026-06 edits land
 Currently contact links are inline text on the home page. Profile mode (or home-info mode) would render themed Google Scholar, ORCID, and email icons, but restructures the bio homepage. Worth a look once this update is published.
+
+** TODO Decide whether to tighten the Extension pesticide-study summaries and group by commodity
+The four California pesticide-study summaries were left at full length, and commodity grouping was skipped because the current items do not map cleanly to NC commodities. Revisit if a more scannable, grower-facing layout is wanted.

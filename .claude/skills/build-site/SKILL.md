@@ -58,6 +58,8 @@ The script auto-initializes the PaperMod theme submodule on first run if it is m
 
 ## Notes
 
+- **Page section:** `site.org` sets `#+hugo_section: .` so every page subtree exports to `content/` root. Without it, ox-hugo's default `org-hugo-section` (`posts`) would send pages to `content/posts/`. Do not remove this keyword.
+
 - Local Hugo is newer than CI (CI pins 0.147.2 in `.github/workflows/hugo.yaml`). Local
   builds may emit Hugo deprecation warnings (e.g. `languageCode`) that CI does not; these
   are warnings, not failures.

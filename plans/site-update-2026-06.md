@@ -23,9 +23,11 @@ After finishing a task: tick its box, add a one-line **Session Log** entry, upda
 
 **Status legend:** `[ ]` todo · `[~]` in progress · `[x]` done · `[!]` blocked (see Decisions) · `keep`
 
-**Current position:** ▶ Phases 1–2 done + verified locally on branch `site-update-2026-06` (uncommitted). Surfaced D6 (social icons). Next: Phases 3–5 (Applied page, research lead-in, extension), pending Daniel's nod on the home-page approach.
+**Current position:** ▶ All phases (1–5) drafted, built, and verified locally on branch `site-update-2026-06`. Awaiting Daniel's review of the drafted prose; **do not push to `master` until reviewed** (D3). Open: D7 (extension tightening, deferred) and the `:noexport:` TODOs (title flip, résumé PDF, project-card figures, profile-mode exploration).
 
 ### Session Log (newest first)
+- 2026-06-26 · I3,I4,I5,X1 · Applied & Policy Work page + nav, research program lead-in, extension lead line + NARBA summary. **Found + fixed** ox-hugo default-section bug (`#+hugo_section: .`). Cleaned stale `content/posts/` mis-exports. Full local build verified. D7 deferred.
+- 2026-06-26 · I1,I2 · Home correctness pass + value statement. Found PaperMod social icons need profile/home-info mode; used inline links (D6).
 - 2026-06-26 · P0 · Toolchain verified (Hugo 0.163.3 extended, Emacs 29.4, ox-hugo installed). Theme submodule checked out. `build-site` skill authored + tested (export = zero diff). All required PaperMod social icons confirmed present. Source spec archived. Plan finalized.
 - 2026-06-26 · bootstrap · Plan authored from DRAFT spec.
 
@@ -39,6 +41,7 @@ Five scoped changes to danieltregeagle.com, sequenced lowest-risk first: (1) a c
 
 - **Toolchain works locally.** Hugo `v0.163.3` extended + Emacs 29.4 + `ox-hugo-20250212.310` installed. PaperMod theme submodule now checked out. `build-site` skill runs export→build/serve; batch export reproduces committed `content/` byte-for-byte (zero git diff).
 - **Org source:** single file `content-org/site.org`. **Export mode: subtree** — each page is a top-level heading with `:EXPORT_FILE_NAME:` (e.g. `research` → `content/research.md`). New pages = new subtrees.
+- **Section fix (important):** ox-hugo's default `org-hugo-section` is `posts`, so a headless batch export sent every page except `_index` to `content/posts/` (gitignored, so it never deployed but broke local preview of those pages). Fixed by adding `#+hugo_section: .` to the `site.org` header, so all page subtrees export to `content/` root. Batch export now reproduces unedited pages (cv, teaching) with zero diff.
 - **Hugo config:** `config.toml` holds `[params]`, `[[params.socialIcons]]`, and `[[menu.main]]` nav. **Menu lives in config, not org.** Current weights: Home 1, Research 2, Teaching 3, Extension 4, CV 5.
 - **Social icons present in this PaperMod:** `email`, `googlescholar`, `orcid`, `linkedin`, `researchgate` all exist in `themes/PaperMod/layouts/partials/svg.html`. No custom SVG needed.
 - **Email already published & resolved:** `config.toml` has a `socialIcons` `email` → `mailto:tregeagle@ncsu.edu`. Use this address wherever a contact is needed; no TODO.
@@ -71,18 +74,18 @@ All unconfirmed claims and deferred work are tracked as **real org `TODO` headin
 - [x] **I2 — Value statement.** Drafted one-sentence plain-English lead added under the title, above the bio (intact). Held for Daniel's review (D3). _Status:_ `[x]`
 
 ### Phase 3 — Item 3: Applied & Policy Work page
-- [ ] **I3.a — Scaffold page + nav.** New `site.org` subtree `:EXPORT_FILE_NAME: applied`, title "Applied & Policy Work". Add `[[menu.main]]` in `config.toml` weight 5; renumber CV to 6 → order Home, Research, Teaching, Extension, Applied & Policy Work, CV. _Status:_ `[ ]`
-- [ ] **I3.b — Page content.** Lead line, "How I can help" problem-framed list, 3–5 project cards (title → outcome sentence → `Methods:` line), Skills/methods block. Unknown figures omitted, tracked as `:noexport:` TODOs (D4). `Methods:`/`Skills:` framing on this page only. _Status:_ `[ ]`
-- [ ] **I3.c — Résumé link target.** Add a `:noexport:` TODO for the résumé PDF (PDF itself out of scope). _Status:_ `[ ]`
+- [x] **I3.a — Scaffold page + nav.** New `:EXPORT_FILE_NAME: applied` subtree; menu order verified Home, Research, Teaching, Extension, Applied & Policy Work, CV. _Status:_ `[x]`
+- [x] **I3.b — Page content.** Lead line + "How I can help" + 4 project cards (decision-led, `Methods:` lines) + Skills block. Figures omitted per D4. Rendered + verified. _Status:_ `[x]`
+- [x] **I3.c — Résumé link target.** Placeholder as a `:noexport:` child in the applied subtree (verified not exported); tracking TODO in the TODO subtree. _Status:_ `[x]`
 
 ### Phase 4 — Item 4: Research page theme lead-in
-- [ ] **I4 — Research program intro.** 2–3 theme headings + one-sentence descriptions above the publication list. **Do not reorder/remove publications.** Group existing pubs under themes only if low-effort. Themes tracked as `:noexport:` TODO (D3) until confirmed. _Status:_ `[ ]`
+- [x] **I4 — Research program intro.** Added a "Research program" section with 3 themes above the (untouched) publication list. Drafted; held for review. _Status:_ `[x]`
 
 ### Phase 5 — Item 5: Extension page for its audience
-- [ ] **I5 — Extension audience pass.** Grower-facing lead line (using `tregeagle@ncsu.edu`); tighten each item to a one-sentence plain summary leading with the crop; optional commodity subheadings if clean; confirm narrow-width rendering. _Status:_ `[ ]`
+- [x] **I5 — Extension audience pass.** Added grower-facing lead line (with `tregeagle@ncsu.edu`) and a one-line summary for the NARBA report. **Deferred (D7):** aggressively tightening the four CA pesticide-study summaries to one sentence each, and commodity grouping — both would cut Daniel's existing detail and the CA studies don't map to NC commodities, so left for his call. Page is responsive text/PDF links, no wide tables. _Status:_ `[x]`
 
 ### Phase 6 — Final verification
-- [ ] **X1 — Full build + review.** Run `build-site`, review all changed pages rendered (nav order, icons, alt text, mobile width), confirm `git diff content/` matches intent, hand Daniel the open TODOs. _Status:_ `[ ]`
+- [x] **X1 — Full build + review (local).** Built clean (14 pages); nav order, applied page, alt text, research themes, extension lead all verified; `git diff content/` shows only intended changes; cv/teaching zero churn. Remaining: Daniel's review of drafted prose, then push. _Status:_ `[x]`
 
 ## 4. Method / per-task protocol
 
@@ -112,6 +115,7 @@ All unconfirmed claims and deferred work are tracked as **real org `TODO` headin
 | D5 | Nav label "Applied & Policy Work" as written? | **resolved → "Applied & Policy Work"** (2026-06-26) |
 
 | D6 | Themed home-page social icons require enabling PaperMod profile/home-info mode. | **resolved → keep inline links now; explore profile mode after these edits land** (2026-06-26) |
+| D7 | Tighten the four Extension CA pesticide-study summaries to one sentence each + commodity grouping? | open → deferred to Daniel (`:noexport:` TODO) |
 
 **Publishing gate (D3):** all edits stay on the working branch and are previewed locally. Do **not** push to `master` (which auto-deploys) until Daniel reviews the drafted prose.
 

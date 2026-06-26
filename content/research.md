@@ -12,6 +12,15 @@ text-align: justify}
 My dissertation, [The dynamics of perennial crop production and processing](/files/dissertationFinal.pdf), focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
 
 
+## Research program {#research-program}
+
+My research applies economic methods to perennial and specialty-crop systems, organized around three themes. The publications below are the evidence for this program.
+
+-   **Perennial-crop dynamics:** investment, replanting, and supply response in orchards, vineyards, and cane systems.
+-   **Specialty-crop adoption and supply response:** how growers value new varieties and technologies, and how supply adjusts.
+-   **Controlled-environment and emerging systems:** the economics of controlled-environment agriculture and new production systems.
+
+
 ## Peer-Reviewed Journal Articles {#peer-reviewed-journal-articles}
 
 
