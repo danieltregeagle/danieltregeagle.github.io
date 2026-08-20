@@ -15,17 +15,63 @@ My dissertation, [The dynamics of perennial crop production and processing](/fil
 ## Peer-Reviewed Journal Articles {#peer-reviewed-journal-articles}
 
 
-### The influence of water conservation practices on US nurseries' decision to sell native plants {#the-influence-of-water-conservation-practices-on-us-nurseries-decision-to-sell-native-plants}
+### [The welfare effects of controlled environment propagation in the US strawberry nursery industry](https://doi.org/10.22004/ag.econ.370410) {#the-welfare-effects-of-controlled-environment-propagation-in-the-us-strawberry-nursery-industry}
 
-(with Melinda Knuth, Alicia Rihn, Bridget Behe, Bryan Peterson, and Marco Palma) - Forthcoming at _HortScience_.
+(with Jung Hoon Han and Yue Shan) - Forthcoming at _Journal of Agricultural and Resource Economics_.
+
+
+### [Economic Contributions of the Green Industry in the United States in 2023](https://doi.org/10.24266/0738-2898-44.2.68) {#economic-contributions-of-the-green-industry-in-the-united-states-in-2023}
+
+(with Melinda Knuth, Alan Hodges, Charles R. Hall, and Hayk Khachatryan) - _Journal of Environmental Horticulture_, 2026, 44(2), 68--75.
 
 _Abstract:_
-Native plants are becoming a highly demanded horticulture product due to the general public’s interest and government policies promoting them. As a result, plant growers are increasingly incorporating native plants into their plant offerings. But, what business and environmental factors influence grower adoption of native plants? This gap in the literature is addressed through an investigation of U.S. grower survey data from 2013 and 2018 using a zero- one-inflated-beta (ZOIB) model. Results indicate that some key factors such as water sources and type of plant products influence the likelihood of native plants adoption across the models, but variables such as rainfall and population density around business location do not. These results have important implications for policies that promote the growth of native plants and prospective horticultural industry growers.
+The economic contributions of the green industry in the United States were estimated for eight sectors in 2023 using information on industry employment and wages, and economic multipliers from a U.S. IMPLAN economic model. Total direct industry output was estimated at $223 billion (B), and total output contributions, including indirect and induced regional economic multiplier effects, were $520 B. The total value-added contribution to Gross Domestic Product (GDP) was $303 B, including labor income contributions of $175 B, other property income contributions of $106 B, and taxes paid to local, state, and federal governments of $69.1 B. The industry had direct employment of 1.48 million full-time and part-time individuals, and total employment contributions of 2.95 million jobs in the broader economy. Since the previous study for 2018, overall green industry contributions increased by 12.5% for employment, 20.8% for labor income, 14.9% for output, and 31.1% for GDP in inflation-adjusted terms. Although the growth has moderated, the green industry expanded strongly during the COVID-19 pandemic, and remains an essential contributor to national, state, and local economies. These findings provide benchmarks for policymakers and industry stakeholders and underscore the importance of the U.S. green industry’s role as a driver of regional development.
+
+
+### [The USDA-SCRI CucCAP Projects: Building Genomic, Breeding and Disease Management Tools for Cucurbit Crops](https://doi.org/10.21273/JASHS05562-25) {#the-usda-scri-cuccap-projects-building-genomic-breeding-and-disease-management-tools-for-cucurbit-crops}
+
+(with Rebecca Grumet, Zhangjun Fei, Amnon Levi, Michael Mazourek, James McCreight, Lina Quesada-Ocampo, Yiqun Weng, Sandra Branham, Mary Hausbeck, Anthony Keinath, Shaker Kousik, Melinda Knuth, Angela Linares Ramirez, Kai-Shu Ling, Cecilia McGregor, Geoffrey Meru, Marco Palma, Umesh Reddy, Luis Ribera, Jonathan Schultheis, Christine Smart, Patrick Wechter, Todd Wehner, Linda Wessel-Beaver, William Wintermantel, and Shan Wu) - _Journal of the American Society for Horticultural Science_, 2026, 151(2), 126--146.
+
+_Abstract:_
+Cucurbit crops including watermelon (Citrullus lanatus), melon (Cucumis melo), cucumber (Cucumis sativus), squash, and pumpkin (Cucurbita spp.) make important nutritional and flavorful contributions to the human diet. The primary challenge for US cucurbit production is disease caused by numerous fungal, oomycete, bacterial, and viral pathogens that reduce crop yield and quality and engender costly control measures. The USDA National Institute of Food and Agriculture–Specialty Crop Research Initiative funded CucCAP (Cucurbit Coordinated Agricultural Project) projects “CucCAP: Leveraging applied genomics to improve disease resistance in cucurbit crops” and “CucCAP2: Harnessing genomic resources for disease resistance and management in cucurbit crops–Bringing the tools to the field” brought together members of the cucurbit community across the country with expertise in genomics, bioinformatics, breeding, genetics, plant pathology, integrated disease management, and economics to address these disease challenges. Collectively, the projects produced extensive genomic resources and bioinformatic tools including genome assemblies and pan-genomes for cucurbit species; genetically characterized the full US National Plant Germplasm System (NPGS) collections for watermelon, melon, cucumber, and squash; developed deeply resequenced core populations for these crops; identified single nucleotide polymorphism and structural variants; and developed the Cucurbit Genomics database (CuGenDB, <http://cucurbitgenomics.org/v2/>). New sources of resistance were identified for 17 cucurbit crop/disease combinations; quantitative trait loci were mapped and molecular markers developed for 24 combinations; and 15 breeding lines with resistances to various diseases were released. New detection methodology was developed for several pathogens; extensive disease monitoring and multilocation disease management trials and resistance tests were performed; a centralized web portal (<https://cuccap.org>) was developed to provide cucurbit disease information in English and Spanish; and disease management information was shared with growers, commodity groups and industry organizations through publications and presentations at conferences, field days, and extension schools delivered at more than 100 venues in 24 states. The CucCAP projects were carried out through joint efforts among 26 university and USDA coinvestigators and their research groups along with valued input and assistance from NPGS cucurbit crop curators, seed industry collaborators, cucurbit growers, external evaluators, and international collaborators. In addition to the specific genomic, breeding, and disease management outputs, the CucCAP projects have had broader impacts including use of the new genomic tools to provide insights into cucurbit biology, synergistic effects resulting from a more cohesive cucurbit community, and scientific training of a cadre of students and postdoctoral researchers.
+
+
+### [Conditioning Pre-Plant Grapevines Using Controlled Environment Agriculture Can Reduce Vineyard Establishment Time](https://doi.org/10.5344/ajev.2025.25012) {#conditioning-pre-plant-grapevines-using-controlled-environment-agriculture-can-reduce-vineyard-establishment-time}
+
+(with Kyle A. Freedman and Mark Hoffmann) - _American Journal of Enology and Viticulture_, 2026, 77, 0770004.
+
+_Abstract:_
+**Background and goals:** The manipulation of supplemental light and environmental conditions in greenhouses has been shown to increase grapevine size and fruiting capacity prior to transplanting and presents an opportunity for advanced starter plant material. The goal of this study was to conduct an economic analysis on Precise Indoor Vine Conditioning (PIVC) as a proof-of-concept system to optimize nursery production of grapevines.
+
+**Methods and key findings:** Research costs from a PIVC study were organized into a crop budget. Using net present value (NPV) and data from existing commercial crop budgets, we modeled the grower profitability of establishing a new vineyard with PIVC vines in three grape production systems in the United States. In addition, we calculated the price premium for a PIVC vine beyond the cost of a conventional starter vine and used sensitivity analysis (with research costs as an input) to identify the most promising avenues for increasing profitability of PIVC vine production for a nursery. NPV analysis revealed that variety and region have a strong impact on production system profitability and the use of PIVC vines can be more profitable than conventional systems for Cabernet Sauvignon in the San Joaquin and Napa Valleys, CA. The price premium a grower may be willing to pay for a PIVC vine beyond the cost of a conventional vine was $0.52 to $7.43 for Cabernet Sauvignon in the San Joaquin Valley and $6.92 to $31.18 in the Napa Valley.
+
+**Conclusions and significance:** PIVC vines have the potential to reduce costs and increase returns for growers during the early years of vine establishment, thereby increasing profit. The PIVC system can also be profitable for grapevine nurseries with reductions in production costs that come at commercial scale and increased vine density.
+
+
+### [The California Strawberry Nursery Industry: Overview, Challenges, and the Prospects of Controlled Environment Agriculture](https://doi.org/10.1080/15538362.2026.2614139) {#the-california-strawberry-nursery-industry-overview-challenges-and-the-prospects-of-controlled-environment-agriculture}
+
+(with Yue Shan, Jung Hoon Han, and Mark Hoffmann) - _International Journal of Fruit Science_, 2026, 26(1), 2614139.
+
+_Abstract:_
+California produces nearly 90% of U.S. strawberries, and its nursery industry supplies transplants to growers nationwide and globally. This study combines a literature review with interviews from three California nursery firms to examine industry challenges and evaluate whether Controlled Environment Agriculture (CEA) technology could complement existing propagation systems. The sector faces mounting pressures including disease risks, labor shortages, supply chain complexity, climate variability affecting chilling accumulation, and uncertainty surrounding potential methyl bromide phase-out. While CEA systems are integrated into European strawberry nurseries, California’s use remains limited to early propagation stages. Evidence suggests CEA technologies could potentially reduce disease transmission and weather-related vulnerabilities at certain supply chain points. However, significant barriers limit adoption, including high capital requirements, skilled labor scarcity, challenges scaling to meet production volumes, and insufficient economic data. While CEA may offer targeted applications as a complementary tool, fundamental questions about scalability, economics, and integration into existing production systems require further research.
+
+
+### [Patterns of Sustainability Practices in North Carolina's Ornamental Horticulture Industry](https://www.choicesmagazine.org/UserFiles/file/cmsarticle_1002.pdf) {#patterns-of-sustainability-practices-in-north-carolina-s-ornamental-horticulture-industry}
+
+(with Nick Berenson, Amanda Solliday, and Melinda Knuth) - _Choices_, 2025, 40(4), 1--6.
+
+
+### [The influence of water conservation practices on US nurseries' decision to sell native plants](https://doi.org/10.21273/HORTSCI18472-25) {#the-influence-of-water-conservation-practices-on-us-nurseries-decision-to-sell-native-plants}
+
+(with Melinda Knuth, Alicia Rihn, Bridget Behe, Bryan Peterson, and Marco Palma) - _HortScience_, 2025, 60(8), 1359--1365.
+
+_Abstract:_
+Native plants are becoming a highly demanded horticulture product because of the general public’s interest and government policies promoting them. As a result, plant growers are increasingly incorporating native plants in their plant offerings. But, what business and environmental factors influence grower adoption of native plants? This gap in the literature is addressed through an investigation of US grower survey data from 2013 and 2018 using a zero-one-inflated beta model. Results indicate that some key factors such as water sources and type of plant products influence the likelihood of native plant adoption across the models, but variables such as rainfall and population density around business locations do not. These results have important implications for policies that promote the growth of native plants and prospective horticultural industry growers.
 
 
 ### [A Diamond in the Rough: Identifying Heritage Crop Niche Markets in the U.S. Using a Discrete Choice Experiment](https://doi.org/10.1111/agec.70043) {#a-diamond-in-the-rough-identifying-heritage-crop-niche-markets-in-the-u-dot-s-dot-using-a-discrete-choice-experiment}
 
-(with Yefan Nian, R. David Lamie, Michael Vassalos, Ben Boyles, and Diana Vossbrinck) - _Agricultural Economics_, 2025.
+(with Yefan Nian, R. David Lamie, Michael Vassalos, Ben Boyles, and Diana Vossbrinck) - _Agricultural Economics_, 2025, 56(6), 940--960.
 
 _Abstract:_
 Heritage crops are grown from open-pollinated old cultivars and are considered significant in their connection to human culture and food systems. Although developing market opportunities and promoting their production can be an effective strategy to conserve them, little is known about US consumers' awareness, interest, and preferences for them. In this study, we conducted a national survey and used a discrete choice experiment with five different crops (i.e., apple, cabbage, rice, squash, and tomato) to systematically investigate US consumers' preferences for heritage crops. We found that US consumers' awareness of heritage crops is limited. Their willingness-to-pays (WTPs) for these crops are relatively modest and vary between heirloom crops, which emphasize the legacy and time aspects of the crops, and heritage crops, which demonstrate the cultural and historical aspects of the crops. However, consumers' WTPs for heritage crops appear consistent across US regions and consumers' residency areas (i.e., cities, suburbs, and rural areas). Only a few consumers' lifestyle variables tend to be correlated to their WTPs. The findings of this study provide substantial empirical evidence to help farmers identify marketing opportunities for heritage crops and examine the feasibility of using a market-driven approach to conserve heritage crops in the United States.
@@ -80,19 +126,9 @@ Neonicotinoid insecticides are widely used in agriculture, including in many Cal
 ## Working Papers {#working-papers}
 
 
-### Improving economic performance of vineyard establishment: PIVC grapevines can increase profits for growers {#improving-economic-performance-of-vineyard-establishment-pivc-grapevines-can-increase-profits-for-growers}
-
-(with Kyle A. Freedman and Mark Hoffmann) - Revise and resubmit at _American Journal of Enology and Viticulture_.
-
-
-### Patterns of Sustainability Practices in North Carolina's Ornamental Horticulture Industry {#patterns-of-sustainability-practices-in-north-carolina-s-ornamental-horticulture-industry}
-
-(with Nick Berenson, Amanda Solliday, and Melinda Knuth) - Revise and resubmit at _Choices_.
-
-
 ### U.S. Consumer's Perceptions of Undocumented Agricultural Labor {#u-dot-s-dot-consumer-s-perceptions-of-undocumented-agricultural-labor}
 
-(with Ben Campbell, Will Secor, and Samyam Shrestha) - Under review
+(with Ben Campbell, Will Secor, and Samyam Shrestha) - Under review at _Agriculture and Human Values_.
 
 
 ### The Optimal Management of Orchards {#the-optimal-management-of-orchards}
@@ -104,28 +140,19 @@ _Abstract_:
 Perennial crops, particularly fruit and tree nut orchards, represent a high-value sector in global agriculture, yet the theory of optimal management with production smoothing preferences in multi-age-class orchards remains unresolved. While previous analyses examine either single-tree models or multi-age orchards without production smoothing, we analyze orchards where growers prefer stable production over time and must manage trees of multiple ages simultaneously. This paper characterizes optimal tree replacement strategies and their long-run dynamics: when to replace trees and whether to replace them simultaneously or partially, and how orchards evolve toward steady-state management patterns. We first extend existing two-age-class models by characterizing complete transition dynamics, correcting an omission in previous work, and developing comparative statics for optimal cycle amplitude. We then introduce a three-age-class model that provides the first complete convergence characterization for orchards with non-monotonic yield curves and production smoothing preferences. For both models, we prove that optimally managed orchards exhibit cyclical production patterns with partial rather than simultaneous replacement, and demonstrate finite-time convergence: arbitrary initial age distributions converge to optimal cycles within two periods (two-age-class) or a bounded number of periods (three-age-class). We identify a 'cycle region' where initial allocations immediately generate optimal cycles. Our results are applicable to other point-input, flow-output capital assets with non-monotonic productivity.
 
 
-### Predicting perennial crop yields using the replant rate: The case of sugarcane in Brazil {#predicting-perennial-crop-yields-using-the-replant-rate-the-case-of-sugarcane-in-brazil}
+### Disease, Yield Decline, and Perennial Supply Response: Evidence from Florida Orange Production {#disease-yield-decline-and-perennial-supply-response-evidence-from-florida-orange-production}
+
+
+### [The Impact of the Replant Rate on Perennial Crop Yields: The Case of Sugarcane in Brazil](/files/230821sugarcaneReplanting.pdf) {#the-impact-of-the-replant-rate-on-perennial-crop-yields-the-case-of-sugarcane-in-brazil}
 
 (with David Zilberman)
 
 
-### The opportunities and challenges of adopting controlled environment technology in the US strawberry nursery industry {#the-opportunities-and-challenges-of-adopting-controlled-environment-technology-in-the-us-strawberry-nursery-industry}
-
-(with Jung Hoon Han, Yue Shan, and Mark Hoffmann)
-
-
-### The welfare effects of controlled environment propagation in the US strawberry nursery industry {#the-welfare-effects-of-controlled-environment-propagation-in-the-us-strawberry-nursery-industry}
-
-(with Jung Hoon Han and Yue Shan)
-
-
 ## Works in Progress {#works-in-progress}
 
--   State-space approaches to perennial crop supply response: An application to citrus greening in Florida (with Zoë Plakias and Greg Astill)
 -   Measuring the potential impacts of further citrus greening spread on the US citrus industry with a dynamic EDM (with Zoë Plakias and Greg Astill)
 -   Measuring grower willingness-to-pay for improvements in sweetpotato disease resistance (with Alice Kilduff)
 -   Estimating costs and returns to controlled environment strawberry nurseries (with Yue Shan, Mark Hoffmann and Ricardo Hernandez)
--   Consumer Preferences for Heritage Crops (with Dave Lamie, Michael Vassalos, Yefan Nian, Diana Vossbrink, and Ben Boyles)
 -   USDA Cost of Production Estimates for NC Blueberry and Grape Industry (with Derek Washburn and Cassie Scanlan)
 
 {{< figure src="/photos/sweetpotato_figurine.jpg" >}}

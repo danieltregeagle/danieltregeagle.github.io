@@ -23,9 +23,9 @@ draft = false
 {{< figure src="/photos/danielTregeaglePicture2.JPG" class="floatRight" >}}
 
 
-## Assistant Professor and Extension Specialist {#assistant-professor-and-extension-specialist}
+## Associate Professor and Extension Specialist {#associate-professor-and-extension-specialist}
 
-I am an assistant professor and extension specialist in the [Department of Agricultural and Resource Economics at North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics). My work focuses on the economics of specialty crops—fruits, vegetables, nuts, and ornamental plants—with a particular interest in perennial crop systems like orchards and vineyards.
+I am an associate professor and extension specialist in the [Department of Agricultural and Resource Economics at North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics). My work focuses on the economics of specialty crops—fruits, vegetables, nuts, and ornamental plants—with a particular interest in perennial crop systems like orchards and vineyards.
 
 My research applies economic methods to understand how specialty crop producers make adoption decisions about new technologies and varieties, while advancing economic theory for perennial crop management and supply response. This work addresses practical questions like how growers value disease-resistant plant varieties, optimal orchard replanting strategies, and the economics of controlled-environment agriculture.
 
