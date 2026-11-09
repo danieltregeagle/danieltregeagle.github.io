@@ -1,0 +1,95 @@
+/* Site-wide tweaks layered on the Anatole theme. */
+
+/* The profile photo now lives in the sidebar, so hide the duplicate
+   floated photo that the home page subtree of site.org still emits. */
+.floatRight {
+  display: none;
+}
+
+/* ---- Typography: one face, one body size, darker text ---------------- */
+
+.post__content,
+.post__content h1,
+.post__content h2,
+.post__content h3,
+.post__content h4 {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.post__content {
+  font-size: 16px;
+  font-weight: 400;
+  /* Pages set body { text-align: justify } inline; ragged-right reads more
+     evenly, especially for long coauthor lists. */
+  text-align: left;
+}
+
+.theme--light .post__content {
+  color: #242424;
+}
+
+.post__content p,
+.post__content li {
+  font-size: 1em;
+  line-height: 1.7;
+}
+
+/* ---- Headings --------------------------------------------------------- */
+
+.post__content h1,
+.post__content h2,
+.post__content h3,
+.post__content h4 {
+  text-align: left;
+  letter-spacing: 0;
+}
+
+/* Section headings (Peer-Reviewed Journal Articles, Reports, ...) */
+.post__content h2 {
+  font-size: 1.35em;
+  font-weight: 500;
+  margin: 2.2em 0 0.4em;
+}
+
+/* Each paper title is an org heading; render it at body size so an entry
+   reads as one compact block: title, then its details right underneath. */
+.post__content h3 {
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 1.6em 0 0.1em;
+}
+
+/* The theme sizes the link inside h3 separately (2rem); follow the heading. */
+.post__content h3 a {
+  font-size: inherit;
+}
+
+/* Paper titles are links: show them in the theme's link colour (#6086b4)
+   instead of the heading colour. `html.theme--*` outranks the theme's
+   `.theme--* .post .post__content h3 a` rule in both light and dark mode. */
+html.theme--light .post .post__content h3 a,
+html.theme--dark .post .post__content h3 a {
+  color: #6086b4;
+}
+
+html.theme--light .post .post__content h3 a:hover,
+html.theme--dark .post .post__content h3 a:hover {
+  text-decoration: underline;
+}
+
+.post__content h3 + p {
+  margin-top: 0;
+}
+
+/* Abstract toggles sit tight under their entry. */
+.post__content details {
+  margin: 0.1em 0 0;
+}
+
+/* Sidebar name: smaller so it wraps less on narrow sidebars. */
+.sidebar__introduction-title h1,
+.sidebar__introduction-title a {
+  font-size: 1.6rem;
+  line-height: 1.3;
+}

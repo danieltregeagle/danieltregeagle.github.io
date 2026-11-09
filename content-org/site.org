@@ -328,19 +328,22 @@ text-align: justify}
 
 *** [[https://sat-wp.afpc.tamu.edu/2025/07/11/preserving-americas-heritage-crops-low-consumer-awareness-makes-market-based-conservation-challenging/][Preserving America's Heritage Crops: Low Consumer Awareness Makes Market-Based Conservation Challenging]]
 
-(with Yefan Nian, Dave Lamie, and Michael Vassalos) - /Southern Ag Today/ 5(28.5), July 11, 2025.
+/Southern Ag Today/ 5(28.5), July 11, 2025. \\
+(with Yefan Nian, Dave Lamie, and Michael Vassalos)
 
 Heritage crops, grown from open-pollinated old cultivars, carry cultural, culinary, and biodiversity value, but they can cost more to grow than modern alternatives, so growers need a price premium to make them a profitable choice. A national consumer survey finds that more than half of U.S. consumers are unaware or only slightly aware of heritage varieties, and awareness in the Southeast is no higher than the national average—a critical challenge for conserving these crops through market-based strategies. Consumers show a moderate willingness to pay a premium for heritage rice and tomato, but are less inclined to pay more for heritage apple, cabbage, and squash.
 
 *** [[https://content.ces.ncsu.edu/southern-regional-strawberry-plasticulture-production-guide][Southern Regional Strawberry Production Guide]]
 
-(with Mark Hoffmann, Amanda McWhirt, Jayesh Samtani, Christle Moore, Guido Schnabel, Hannah Dankbar, Gina Fernandez, Chip Simmons, Penelope Perkins-Veazie, Barclay Poling, David Lockwood, Roy Flanagan, Erin Eure, Kathryn Holmes, Rebecca Melanson, Kristin Hicks, Aaron Cato, and Sanjun Gu) - NC State Extension, 2024, AG-645.
+NC State Extension, 2024, AG-645. \\
+(with Mark Hoffmann, Amanda McWhirt, Jayesh Samtani, Christle Moore, Guido Schnabel, Hannah Dankbar, Gina Fernandez, Chip Simmons, Penelope Perkins-Veazie, Barclay Poling, David Lockwood, Roy Flanagan, Erin Eure, Kathryn Holmes, Rebecca Melanson, Kristin Hicks, Aaron Cato, and Sanjun Gu)
 
 A multi-state extension guide to annual hill plasticulture strawberry production in the Southeastern United States, drawing on twenty authors from the region's land-grant universities and Cooperative Extension services. Alongside chapters on varieties, plant establishment, nutrient and water management, and pest and disease management, it includes sections on general marketing and the economics of strawberry production.
 
 *** Economic and Pest Management Evaluation of the Proposed Regulation of Nitroguanidine-Substituted Neonicotinoid Insecticides: Six Major California Commodities
 
-(with Yanan Zheng, Rachael Goodhue, Kevi Mace, Jess Rudder, Tor Tolhurst, Hanlin Wei, Beth Grafton-Cardwell, Ian Grettenberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, Monique Rivera, and John Steggall) - /ARE Update/ 26(6), 2023, 9--11. University of California Giannini Foundation of Agricultural Economics.
+/ARE Update/ 26(6), 2023, 9--11. University of California Giannini Foundation of Agricultural Economics. \\
+(with Yanan Zheng, Rachael Goodhue, Kevi Mace, Jess Rudder, Tor Tolhurst, Hanlin Wei, Beth Grafton-Cardwell, Ian Grettenberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, Monique Rivera, and John Steggall)
 
 A summary for policymakers and industry of the projected pest management cost increases from California's proposed regulation of nitroguanidine-substituted neonicotinoid insecticides across six major California commodities.
 
@@ -364,7 +367,8 @@ California review of the herbicide dacthal triggered by the requirements of Cali
 
 *** [[https://go.ncsu.edu/green-industry-impact][North Carolina Green Industry Impact Report 2023--2024]]
 
-(with Melinda Knuth and Rajan Parajuli) - Submitted to the North Carolina Joint Legislative Oversight Committee on Agriculture and Natural Resources, January 17, 2025.
+Submitted to the North Carolina Joint Legislative Oversight Committee on Agriculture and Natural Resources, January 17, 2025. \\
+(with Melinda Knuth and Rajan Parajuli)
 
 An assessment of the economic contribution of North Carolina's green industry, prepared for the state legislature.
 
@@ -394,23 +398,27 @@ details[open] > summary {
 My dissertation, [[/files/dissertationFinal.pdf][The dynamics of perennial crop production and processing]], focused on the economics of perennial crop production, with applications to Brazilian sugarcane and the expansion of the Brazilian biofuel industry.
 ** Peer-Reviewed Journal Articles
 *** [[https://doi.org/10.22004/ag.econ.370410][The welfare effects of controlled environment propagation in the US strawberry nursery industry]]
-(with Jung Hoon Han and Yue Shan) - Forthcoming at /Journal of Agricultural and Resource Economics/.
+Forthcoming at /Journal of Agricultural and Resource Economics/. \\
+(with Jung Hoon Han and Yue Shan)
 *** [[https://doi.org/10.24266/0738-2898-44.2.68][Economic Contributions of the Green Industry in the United States in 2023]]
-(with Melinda Knuth, Alan Hodges, Charles R. Hall, and Hayk Khachatryan) - /Journal of Environmental Horticulture/, 2026, 44(2), 68--75.
+/Journal of Environmental Horticulture/, 2026, 44(2), 68--75. \\
+(with Melinda Knuth, Alan Hodges, Charles R. Hall, and Hayk Khachatryan)
 
 #+attr_shortcode: :summary Abstract
 #+begin_collapse
 The economic contributions of the green industry in the United States were estimated for eight sectors in 2023 using information on industry employment and wages, and economic multipliers from a U.S. IMPLAN economic model. Total direct industry output was estimated at $223 billion (B), and total output contributions, including indirect and induced regional economic multiplier effects, were $520 B. The total value-added contribution to Gross Domestic Product (GDP) was $303 B, including labor income contributions of $175 B, other property income contributions of $106 B, and taxes paid to local, state, and federal governments of $69.1 B. The industry had direct employment of 1.48 million full-time and part-time individuals, and total employment contributions of 2.95 million jobs in the broader economy. Since the previous study for 2018, overall green industry contributions increased by 12.5% for employment, 20.8% for labor income, 14.9% for output, and 31.1% for GDP in inflation-adjusted terms. Although the growth has moderated, the green industry expanded strongly during the COVID-19 pandemic, and remains an essential contributor to national, state, and local economies. These findings provide benchmarks for policymakers and industry stakeholders and underscore the importance of the U.S. green industry’s role as a driver of regional development.
 #+end_collapse
 *** [[https://doi.org/10.21273/JASHS05562-25][The USDA-SCRI CucCAP Projects: Building Genomic, Breeding and Disease Management Tools for Cucurbit Crops]]
-(with Rebecca Grumet, Zhangjun Fei, Amnon Levi, Michael Mazourek, James McCreight, Lina Quesada-Ocampo, Yiqun Weng, Sandra Branham, Mary Hausbeck, Anthony Keinath, Shaker Kousik, Melinda Knuth, Angela Linares Ramirez, Kai-Shu Ling, Cecilia McGregor, Geoffrey Meru, Marco Palma, Umesh Reddy, Luis Ribera, Jonathan Schultheis, Christine Smart, Patrick Wechter, Todd Wehner, Linda Wessel-Beaver, William Wintermantel, and Shan Wu) - /Journal of the American Society for Horticultural Science/, 2026, 151(2), 126--146.
+/Journal of the American Society for Horticultural Science/, 2026, 151(2), 126--146. \\
+(with Rebecca Grumet, Zhangjun Fei, Amnon Levi, Michael Mazourek, James McCreight, Lina Quesada-Ocampo, Yiqun Weng, Sandra Branham, Mary Hausbeck, Anthony Keinath, Shaker Kousik, Melinda Knuth, Angela Linares Ramirez, Kai-Shu Ling, Cecilia McGregor, Geoffrey Meru, Marco Palma, Umesh Reddy, Luis Ribera, Jonathan Schultheis, Christine Smart, Patrick Wechter, Todd Wehner, Linda Wessel-Beaver, William Wintermantel, and Shan Wu)
 
 #+attr_shortcode: :summary Abstract
 #+begin_collapse
 Cucurbit crops including watermelon (Citrullus lanatus), melon (Cucumis melo), cucumber (Cucumis sativus), squash, and pumpkin (Cucurbita spp.) make important nutritional and flavorful contributions to the human diet. The primary challenge for US cucurbit production is disease caused by numerous fungal, oomycete, bacterial, and viral pathogens that reduce crop yield and quality and engender costly control measures. The USDA National Institute of Food and Agriculture–Specialty Crop Research Initiative funded CucCAP (Cucurbit Coordinated Agricultural Project) projects “CucCAP: Leveraging applied genomics to improve disease resistance in cucurbit crops” and “CucCAP2: Harnessing genomic resources for disease resistance and management in cucurbit crops–Bringing the tools to the field” brought together members of the cucurbit community across the country with expertise in genomics, bioinformatics, breeding, genetics, plant pathology, integrated disease management, and economics to address these disease challenges. Collectively, the projects produced extensive genomic resources and bioinformatic tools including genome assemblies and pan-genomes for cucurbit species; genetically characterized the full US National Plant Germplasm System (NPGS) collections for watermelon, melon, cucumber, and squash; developed deeply resequenced core populations for these crops; identified single nucleotide polymorphism and structural variants; and developed the Cucurbit Genomics database (CuGenDB, http://cucurbitgenomics.org/v2/). New sources of resistance were identified for 17 cucurbit crop/disease combinations; quantitative trait loci were mapped and molecular markers developed for 24 combinations; and 15 breeding lines with resistances to various diseases were released. New detection methodology was developed for several pathogens; extensive disease monitoring and multilocation disease management trials and resistance tests were performed; a centralized web portal (https://cuccap.org) was developed to provide cucurbit disease information in English and Spanish; and disease management information was shared with growers, commodity groups and industry organizations through publications and presentations at conferences, field days, and extension schools delivered at more than 100 venues in 24 states. The CucCAP projects were carried out through joint efforts among 26 university and USDA coinvestigators and their research groups along with valued input and assistance from NPGS cucurbit crop curators, seed industry collaborators, cucurbit growers, external evaluators, and international collaborators. In addition to the specific genomic, breeding, and disease management outputs, the CucCAP projects have had broader impacts including use of the new genomic tools to provide insights into cucurbit biology, synergistic effects resulting from a more cohesive cucurbit community, and scientific training of a cadre of students and postdoctoral researchers.
 #+end_collapse
 *** [[https://doi.org/10.5344/ajev.2025.25012][Conditioning Pre-Plant Grapevines Using Controlled Environment Agriculture Can Reduce Vineyard Establishment Time]]
-(with Kyle A. Freedman and Mark Hoffmann) - /American Journal of Enology and Viticulture/, 2026, 77, 0770004.
+/American Journal of Enology and Viticulture/, 2026, 77, 0770004. \\
+(with Kyle A. Freedman and Mark Hoffmann)
 
 #+attr_shortcode: :summary Abstract
 #+begin_collapse
@@ -421,23 +429,27 @@ Cucurbit crops including watermelon (Citrullus lanatus), melon (Cucumis melo), c
 *Conclusions and significance:* PIVC vines have the potential to reduce costs and increase returns for growers during the early years of vine establishment, thereby increasing profit. The PIVC system can also be profitable for grapevine nurseries with reductions in production costs that come at commercial scale and increased vine density.
 #+end_collapse
 *** [[https://doi.org/10.1080/15538362.2026.2614139][The California Strawberry Nursery Industry: Overview, Challenges, and the Prospects of Controlled Environment Agriculture]]
-(with Yue Shan, Jung Hoon Han, and Mark Hoffmann) - /International Journal of Fruit Science/, 2026, 26(1), 2614139.
+/International Journal of Fruit Science/, 2026, 26(1), 2614139. \\
+(with Yue Shan, Jung Hoon Han, and Mark Hoffmann)
 
 #+attr_shortcode: :summary Abstract
 #+begin_collapse
 California produces nearly 90% of U.S. strawberries, and its nursery industry supplies transplants to growers nationwide and globally. This study combines a literature review with interviews from three California nursery firms to examine industry challenges and evaluate whether Controlled Environment Agriculture (CEA) technology could complement existing propagation systems. The sector faces mounting pressures including disease risks, labor shortages, supply chain complexity, climate variability affecting chilling accumulation, and uncertainty surrounding potential methyl bromide phase-out. While CEA systems are integrated into European strawberry nurseries, California’s use remains limited to early propagation stages. Evidence suggests CEA technologies could potentially reduce disease transmission and weather-related vulnerabilities at certain supply chain points. However, significant barriers limit adoption, including high capital requirements, skilled labor scarcity, challenges scaling to meet production volumes, and insufficient economic data. While CEA may offer targeted applications as a complementary tool, fundamental questions about scalability, economics, and integration into existing production systems require further research.
 #+end_collapse
 *** [[https://www.choicesmagazine.org/UserFiles/file/cmsarticle_1002.pdf][Patterns of Sustainability Practices in North Carolina's Ornamental Horticulture Industry]]
-(with Nick Berenson, Amanda Solliday, and Melinda Knuth) - /Choices/, 2025, 40(4), 1--6.
+/Choices/, 2025, 40(4), 1--6. \\
+(with Nick Berenson, Amanda Solliday, and Melinda Knuth)
 *** [[https://doi.org/10.21273/HORTSCI18472-25][The influence of water conservation practices on US nurseries' decision to sell native plants]]
-(with Melinda Knuth, Alicia Rihn, Bridget Behe, Bryan Peterson, and Marco Palma) - /HortScience/, 2025, 60(8), 1359--1365.
+/HortScience/, 2025, 60(8), 1359--1365. \\
+(with Melinda Knuth, Alicia Rihn, Bridget Behe, Bryan Peterson, and Marco Palma)
 
 #+attr_shortcode: :summary Abstract
 #+begin_collapse
 Native plants are becoming a highly demanded horticulture product because of the general public’s interest and government policies promoting them. As a result, plant growers are increasingly incorporating native plants in their plant offerings. But, what business and environmental factors influence grower adoption of native plants? This gap in the literature is addressed through an investigation of US grower survey data from 2013 and 2018 using a zero-one-inflated beta model. Results indicate that some key factors such as water sources and type of plant products influence the likelihood of native plant adoption across the models, but variables such as rainfall and population density around business locations do not. These results have important implications for policies that promote the growth of native plants and prospective horticultural industry growers.
 #+end_collapse
 *** [[https://doi.org/10.1111/agec.70043][A Diamond in the Rough: Identifying Heritage Crop Niche Markets in the U.S. Using a Discrete Choice Experiment]]
-(with Yefan Nian, R. David Lamie, Michael Vassalos, Ben Boyles, and Diana Vossbrinck) - /Agricultural Economics/, 2025, 56(6), 940--960.
+/Agricultural Economics/, 2025, 56(6), 940--960. \\
+(with Yefan Nian, R. David Lamie, Michael Vassalos, Ben Boyles, and Diana Vossbrinck)
 
 #+attr_shortcode: :summary Abstract
 #+begin_collapse
@@ -445,14 +457,16 @@ Heritage crops are grown from open-pollinated old cultivars and are considered s
 #+end_collapse
 
 *** [[https://doi.org/10.1002/jaa2.107][Developing Practical Measures of the Price of Pesticide Resistance: A Flexible Computational Framework with Global Sensitivity Analysis]]
-(with Chanheung Cho, Zachary Brown, and Kevin Gross) - /Journal of the Agricultural and Applied Economics Association/, 2024, 3(1), 212--227.
+/Journal of the Agricultural and Applied Economics Association/, 2024, 3(1), 212--227. \\
+(with Chanheung Cho, Zachary Brown, and Kevin Gross)
 
 #+attr_shortcode: :summary Abstract
 #+begin_collapse
 Pesticide resistance poses an increasing challenge for agricultural sustainability. Pesticide susceptibility is a depletable biological resource, but resistance management rarely quantifies marginal, forward-looking economic costs to users of depleting this resource. We use a generic stochastic bioeconomic model of pesticide resistance evolution in a crop pest population, stochastic dynamic programming, and global sensitivity analysis to analyze the 'marginal user costs' of resistance. The most impactful parameters on these costs are population density dependence and pesticide prices. Least impactful is the fitness cost of resistance, which is noteworthy because of prior emphasis on this parameter in the resistance management literature.
 #+end_collapse
 *** [[https://doi.org/10.1111/agec.12812][Estimating Perennial Crop Supply Response: A Methodology Literature Review]]
-(with Jonathon Siegle, Gregory Astill, and Zoë Plakias) - /Agricultural Economics/, 2024, 55(2), 159--180.
+/Agricultural Economics/, 2024, 55(2), 159--180. \\
+(with Jonathon Siegle, Gregory Astill, and Zoë Plakias)
 
 /Outstanding Published Paper which Significantly Contributed to the SCE Discipline, Specialty Crop Economics Section, Agricultural and Applied Economics Association, 2024./
 
@@ -461,14 +475,16 @@ Pesticide resistance poses an increasing challenge for agricultural sustainabili
 Perennial crops are important both economically and as a component of a healthy and nutritious diet (e.g., many fruits and nuts). However, the study of perennial crop production and farmer response to output price changes (i.e., supply response) is complex thanks to the dynamic nature of investment and decision making in these industries. The body of literature relevant to perennial crop supply response is also small relative to that of annual commodity crops. In this article, we contribute the first literature review on perennial crop supply response modeling in more than 30 years. We catalog advancements in estimating perennial crop supply response and discuss the application of these methods and trade-offs economists should be aware of when using them. In addition, we highlight future modeling developments that may be valuable to the field, with the hope this research will encourage additional economic research on this interesting and important topic and in turn provide new insights for perennial crop producers and policymakers.
 #+end_collapse
 *** [[https://doi.org/10.1017/aae.2023.21][Minimizing the costs of biorefinery processing by managing perennial crop age: The case of Brazilian sugarcane]]
-(with David Zilberman) - /Journal of Agricultural and Applied Economics/, 2023, 55(2), 376--398.
+/Journal of Agricultural and Applied Economics/, 2023, 55(2), 376--398. \\
+(with David Zilberman)
 
 #+attr_shortcode: :summary Abstract
 #+begin_collapse
 We develop and analyze an unexplored mechanism to reduce biorefinery supply chain costs when the feedstock is a perennial crop: adjusting the age structure, and hence yield, of the perennial feedstock. The non-monotonicity of the age-yield function introduces a non-convexity to the cost minimization problem. We show that, despite this, the problem has a solution and present analytic and numeric comparative statics, finding that larger refineries are most likely to benefit from optimizing age structure. The model is calibrated to the sugarcane industry in Brazil. The cost reductions from optimizing age, compared to the observed regional average age, are less than 1%.
 #+end_collapse
 *** [[https://doi.org/10.3390/horticulturae8040290][Willingness-to-Pay for Produce: A Meta-Regression Analysis Comparing the Stated Preferences of Producers and Consumers]]
-(with Alice Kilduff) - /Horticulturae/, 2022, 8(4), 290.
+/Horticulturae/, 2022, 8(4), 290. \\
+(with Alice Kilduff)
 
 /Featured Paper and Editor's Choice./
 
@@ -477,7 +493,8 @@ We develop and analyze an unexplored mechanism to reduce biorefinery supply chai
 Willingness-to-pay (WTP) estimates help agribusinesses estimate whether a new product is likely to be profitable. For produce, new products, such as new fruit varieties, need to be adopted by producers before they can be sold to consumers. The study of ex ante fruit and vegetable producer preferences is relatively new. This study uses meta-regression analysis to compare the estimated WTP premium between U.S. producers and consumers to determine whether they differ. After controlling for differences in study methods, product attributes, and potential publication bias, the producer WTP was between 14.16 and 27.73 percentage points higher. Subject to several caveats and limitations, this suggests that consumer WTP can be a sufficient metric for the profitability of new produce products.
 #+end_collapse
 *** [[https://doi.org/10.1093/jee/toab231][Balancing bees and pest management: Projected costs of proposed bee-protective neonicotinoid regulation in California]]
-(with Kevi Mace, Jessica Rudder, Rachael Goodhue, Tor Tolhurst, Hanlin Wei, Elizabeth Grafton-Cardwell, Ian Grettnberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, and John Steggall) - /Journal of Economic Entomology/, 2022, 115(1), 10--25.
+/Journal of Economic Entomology/, 2022, 115(1), 10--25. \\
+(with Kevi Mace, Jessica Rudder, Rachael Goodhue, Tor Tolhurst, Hanlin Wei, Elizabeth Grafton-Cardwell, Ian Grettnberger, Houston Wilson, Robert Van Steenwyk, Frank Zalom, and John Steggall)
 
 /Outstanding Published Paper which Significantly Contributed to Transdisciplinary Work or Specialty Crop Industries, Specialty Crop Economics Section, Agricultural and Applied Economics Association, 2022./
 
@@ -487,7 +504,8 @@ Neonicotinoid insecticides are widely used in agriculture, including in many Cal
 #+end_collapse
 ** Working Papers
 *** U.S. Consumer's Perceptions of Undocumented Agricultural Labor
-(with Ben Campbell, Will Secor, and Samyam Shrestha) - Under review at /Agriculture and Human Values/.
+Under review at /Agriculture and Human Values/. \\
+(with Ben Campbell, Will Secor, and Samyam Shrestha)
 *** The Optimal Management of Orchards
 (with Leo Simon)
 

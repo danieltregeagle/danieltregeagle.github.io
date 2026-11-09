@@ -1,21 +1,28 @@
 baseURL = "https://www.danieltregeagle.com/"
 relativeURLs = true
 canonifyURLs = true
-languageCode = "en-us"
+locale = "en-us"
 title = "Daniel Tregeagle, Ph.D."
-theme = "PaperMod"
+theme = "anatole"
 
 [params]
+  title = "Daniel Tregeagle, Ph.D."
   author = "Daniel Tregeagle"
-  # Enable or disable features in PaperMod as needed
-  ShowShareButtons = false
-  ShowReadingTime = false
-  ShowCodeCopyButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  defaultTheme = "auto"
-  customCSS = ["style.css"]
-  disableGoogleAnalytics = true
+  description = "Associate Professor and Extension Specialist\nAgricultural and Resource Economics\nNC State University"
+  profilePicture = "photos/danielTregeaglePicture2.JPG"
+  # No post list on the home page: these are all standalone pages.
+  mainSections = ["post"]
+  disableTitleCapitalization = true
+  doNotLoadAnimations = true
+  customCss = ["css/custom.css"]
+  googleFonts = ["Inter:wght@400;500;600"]
+  # Wider content column than the theme default (0.6)
+  contentratio = 0.66
+
+  [[params.socialIcons]]
+    icon = "fa-solid fa-envelope"
+    title = "Email"
+    url = "mailto:tregeagle@ncsu.edu"
 
 [markup]
   [markup.goldmark]
@@ -51,7 +58,3 @@ theme = "PaperMod"
     name = "CV"
     url = "/cv/"
     weight = 5
-
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:tregeagle@ncsu.edu"

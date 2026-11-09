@@ -22,8 +22,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.147.2"  # You can update as needed
+          hugo-version: "0.163.3"  # Anatole needs >= 0.158.0
           extended: true
+
+      - name: Install Dart Sass  # Anatole compiles its SCSS with Dart Sass
+        run: sudo snap install dart-sass
 
       - name: Build site
         run: hugo --minify

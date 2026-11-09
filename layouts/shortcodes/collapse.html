@@ -1,0 +1,7 @@
+{{- /* Theme-independent replacement for PaperMod's collapse shortcode.
+       Used by ox-hugo's #+begin_collapse blocks in content-org/site.org. */ -}}
+{{- if not (.Get "summary") }}{{ warnf "missing value for param 'summary': %s" .Position }}{{ end -}}
+<details class="collapse"{{ if eq (.Get "openByDefault") "true" }} open{{ end }}>
+  <summary>{{ .Get "summary" | .Page.RenderString }}</summary>
+  {{ .Inner | .Page.RenderString (dict "display" "block") }}
+</details>
