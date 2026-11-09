@@ -8,7 +8,7 @@ theme = "anatole"
 [params]
   title = "Daniel Tregeagle, Ph.D."
   author = "Daniel Tregeagle"
-  description = "Associate Professor and Extension Specialist\nAgricultural and Resource Economics\nNC State University"
+  description = "Associate Professor and\nExtension Specialist\nAgricultural and Resource Economics\nNC State University"
   profilePicture = "photos/danielTregeaglePicture2.JPG"
   # No post list on the home page: these are all standalone pages.
   mainSections = ["post"]
@@ -16,8 +16,10 @@ theme = "anatole"
   doNotLoadAnimations = true
   customCss = ["css/custom.css"]
   googleFonts = ["Inter:wght@400;500;600"]
-  # Wider content column than the theme default (0.6)
-  contentratio = 0.66
+  # Main column share of the page width (theme default 0.6); the sidebar gets
+  # the rest. The text itself is capped in custom.css, leaving white space
+  # to its right.
+  contentratio = 0.8
 
   [[params.socialIcons]]
     icon = "fa-solid fa-envelope"

@@ -50,21 +50,35 @@ hugo server -D -p 1313                    # local preview at http://localhost:13
 hugo --minify                             # production build into public/ (gitignored)
 ```
 
-`themes/PaperMod` is a git submodule. When it is not checked out, Hugo does **not** fail — it exits 0
-and emits only `found no layout file for "html"` warnings while writing contentless HTML (4 pages
-instead of 13). If a local preview looks blank, initialize the submodule rather than debugging the
+The theme is **Anatole** (`themes/anatole`, a git submodule pinned to tag v1.21.0). The old
+`themes/PaperMod` submodule is still present but unused; switch back by changing `theme =` in
+`config.toml`. When a theme submodule is not checked out, Hugo does **not** fail — with PaperMod
+it exited 0 with only `found no layout file for "html"` warnings and contentless HTML (4 pages
+instead of 13). If a local preview looks blank, initialize the submodules rather than debugging the
 templates.
 
-Version skew: CI pins Hugo `0.147.2` extended; the local install is newer (0.163.3) and warns that
-`languageCode` in `config.toml` is deprecated in favour of `locale`. Harmless locally, but don't
-"fix" it without checking the pinned CI version accepts the replacement.
+**Dart Sass is required.** Anatole compiles its SCSS with `toCSS` (transpiler `dartsass`), which
+Hugo does not bundle. Without a `sass` executable on PATH the build fails with `TOCSS-DART: failed
+to transform "/scss/main.scss"`. Locally the standalone Dart Sass lives in
+`C:\Users\dtregea\tools\dart-sass` (on the user PATH); CI installs it with `snap install
+dart-sass`. Hugo writes the compiled CSS cache to `resources/` (gitignored).
+
+Hugo version: CI pins `0.163.3` extended, matching the local install (Anatole needs >= 0.158).
+`config.toml` uses `locale`, not the deprecated `languageCode`.
 
 ## Conventions
 
-- **Styling.** `config.toml` declares `customCSS = ["style.css"]` but `static/style.css` does not
-  exist. All custom styling is inline `#+begin_export html <style>…</style>` at the top of each page
-  subtree (e.g. `body { text-align: justify }`, the `.floatRight` photo class on the home page). This
-  is why `markup.goldmark.renderer.unsafe = true` is required in `config.toml`.
+- **Styling.** Site-wide styling is `assets/css/custom.css` (Anatole's `params.customCss`; it must
+  live under `assets/`, not `static/`, because the theme loads it with `resources.Get`). It sets the
+  Inter font, ragged-right text, compact body-size paper titles, a 760px text column, and a sidebar
+  of 20% (`params.contentratio = 0.8`) with a 280px floor. Page-specific styling is still inline
+  `#+begin_export html <style>…</style>` at the top of each page subtree (e.g.
+  `body { text-align: justify }`, which custom.css overrides inside page content, and the
+  `.floatRight` home-page photo, which custom.css hides because the photo is in the sidebar). This is
+  why `markup.goldmark.renderer.unsafe = true` is required in `config.toml`.
+- **Abstract collapse.** `#+begin_collapse` blocks (`#+hugo_paired_shortcodes: collapse`) render
+  through the project's own `layouts/shortcodes/collapse.html` (`<details>`), so they work under
+  any theme.
 - **Assets.** PDFs go in `static/files/`, images in `static/photos/`. Link them from org as
   root-relative paths — `[[/files/paper.pdf][Title]]`, `[[/photos/pic.jpg]]`. (`../static/files/...`
   also exports correctly, but the root-relative form is the norm here.)
@@ -75,10 +89,12 @@ Version skew: CI pins Hugo `0.147.2` extended; the local install is newer (0.163
 - **Navigation** is hardcoded as `[[menu.main]]` entries in `config.toml`. A new page needs both a new
   org subtree *and* a menu entry.
 - Research/Extension entries follow a fixed shape: heading is the title (linked to a DOI or a
-  `/files/` PDF), then a `(with coauthors)` + journal line, then `/Abstract:/` and the abstract text.
+  `/files/` PDF), then the journal/outlet line ending in an org line break `\\`, then
+  `(with coauthors)` on the next line, then the abstract (Research: inside a `#+begin_collapse`
+  block with `#+attr_shortcode: :summary Abstract`; Extension: a plain paragraph).
 
 ## Deploy
 
-Push to `master` → `.github/workflows/hugo.yaml` checks out with `submodules: recursive`, runs
-`hugo --minify`, and deploys `public/` to GitHub Pages. `CNAME` maps the site to
+Push to `master` → `.github/workflows/hugo.yaml` checks out with `submodules: recursive`, installs
+Dart Sass, runs `hugo --minify`, and deploys `public/` to GitHub Pages. `CNAME` maps the site to
 `www.danieltregeagle.com`. There is no deploy step for the org export — see the pipeline note above.

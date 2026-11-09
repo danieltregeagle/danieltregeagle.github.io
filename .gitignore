@@ -4,6 +4,7 @@
 .Ruserdata
 
 /public/
+/resources/
 .hugo_build.lock
 \#*.org#
 .#*.org
